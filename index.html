@@ -1,1 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Journey Resource Catalog</title>
+    style.css
+</head>
+<body>
 
+    <h1>English Journey Resource Catalog</h1>
+
+    <input type="text" id="searchBox" placeholder="Search resources...">
+
+    <div id="catalog"></div>
+
+    <script>
+        fetch('resources.json')
+            .then(response => response.json())
+            .then(resources => {
+
+                const container = document.getElementById('catalog');
+
+                function render(data) {
+                    container.innerHTML = '';
+
+                    data.forEach(resource => {
+                        container.innerHTML += `
+                            <div class="card">
+                                <h2>${resource["Resource Name"]}</h2>
+
+                                <p><strong>CEFR:</strong> ${resource["CEFR Level"]}</p>
+                                <p><strong>Skill:</strong> ${resource["Skill"]}</p>
+                                <p><strong>Type:</strong> ${resource["Resource Type"]}</p>
+                                <p><strong>Duration:</strong> ${resource["Duration"]}</p>
+                                <p>${resource["Description"]}</p>
+
+                                ${resource[
+                                    Open Resource
+                                </a>
+                            </div>
+                        `;
+                    });
+                }
+
+                render(resources);
+
+                document
+                    .getElementById('searchBox')
+                    .addEventListener('input', e => {
+
+                        const text = e.target.value.toLowerCase();
+
+                        const filtered = resources.filter(r =>
+                            JSON.stringify(r)
+                            .toLowerCase()
+                            .includes(text)
+                        );
+
+                        render(filtered);
+                    });
+
+            });
+    </script>
+
+</body>
+</html>
