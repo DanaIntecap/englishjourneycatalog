@@ -1,7 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Journey Resource Catalog</title>
+<link rel="/head>
+
 <body>
-<h1>English Journey Catalog</h1>
-<p>Azure deployment test.</p>
+
+<h1>English Journey Resource Catalog</h1>
+
+<input
+    type="text"
+    id="search"
+    placeholder="Search resources..."
+>
+
+<div id="catalog"></div>
+
+<script>
+
+fetch("resources.json")
+.then(r => r.json())
+.then(resources => {
+
+    const catalog = document.getElementById("catalog");
+
+    function render(data){
+
+        catalog.innerHTML = "";
+
+        data.forEach(resource => {
+
+            catalog.innerHTML += `
+            <div class="card">
+
+                <h2>${resource.resourceName}</h2>
+
+                <p><strong>CEFR:</strong>
+                ${resource.cefr.join(", ")}</p>
+
+                <p><strong>Skill:</strong>
+                ${(["3","4"2: Te recomiendo este index.html validar que el JSON carga latform:</strong>
+                ${resource.platform || ""}</p>
+
+                <p><strong>Duration:</strong>
+                ${resource.duration || ""} min</p>
+
+                <p>${resource.description || ""}</p>
+
+                <aresource.url}
+                    Open Resource
+                </a>
+
+            </div>
+            `;
+        });
+
+    }
+
+    render(resources);
+
+    document
+      .getElementById("search")
+      .addEventListener("input", e => {
+
+        const text = e.target.value.toLowerCase();
+
+        const filtered = resources.filter(r =>
+            JSON.stringify(r)
+            .toLowerCase()
+            .includes(text)
+        );
+
+        render(filtered);
+
+      });
+
+});
+
+</script>
+
 </body>
 </html>
