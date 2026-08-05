@@ -1,1 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Generator</title>
+</head>
+<body>
 
+<button onclick="generate()">Generate knowledge.html</button>
+
+<script>
+
+async function generate() {
+
+    const resources = await fetch('resources.json')
+        .then(r => r.json());
+
+    let html = `
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>English Journey Knowledge Base</title>
+</head>
+<body>
+
+<h1>English Journey Resource Catalog</h1>
+
+`;
+
+    resources.forEach(r => {
+
+        html += `
+
+<h2>${r.resourceName || ''}</h2>
+
+<p><strong>CEFR Level:</strong> ${(r.cefr || []).join(', ')}</p>
+
+<p><strong>Skill:</strong> ${(r.skill || []).join(', ')}</p>
+
+<p><strong>Unit:</strong> ${(r.unit || []).join(', ')}</p>
+
+<p><strong>Platform:</strong> ${r.platform || ''}</p>
+
+<p><strong>Resource Type:</strong> ${r.resourceType || ''}</p>
+
+<p><strong>Duration:</strong> ${r.duration || ''} minutes</p>
+
+<p><strong>Description:</strong></p>
+
+<p>${r.description || ''}</p>
+
+<p><strong>URL:</strong></p>
+
+<p>${r.url || ''}</p>
+
+<hr>
+
+`;
+
+    });
+
+    html += `
+</body>
+</html>
+`;
+
+    const blob = new Blob([html], { type: 'text/html' });
+
+    const a = document.createElement('a');
+
+    a.href = URL.createObjectURL(blob);
+
+    a.download = "knowledge.html";
+
+    a.click();
+}
+
+</script>
+
+</body>
+</html>
