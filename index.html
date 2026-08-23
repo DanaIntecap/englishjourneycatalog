@@ -1,85 +1,67 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>English Journey Resource Catalog</title>
-<link rel="/head>
-
+    <meta charset="UTF-8">
+    <title>English Journey Catalog</title>
+    <!-- Aquí conectamos el CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
 <body>
 
-<h1>English Journey Resource Catalog</h1>
+    <h2>Buscador de Recursos</h2>
+    
+    <select id="levelFilter">
+        <option value="All">Todos los niveles</option>
+        <option value="A1">A1</option>
+        <option value="A2">A2</option>
+    </select>
+    
+    <select id="skillFilter">
+        <option value="All">Todas las habilidades</option>
+        <option value="Listening">Listening</option>
+        <option value="Speaking">Speaking</option>
+    </select>
+    
+    <button onclick="renderTable()">Filtrar</button>
 
-<input
-    type="text"
-    id="search"
-    placeholder="Search resources..."
->
+    <table id="catalogTable">
+        <thead>
+            <tr>
+                <th>Nombre del Recurso</th>
+                <th>Nivel</th>
+                <th>Skill</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
 
-<div id="catalog"></div>
-
-<script>
-
-fetch("resources.json")
-.then(r => r.json())
-.then(resources => {
-
-    const catalog = document.getElementById("catalog");
-
-    function render(data){
-
-        catalog.innerHTML = "";
-
-        data.forEach(resource => {
-
-            catalog.innerHTML += `
-            <div class="card">
-
-                <h2>${resource.resourceName}</h2>
-
-                <p><strong>CEFR:</strong>
-                ${resource.cefr.join(", ")}</p>
-
-                <p><strong>Skill:</strong>
-                ${(["3","4"2: Te recomiendo este index.html validar que el JSON carga latform:</strong>
-                ${resource.platform || ""}</p>
-
-                <p><strong>Duration:</strong>
-                ${resource.duration || ""} min</p>
-
-                <p>${resource.description || ""}</p>
-
-                <aresource.url}
-                    Open Resource
-                </a>
-
+    <div id="resourceModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2 id="modalTitle">Título</h2>
+            
+            <div class="ficha-section">
+                <strong>🎯 Objetivo de Aprendizaje:</strong>
+                <p id="modalObjective"></p>
             </div>
-            `;
-        });
+            <div class="ficha-section">
+                <strong>📝 Instrucciones:</strong>
+                <p id="modalInstructions"></p>
+            </div>
+            <div class="ficha-section">
+                <strong>💡 Variaciones:</strong>
+                <p id="modalVariations"></p>
+            </div>
+            
+            <a id="modalLink" href="#" target="_blank">
+                <button>Ir al Recurso</button>
+            </a>
+        </div>
+    </div>
 
-    }
-
-    render(resources);
-
-    document
-      .getElementById("search")
-      .addEventListener("input", e => {
-
-        const text = e.target.value.toLowerCase();
-
-        const filtered = resources.filter(r =>
-            JSON.stringify(r)
-            .toLowerCase()
-            .includes(text)
-        );
-
-        render(filtered);
-
-      });
-
-});
-
-</script>
-
+    <!-- Aquí conectamos los datos y luego la lógica -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>
