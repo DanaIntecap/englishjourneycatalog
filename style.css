@@ -1,35 +1,43 @@
-body{
-    font-family: Arial, sans-serif;
-    max-width: 1200px;
-    margin:auto;
-    padding:20px;
-    background:#f5f6f8;
+body { 
+    font-family: Arial, sans-serif; 
+    padding: 20px; 
 }
-
-h1{
-    text-align:center;
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 20px; 
 }
-
-#search{
-    width:100%;
-    padding:12px;
-    margin-bottom:20px;
+th, td { 
+    border: 1px solid #ddd; 
+    padding: 10px; 
+    text-align: left; 
 }
-
-.card{
-    background:white;
-    border-radius:10px;
-    padding:15px;
-    margin-bottom:15px;
-    box-shadow:0 2px 6px rgba(0,0,0,.1);
+th { 
+    background-color: #f4f4f4; 
 }
-
-.card h2{
-    margin-top:0;
+.modal {
+    display: none; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
 }
-
-.card a{
-    display:inline-block;
-    margin-top:10px;
+.modal-content {
+    background-color: white; 
+    margin: 10% auto; 
+    padding: 20px;
+    width: 60%; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
-``
+.close-btn { 
+    float: right; 
+    cursor: pointer; 
+    font-size: 20px; 
+    font-weight: bold; 
+}
+.ficha-section { 
+    margin-bottom: 15px; 
+}
