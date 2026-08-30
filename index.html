@@ -1,67 +1,57 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>English Journey Catalog</title>
-    <!-- Aquí conectamos el CSS -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Catálogo maestro de recursos educativos English Journey.">
+    <title>English Journey | Master Catalog</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;600;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-</head>
-<body>
+  </head>
+  <body>
+    <main class="catalog-shell">
+      <header class="hero">
+        <h1>ENGLISH JOURNEY</h1>
+        <p>Master Catalog</p>
+      </header>
 
-    <h2>Buscador de Recursos</h2>
-    
-    <select id="levelFilter">
-        <option value="All">Todos los niveles</option>
-        <option value="A1">A1</option>
-        <option value="A2">A2</option>
-    </select>
-    
-    <select id="skillFilter">
-        <option value="All">Todas las habilidades</option>
-        <option value="Listening">Listening</option>
-        <option value="Speaking">Speaking</option>
-    </select>
-    
-    <button onclick="renderTable()">Filtrar</button>
+      <section class="content">
+        <details class="teacher-guide">
+          <summary>📖 Ver Guía de Uso del Catálogo para Instructores</summary>
+          <div class="guide-content">
+            <h3>Objetivo del ecosistema</h3>
+            <p>English Journey reúne recursos internos y curados para que cada actividad sea fácil de localizar, implementar y reutilizar.</p>
+            <h3>Cómo usar los filtros</h3>
+            <ul>
+              <li>Seleccione un <strong>Nivel</strong> para ubicar recursos adecuados al grupo.</li>
+              <li>Seleccione una <strong>Unidad</strong> cuando desee vincular la práctica al avance curricular.</li>
+              <li>Seleccione una <strong>Habilidad</strong> para enfocar listening, reading, speaking, grammar u otra competencia.</li>
+              <li>Combine filtros o restablézcalos para volver a ver todo el catálogo.</li>
+            </ul>
+            <h3>Uso durante la sesión</h3>
+            <ul>
+              <li>Abra la actividad desde el botón <em>Ir a la actividad</em>.</li>
+              <li>Revise la ficha pedagógica incluida dentro de cada herramienta interactiva antes de proyectarla o asignarla.</li>
+              <li>Valide que el recurso responda al objetivo de aprendizaje de la clase.</li>
+            </ul>
+          </div>
+        </details>
 
-    <table id="catalogTable">
-        <thead>
-            <tr>
-                <th>Nombre del Recurso</th>
-                <th>Nivel</th>
-                <th>Skill</th>
-                <th>Acción</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
+        <section class="filters" aria-label="Filtros del catálogo">
+          <div class="filter-heading"><h2>Encuentra tu recurso</h2><button id="clearFilters" type="button">Limpiar filtros</button></div>
+          <div class="filter-controls">
+            <label>Nivel<select id="levelFilter"><option value="">Todos los niveles</option></select></label>
+            <label>Unidad<select id="unitFilter"><option value="">Todas las unidades</option></select></label>
+            <label>Habilidad<select id="skillFilter"><option value="">Todas las habilidades</option></select></label>
+          </div>
+        </section>
 
-    <div id="resourceModal" class="modal">
-        <div class="modal-content">
-            <span class="close-btn" onclick="closeModal()">&times;</span>
-            <h2 id="modalTitle">Título</h2>
-            
-            <div class="ficha-section">
-                <strong>🎯 Objetivo de Aprendizaje:</strong>
-                <p id="modalObjective"></p>
-            </div>
-            <div class="ficha-section">
-                <strong>📝 Instrucciones:</strong>
-                <p id="modalInstructions"></p>
-            </div>
-            <div class="ficha-section">
-                <strong>💡 Variaciones:</strong>
-                <p id="modalVariations"></p>
-            </div>
-            
-            <a id="modalLink" href="#" target="_blank">
-                <button>Ir al Recurso</button>
-            </a>
-        </div>
-    </div>
-
-    <!-- Aquí conectamos los datos y luego la lógica -->
-    <script src="catalog.js"></script>
-    <script src="app.js"></script>
-</body>
+        <p id="resultCount" class="result-count" aria-live="polite"></p>
+        <section id="catalogGrid" class="catalog-grid" aria-live="polite"></section>
+      </section>
+    </main>
+    <script src="app.js" defer></script>
+  </body>
 </html>
