@@ -1,13 +1,1032 @@
 [
-  {"id":2,"title":"Jeopardy verb to be","level":["A1"],"subLevel":["A1.1"],"unit":["7"],"skill":["Grammar"],"description":"Juego de preguntas y respuestas para repasar el verbo to be mediante competencia por equipos.","url":"https://jeopardylabs.com/play/verb-to-be","duration":"20–30 minutos","objective":"Reconocer y producir formas afirmativas, negativas e interrogativas del verbo to be en contextos cotidianos.","instructions":["Divida el grupo en equipos y explique las categorías y puntajes.","Permita que cada equipo elija una pregunta por turno.","Pida una respuesta completa y retroalimente la estructura antes de asignar puntos."],"variations":["Jugar individualmente como repaso diagnóstico.","Solicitar un ejemplo personal adicional después de cada respuesta."],"platform":"JeopardyLabs","resourceType":"Juego interactivo","tags":["verb to be","teamwork","review"],"active":true},
-  {"id":3,"title":"Verb to be speaking cards: Yes/No questions","level":["A1"],"subLevel":["A1.1"],"unit":[],"skill":["Speaking"],"description":"Tarjetas de conversación con preguntas de sí/no para responder en parejas o grupos pequeños.","url":"https://wordwall.net/resource/103831066/to-be-speaking-questions","duration":"15–20 minutos","objective":"Formular y responder preguntas Yes/No con el verbo to be usando información personal.","instructions":["Modele una pregunta y una respuesta completa.","Organice parejas y asigne turnos para abrir una tarjeta.","Circule, registre errores frecuentes y cierre con retroalimentación grupal."],"variations":["Pedir una pregunta de seguimiento por tarjeta.","Convertir las respuestas en un breve reporte sobre el compañero."],"platform":"Wordwall","resourceType":"Tarjetas interactivas","tags":["verb to be","yes/no questions","pair work"],"active":true},
-  {"id":4,"title":"Speaking practice: Meeting new people","level":["A1"],"subLevel":["A1.1","A1.2"],"unit":["2"],"skill":["Speaking","Listening"],"description":"Práctica oral con escucha, repetición y simulación de una conversación para presentarse.","url":"https://learnenglishteens.britishcouncil.org/skills/speaking/a1-speaking/meeting-people","duration":"25–35 minutos","objective":"Presentarse e intercambiar información personal básica con expresiones de saludo y despedida.","instructions":["Active los conocimientos previos sobre saludos y presentaciones.","Reproduzca el diálogo y complete las actividades de comprensión.","Forme parejas para representar y personalizar la conversación."],"variations":["Realizar rotación de parejas tipo speed meeting.","Grabar el diálogo para autoevaluar pronunciación y fluidez."],"platform":"British Council LearnEnglish Teens","resourceType":"Lección interactiva","tags":["introductions","dialogue","role play"],"active":true},
-  {"id":5,"title":"British Council's Tongue twisters","level":["A1","A2"],"subLevel":["A1.1","A1.2","A2.1","A2.2"],"unit":[],"skill":["Pronunciation","Speaking"],"description":"Colección con audio para practicar pronunciación, fluidez, ritmo y entonación.","url":"https://learnenglishkids.britishcouncil.org/fun-games/tongue-twisters","duration":"10–15 minutos","objective":"Mejorar la articulación, el ritmo y la confianza oral mediante repetición guiada.","instructions":["Seleccione un trabalenguas acorde con los sonidos meta.","Reproduzca el audio y analice ritmo y articulación.","Practique por fragmentos antes de aumentar gradualmente la velocidad."],"variations":["Hacer una competencia amistosa de claridad, no solo de velocidad.","Pedir a los estudiantes ilustrar o explicar el significado."],"platform":"British Council LearnEnglish Kids","resourceType":"Práctica de pronunciación","tags":["tongue twisters","pronunciation","fluency"],"active":true},
-  {"id":6,"title":"Verb to be: negative speaking cards","level":["A1"],"subLevel":[],"unit":[],"skill":["Grammar","Speaking"],"description":"Tarjetas interactivas para convertir oraciones afirmativas a negativas en parejas.","url":"https://wordwall.net/resource/52315347/english/to-be-is-am-are-make-negative-form","duration":"15–20 minutos","objective":"Transformar y producir correctamente oraciones negativas con am not, isn't y aren't.","instructions":["Repase las formas negativas y sus contracciones.","Muestre una tarjeta y modele la transformación completa.","Trabaje en parejas alternando lectura, transformación y verificación."],"variations":["Solicitar una corrección verdadera cuando la oración no describa al estudiante.","Usar las tarjetas como carrera de relevos por equipos."],"platform":"Wordwall","resourceType":"Tarjetas interactivas","tags":["verb to be","negative form","pair work"],"active":true},
-  {"id":7,"title":"Jeopardy verb to be: team review","level":["A1"],"subLevel":[],"unit":[],"skill":["Grammar"],"description":"Juego estilo Jeopardy para consolidar estructuras del verbo to be de forma colaborativa.","url":"https://jeopardylabs.com/play/verb-to-be","duration":"20–30 minutos","objective":"Consolidar el uso del verbo to be mediante recuperación rápida, explicación y corrección entre pares.","instructions":["Forme equipos equilibrados y establezca reglas de participación.","Alterne portavoces para asegurar participación amplia.","Pida que los equipos justifiquen sus respuestas antes de confirmar el puntaje."],"variations":["Usar pizarras pequeñas para respuestas simultáneas.","Asignar puntos extra por correcciones explicadas con claridad."],"platform":"JeopardyLabs","resourceType":"Juego interactivo","tags":["verb to be","collaborative review","game"],"active":true},
-  {"id":8,"title":"Verb to be speaking cards: personal information","level":["A1"],"subLevel":[],"unit":[],"skill":["Speaking"],"description":"Ocho tarjetas para formular y responder preguntas Yes/No sobre información personal.","url":"https://wordwall.net/resource/103831066/to-be-speaking-questions","duration":"15 minutos","objective":"Desarrollar fluidez al intercambiar información personal con preguntas y respuestas completas.","instructions":["Proyecte las tarjetas o comparta el enlace.","Pida a cada estudiante responder y luego devolver la pregunta.","Monitoree pronunciación, orden de palabras y respuestas cortas."],"variations":["Añadir respuestas falsas para que el compañero adivine.","Cerrar con tres datos aprendidos sobre otra persona."],"platform":"Wordwall","resourceType":"Tarjetas interactivas","tags":["personal information","questions","fluency"],"active":true},
-  {"id":9,"title":"Meeting new people: dialogue simulator","level":["A1"],"subLevel":[],"unit":[],"skill":["Speaking","Listening"],"description":"Simulador de presentaciones con repetición, comprensión y completación de diálogos.","url":"https://learnenglishteens.britishcouncil.org/skills/speaking/a1-speaking/meeting-people","duration":"20–30 minutos","objective":"Participar con seguridad en un primer encuentro usando fórmulas sociales frecuentes.","instructions":["Presente las expresiones clave antes de escuchar.","Complete las tareas de escucha y repetición con el grupo.","Asigne roles y permita ensayar antes de representar el encuentro."],"variations":["Cambiar el contexto a escuela, trabajo o evento social.","Retirar gradualmente el guion para promover producción espontánea."],"platform":"British Council LearnEnglish Teens","resourceType":"Simulador de diálogo","tags":["meeting people","functional language","simulation"],"active":true},
-  {"id":10,"title":"Speaking practice: Direct Questions","level":["A1","A2"],"subLevel":["A1.1","A1.2"],"unit":[],"skill":["Speaking"],"description":"Simulador para evaluaciones orales con práctica guiada y autoevaluación.","url":"https://yellow-field-0f4f9020f.7.azurestaticapps.net/?v=98","duration":"20–25 minutos","objective":"Responder preguntas directas con precisión, desarrollo suficiente y pronunciación comprensible.","instructions":["Explique los criterios de una respuesta oral efectiva.","Permita una ronda de práctica individual con el simulador.","Organice práctica por parejas y cierre con autoevaluación basada en criterios."],"variations":["Limitar el tiempo de preparación para simular una prueba.","Solicitar que el compañero formule una pregunta de seguimiento."],"platform":"Azure Static Web Apps","resourceType":"Simulador de evaluación","tags":["direct questions","oral assessment","self-assessment"],"active":true},
-  {"id":11,"title":"Speaking Cards for All English Journey","level":["A1","A2","B1"],"subLevel":["A1.1"],"unit":[],"skill":["Speaking"],"description":"Tarjetas de conversación por unidad para trabajo individual, en parejas o grupos.","url":"https://ashy-hill-0dc48000f.7.azurestaticapps.net/","duration":"15–30 minutos","objective":"Practicar de forma flexible las funciones comunicativas y el vocabulario de English Journey.","instructions":["Seleccione nivel, unidad y conjunto de tarjetas pertinente.","Modele el tipo de respuesta esperada y el tiempo de interacción.","Organice parejas o grupos y cierre con retroalimentación sobre fluidez y precisión."],"variations":["Usar una tarjeta como entrada o cierre de clase.","Asignar roles de hablante, interlocutor y observador."],"platform":"Azure Static Web Apps","resourceType":"Banco de tarjetas","tags":["conversation cards","curriculum","flexible practice"],"active":true},
-  {"id":12,"title":"Simple present speaking cards","level":["A1"],"subLevel":["A1.2"],"unit":[],"skill":["Speaking","Grammar"],"description":"Tarjetas sobre pasatiempos con preguntas abiertas, cerradas y How often.","url":"https://wordwall.net/resource/60000722/english/present-simple-speaking","duration":"15–20 minutos","objective":"Preguntar y responder sobre hábitos y pasatiempos usando el presente simple y adverbios de frecuencia.","instructions":["Repase auxiliares do/does y expresiones de frecuencia.","Modele una respuesta ampliada con razón o ejemplo.","Organice parejas para alternar preguntas y registrar coincidencias."],"variations":["Convertir respuestas en una encuesta de clase.","Pedir un reporte en tercera persona sobre el compañero."],"platform":"Wordwall","resourceType":"Tarjetas interactivas","tags":["simple present","hobbies","frequency"],"active":true}
+  {
+    "id": 2,
+    "title": "Jeopardy verb to be",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Juego de preguntas y respuestas para repasar el verbo to be mediante competencia por equipos.",
+    "url": "https://jeopardylabs.com/play/verb-to-be",
+    "duration": "20–30 minutos",
+    "objective": "Reconocer y producir formas afirmativas, negativas e interrogativas del verbo to be en contextos cotidianos.",
+    "instructions": [
+      "Divida el grupo en equipos y explique las categorías y puntajes.",
+      "Permita que cada equipo elija una pregunta por turno.",
+      "Pida una respuesta completa y retroalimente la estructura antes de asignar puntos."
+    ],
+    "variations": [
+      "Jugar individualmente como repaso diagnóstico.",
+      "Solicitar un ejemplo personal adicional después de cada respuesta."
+    ],
+    "platform": "JeopardyLabs",
+    "resourceType": "Juego interactivo",
+    "tags": [
+      "verb to be",
+      "teamwork",
+      "review"
+    ],
+    "active": true
+  },
+  {
+    "id": 3,
+    "title": "Verb to be speaking cards: Yes/No questions",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [],
+    "skill": [
+      "Speaking"
+    ],
+    "description": "Tarjetas de conversación con preguntas de sí/no para responder en parejas o grupos pequeños.",
+    "url": "https://wordwall.net/resource/103831066/to-be-speaking-questions",
+    "duration": "15–20 minutos",
+    "objective": "Formular y responder preguntas Yes/No con el verbo to be usando información personal.",
+    "instructions": [
+      "Modele una pregunta y una respuesta completa.",
+      "Organice parejas y asigne turnos para abrir una tarjeta.",
+      "Circule, registre errores frecuentes y cierre con retroalimentación grupal."
+    ],
+    "variations": [
+      "Pedir una pregunta de seguimiento por tarjeta.",
+      "Convertir las respuestas en un breve reporte sobre el compañero."
+    ],
+    "platform": "Wordwall",
+    "resourceType": "Tarjetas interactivas",
+    "tags": [
+      "verb to be",
+      "yes/no questions",
+      "pair work"
+    ],
+    "active": true
+  },
+  {
+    "id": 4,
+    "title": "Speaking practice: Meeting new people",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1",
+      "A1.2"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Speaking",
+      "Listening"
+    ],
+    "description": "Práctica oral con escucha, repetición y simulación de una conversación para presentarse.",
+    "url": "https://learnenglishteens.britishcouncil.org/skills/speaking/a1-speaking/meeting-people",
+    "duration": "25–35 minutos",
+    "objective": "Presentarse e intercambiar información personal básica con expresiones de saludo y despedida.",
+    "instructions": [
+      "Active los conocimientos previos sobre saludos y presentaciones.",
+      "Reproduzca el diálogo y complete las actividades de comprensión.",
+      "Forme parejas para representar y personalizar la conversación."
+    ],
+    "variations": [
+      "Realizar rotación de parejas tipo speed meeting.",
+      "Grabar el diálogo para autoevaluar pronunciación y fluidez."
+    ],
+    "platform": "British Council LearnEnglish Teens",
+    "resourceType": "Lección interactiva",
+    "tags": [
+      "introductions",
+      "dialogue",
+      "role play"
+    ],
+    "active": true
+  },
+  {
+    "id": 5,
+    "title": "British Council's Tongue twisters",
+    "level": [
+      "A1",
+      "A2"
+    ],
+    "subLevel": [
+      "A1.1",
+      "A1.2",
+      "A2.1",
+      "A2.2"
+    ],
+    "unit": [],
+    "skill": [
+      "Pronunciation",
+      "Speaking"
+    ],
+    "description": "Colección con audio para practicar pronunciación, fluidez, ritmo y entonación.",
+    "url": "https://learnenglishkids.britishcouncil.org/fun-games/tongue-twisters",
+    "duration": "10–15 minutos",
+    "objective": "Mejorar la articulación, el ritmo y la confianza oral mediante repetición guiada.",
+    "instructions": [
+      "Seleccione un trabalenguas acorde con los sonidos meta.",
+      "Reproduzca el audio y analice ritmo y articulación.",
+      "Practique por fragmentos antes de aumentar gradualmente la velocidad."
+    ],
+    "variations": [
+      "Hacer una competencia amistosa de claridad, no solo de velocidad.",
+      "Pedir a los estudiantes ilustrar o explicar el significado."
+    ],
+    "platform": "British Council LearnEnglish Kids",
+    "resourceType": "Práctica de pronunciación",
+    "tags": [
+      "tongue twisters",
+      "pronunciation",
+      "fluency"
+    ],
+    "active": true
+  },
+  {
+    "id": 6,
+    "title": "Verb to be: negative speaking cards",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [],
+    "unit": [],
+    "skill": [
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Tarjetas interactivas para convertir oraciones afirmativas a negativas en parejas.",
+    "url": "https://wordwall.net/resource/52315347/english/to-be-is-am-are-make-negative-form",
+    "duration": "15–20 minutos",
+    "objective": "Transformar y producir correctamente oraciones negativas con am not, isn't y aren't.",
+    "instructions": [
+      "Repase las formas negativas y sus contracciones.",
+      "Muestre una tarjeta y modele la transformación completa.",
+      "Trabaje en parejas alternando lectura, transformación y verificación."
+    ],
+    "variations": [
+      "Solicitar una corrección verdadera cuando la oración no describa al estudiante.",
+      "Usar las tarjetas como carrera de relevos por equipos."
+    ],
+    "platform": "Wordwall",
+    "resourceType": "Tarjetas interactivas",
+    "tags": [
+      "verb to be",
+      "negative form",
+      "pair work"
+    ],
+    "active": true
+  },
+  {
+    "id": 7,
+    "title": "Jeopardy verb to be: team review",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [],
+    "unit": [],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Juego estilo Jeopardy para consolidar estructuras del verbo to be de forma colaborativa.",
+    "url": "https://jeopardylabs.com/play/verb-to-be",
+    "duration": "20–30 minutos",
+    "objective": "Consolidar el uso del verbo to be mediante recuperación rápida, explicación y corrección entre pares.",
+    "instructions": [
+      "Forme equipos equilibrados y establezca reglas de participación.",
+      "Alterne portavoces para asegurar participación amplia.",
+      "Pida que los equipos justifiquen sus respuestas antes de confirmar el puntaje."
+    ],
+    "variations": [
+      "Usar pizarras pequeñas para respuestas simultáneas.",
+      "Asignar puntos extra por correcciones explicadas con claridad."
+    ],
+    "platform": "JeopardyLabs",
+    "resourceType": "Juego interactivo",
+    "tags": [
+      "verb to be",
+      "collaborative review",
+      "game"
+    ],
+    "active": true
+  },
+  {
+    "id": 8,
+    "title": "Verb to be speaking cards: personal information",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [],
+    "unit": [],
+    "skill": [
+      "Speaking"
+    ],
+    "description": "Ocho tarjetas para formular y responder preguntas Yes/No sobre información personal.",
+    "url": "https://wordwall.net/resource/103831066/to-be-speaking-questions",
+    "duration": "15 minutos",
+    "objective": "Desarrollar fluidez al intercambiar información personal con preguntas y respuestas completas.",
+    "instructions": [
+      "Proyecte las tarjetas o comparta el enlace.",
+      "Pida a cada estudiante responder y luego devolver la pregunta.",
+      "Monitoree pronunciación, orden de palabras y respuestas cortas."
+    ],
+    "variations": [
+      "Añadir respuestas falsas para que el compañero adivine.",
+      "Cerrar con tres datos aprendidos sobre otra persona."
+    ],
+    "platform": "Wordwall",
+    "resourceType": "Tarjetas interactivas",
+    "tags": [
+      "personal information",
+      "questions",
+      "fluency"
+    ],
+    "active": true
+  },
+  {
+    "id": 9,
+    "title": "Meeting new people: dialogue simulator",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [],
+    "unit": [],
+    "skill": [
+      "Speaking",
+      "Listening"
+    ],
+    "description": "Simulador de presentaciones con repetición, comprensión y completación de diálogos.",
+    "url": "https://learnenglishteens.britishcouncil.org/skills/speaking/a1-speaking/meeting-people",
+    "duration": "20–30 minutos",
+    "objective": "Participar con seguridad en un primer encuentro usando fórmulas sociales frecuentes.",
+    "instructions": [
+      "Presente las expresiones clave antes de escuchar.",
+      "Complete las tareas de escucha y repetición con el grupo.",
+      "Asigne roles y permita ensayar antes de representar el encuentro."
+    ],
+    "variations": [
+      "Cambiar el contexto a escuela, trabajo o evento social.",
+      "Retirar gradualmente el guion para promover producción espontánea."
+    ],
+    "platform": "British Council LearnEnglish Teens",
+    "resourceType": "Simulador de diálogo",
+    "tags": [
+      "meeting people",
+      "functional language",
+      "simulation"
+    ],
+    "active": true
+  },
+  {
+    "id": 10,
+    "title": "Speaking practice: Direct Questions",
+    "level": [
+      "A1",
+      "A2"
+    ],
+    "subLevel": [
+      "A1.1",
+      "A1.2"
+    ],
+    "unit": [],
+    "skill": [
+      "Speaking"
+    ],
+    "description": "Simulador para evaluaciones orales con práctica guiada y autoevaluación.",
+    "url": "https://yellow-field-0f4f9020f.7.azurestaticapps.net/?v=98",
+    "duration": "20–25 minutos",
+    "objective": "Responder preguntas directas con precisión, desarrollo suficiente y pronunciación comprensible.",
+    "instructions": [
+      "Explique los criterios de una respuesta oral efectiva.",
+      "Permita una ronda de práctica individual con el simulador.",
+      "Organice práctica por parejas y cierre con autoevaluación basada en criterios."
+    ],
+    "variations": [
+      "Limitar el tiempo de preparación para simular una prueba.",
+      "Solicitar que el compañero formule una pregunta de seguimiento."
+    ],
+    "platform": "Azure Static Web Apps",
+    "resourceType": "Simulador de evaluación",
+    "tags": [
+      "direct questions",
+      "oral assessment",
+      "self-assessment"
+    ],
+    "active": true
+  },
+  {
+    "id": 11,
+    "title": "Speaking Cards for All English Journey",
+    "level": [
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [],
+    "skill": [
+      "Speaking"
+    ],
+    "description": "Tarjetas de conversación por unidad para trabajo individual, en parejas o grupos.",
+    "url": "https://ashy-hill-0dc48000f.7.azurestaticapps.net/",
+    "duration": "15–30 minutos",
+    "objective": "Practicar de forma flexible las funciones comunicativas y el vocabulario de English Journey.",
+    "instructions": [
+      "Seleccione nivel, unidad y conjunto de tarjetas pertinente.",
+      "Modele el tipo de respuesta esperada y el tiempo de interacción.",
+      "Organice parejas o grupos y cierre con retroalimentación sobre fluidez y precisión."
+    ],
+    "variations": [
+      "Usar una tarjeta como entrada o cierre de clase.",
+      "Asignar roles de hablante, interlocutor y observador."
+    ],
+    "platform": "Azure Static Web Apps",
+    "resourceType": "Banco de tarjetas",
+    "tags": [
+      "conversation cards",
+      "curriculum",
+      "flexible practice"
+    ],
+    "active": true
+  },
+  {
+    "id": 12,
+    "title": "Simple present speaking cards",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Tarjetas sobre pasatiempos con preguntas abiertas, cerradas y How often.",
+    "url": "https://wordwall.net/resource/60000722/english/present-simple-speaking",
+    "duration": "15–20 minutos",
+    "objective": "Preguntar y responder sobre hábitos y pasatiempos usando el presente simple y adverbios de frecuencia.",
+    "instructions": [
+      "Repase auxiliares do/does y expresiones de frecuencia.",
+      "Modele una respuesta ampliada con razón o ejemplo.",
+      "Organice parejas para alternar preguntas y registrar coincidencias."
+    ],
+    "variations": [
+      "Convertir respuestas en una encuesta de clase.",
+      "Pedir un reporte en tercera persona sobre el compañero."
+    ],
+    "platform": "Wordwall",
+    "resourceType": "Tarjetas interactivas",
+    "tags": [
+      "simple present",
+      "hobbies",
+      "frequency"
+    ],
+    "active": true
+  },
+  {
+    "id": 13,
+    "title": "Was/Were Jeopardy",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Juego de competencia para practicar was/were y el pasado simple mediante completar oraciones, transformar presente a pasado y ordenar palabras.",
+    "url": "https://jeopardylabs.com/play/waswere-9",
+    "duration": "10 minutos",
+    "objective": "Usar was y were correctamente en oraciones afirmativas, negativas e interrogativas en pasado simple.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "JeopardyLabs",
+    "resourceType": "Game",
+    "tags": [
+      "was/were",
+      "simple past",
+      "grammar",
+      "team challenge"
+    ],
+    "active": true
+  },
+  {
+    "id": 14,
+    "title": "Sick Day - Basic English Listening",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Listening",
+      "Speaking"
+    ],
+    "description": "Actividad de escucha sobre una llamada por enfermedad, con guion y preguntas de comprensión.",
+    "url": "https://www.esl-lab.com/basic-english/sick-day/",
+    "duration": "10 minutos",
+    "objective": "Comprender información principal y detalles de una conversación breve sobre salud y ausencia.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Randall's ESL Cyber Listening Lab",
+    "resourceType": "Listening activity",
+    "tags": [
+      "sick day",
+      "health",
+      "listening",
+      "past simple"
+    ],
+    "active": true
+  },
+  {
+    "id": 15,
+    "title": "Listening: Was-Were",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar"
+    ],
+    "description": "Hoja interactiva de listening para practicar was y were en pasado simple.",
+    "url": "https://www.liveworksheets.com/worksheet/en/english-second-language-esl/409455",
+    "duration": "7 minutos",
+    "objective": "Identificar y usar was/were a partir de información escuchada.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Liveworksheets",
+    "resourceType": "Interactive worksheet",
+    "tags": [
+      "was/were",
+      "past simple",
+      "listening"
+    ],
+    "active": true
+  },
+  {
+    "id": 16,
+    "title": "Was/Were Listening Exercise",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar"
+    ],
+    "description": "Ejercicio de escucha con actividades true/false y ordenamiento para practicar was y were.",
+    "url": "https://www.liveworksheets.com/worksheet/en/english-second-language-esl/326639",
+    "duration": "7 minutos",
+    "objective": "Comprender un audio y reconocer formas correctas de was y were.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Liveworksheets",
+    "resourceType": "Interactive worksheet",
+    "tags": [
+      "was/were",
+      "past simple",
+      "true false",
+      "listening"
+    ],
+    "active": true
+  },
+  {
+    "id": 17,
+    "title": "Shopping: Past and Present",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Grammar",
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie sobre compras en pasado y presente.",
+    "url": "https://app.chalkie.ai/lessons/a2709849-6692-4712-b0a7-ac216e0e916e?ref=PWBBUYYG",
+    "duration": "10 minutos",
+    "objective": "Comparar experiencias de compra pasadas y presentes usando vocabulario temático.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "shopping",
+      "past and present",
+      "simple past"
+    ],
+    "active": true
+  },
+  {
+    "id": 18,
+    "title": "Personal Profile",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Speaking",
+      "Writing"
+    ],
+    "description": "Presentación interna Chalkie para construir y compartir un perfil personal.",
+    "url": "https://app.chalkie.ai/lessons/a270868d-2527-4f24-8896-fe4f6b8e1d77?ref=U784TLQK",
+    "duration": "10 minutos",
+    "objective": "Presentar información personal básica de forma oral y escrita.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "personal profile",
+      "personal information",
+      "introductions"
+    ],
+    "active": true
+  },
+  {
+    "id": 19,
+    "title": "City Life and Countryside Life",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie sobre vida en la ciudad y el campo.",
+    "url": "https://app.chalkie.ai/lessons/a26b4397-6b9a-4665-b3da-b7587ac4b4a9?ref=PWBBUYYG",
+    "duration": "10 minutos",
+    "objective": "Describir y comparar lugares usando vocabulario básico de ciudad y campo.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "city",
+      "countryside",
+      "places"
+    ],
+    "active": true
+  },
+  {
+    "id": 20,
+    "title": "Life in the City and Countryside - No Audio",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Versión interna Chalkie sin audio para práctica guiada sobre ciudad y campo.",
+    "url": "https://app.chalkie.ai/lessons/a26b3d2e-b0dc-4298-98e6-c9da80892837?ref=PWBBUYYG",
+    "duration": "10 minutos",
+    "objective": "Practicar vocabulario y comparaciones básicas de ciudad y campo sin apoyo de audio.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "city",
+      "countryside",
+      "no audio"
+    ],
+    "active": true
+  },
+  {
+    "id": 21,
+    "title": "A Tour at My Office",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie para describir espacios y actividades de oficina.",
+    "url": "https://app.chalkie.ai/lessons/a28074aa-b535-4093-b556-132270a730f6?ref=PWBBUYYG",
+    "duration": "10 minutos",
+    "objective": "Describir espacios de trabajo y dar un recorrido básico por una oficina.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "office",
+      "workplace",
+      "tour"
+    ],
+    "active": true
+  },
+  {
+    "id": 22,
+    "title": "Shopping and Sales",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie sobre compras y ventas.",
+    "url": "https://app.chalkie.ai/lessons/a27eaded-96b9-4979-8877-12933197f949?ref=MWPCU9J2",
+    "duration": "10 minutos",
+    "objective": "Participar en interacciones breves sobre compras, ventas y precios.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "shopping",
+      "sales",
+      "transactions"
+    ],
+    "active": true
+  },
+  {
+    "id": 23,
+    "title": "Grocery Shopping for Beginners",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie de vocabulario y situaciones de compras en supermercado.",
+    "url": "https://app.chalkie.ai/lessons/a26cfb71-0874-4397-8403-d27e17db66ea?ref=MWPCU9J2",
+    "duration": "10 minutos",
+    "objective": "Reconocer y usar vocabulario básico para comprar alimentos.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "grocery shopping",
+      "food",
+      "beginners"
+    ],
+    "active": true
+  },
+  {
+    "id": 24,
+    "title": "Grocery Shopping",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "4"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie sobre compras en supermercado.",
+    "url": "https://app.chalkie.ai/lessons/a26cf8cd-6c4e-4191-8687-d4038359505b?ref=MWPCU9J2",
+    "duration": "10 minutos",
+    "objective": "Practicar vocabulario y expresiones básicas para compras de supermercado.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "grocery shopping",
+      "food",
+      "shopping"
+    ],
+    "active": true
+  },
+  {
+    "id": 25,
+    "title": "Healthy Eating Habits",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie sobre hábitos de alimentación saludable.",
+    "url": "https://app.chalkie.ai/lessons/a292dfcc-bde4-424b-9bff-6fc836752bb0?ref=MWPCU9J2",
+    "duration": "10 minutos",
+    "objective": "Hablar sobre hábitos alimenticios y opciones saludables.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "healthy eating",
+      "habits",
+      "food"
+    ],
+    "active": true
+  },
+  {
+    "id": 26,
+    "title": "Food Idioms",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Presentación interna Chalkie para explorar expresiones idiomáticas relacionadas con comida.",
+    "url": "https://app.chalkie.ai/lessons/a29385d7-8d52-474b-969d-13a7f408fa91?ref=MWPCU9J2",
+    "duration": "10 minutos",
+    "objective": "Comprender y usar expresiones idiomáticas frecuentes relacionadas con alimentos.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "Chalkie",
+    "resourceType": "Internal presentation",
+    "tags": [
+      "food idioms",
+      "idioms",
+      "expressions"
+    ],
+    "active": true
+  },
+  {
+    "id": 27,
+    "title": "EnglishJourneyReadings",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "1",
+      "3",
+      "4"
+    ],
+    "skill": [
+      "Reading"
+    ],
+    "description": "Módulo interno de comprensión lectora interactiva, incluyendo visor de lectura rápida.",
+    "url": "https://gentle-meadow-08fcdad10.7.azurestaticapps.net",
+    "duration": "8 minutos",
+    "objective": "Desarrollar comprensión lectora mediante lecturas y actividades interactivas.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "English Journey",
+    "resourceType": "Internal interactive HTML",
+    "tags": [
+      "reading",
+      "speed reading",
+      "comprehension"
+    ],
+    "active": true
+  },
+  {
+    "id": 28,
+    "title": "EnglishJourneyRetention",
+    "level": [
+      "A1",
+      "A2"
+    ],
+    "subLevel": [],
+    "unit": [
+      "1",
+      "2"
+    ],
+    "skill": [
+      "Listening",
+      "Speaking"
+    ],
+    "description": "Herramienta interna de retención auditiva y oral Listen, Speak & Check.",
+    "url": "https://gentle-beach-0637c900f.7.azurestaticapps.net",
+    "duration": "8 minutos",
+    "objective": "Fortalecer retención auditiva y producción oral mediante escucha, repetición y comprobación.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "English Journey",
+    "resourceType": "Internal interactive HTML",
+    "tags": [
+      "retention",
+      "listen speak check",
+      "pronunciation"
+    ],
+    "active": true
+  },
+  {
+    "id": 29,
+    "title": "ConversationsEnglishJourney",
+    "level": [
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "subLevel": [],
+    "unit": [],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Módulo interno para vocabulario y prácticas de diálogos y conversaciones.",
+    "url": "https://ashy-bay-0a172f710.7.azurestaticapps.net",
+    "duration": "12 minutos",
+    "objective": "Practicar vocabulario funcional y participación en diálogos guiados.",
+    "instructions": [
+      "Proyecte o comparta el recurso, modele una actividad breve y cierre con una comprobación de comprensión o producción."
+    ],
+    "variations": [
+      "Puede usarse como warm-up, práctica guiada, trabajo en parejas o repaso autónomo."
+    ],
+    "platform": "English Journey",
+    "resourceType": "Internal interactive HTML",
+    "tags": [
+      "conversations",
+      "dialogues",
+      "vocabulary"
+    ],
+    "active": true
+  },
+  {
+    "id": 30,
+    "title": "Speaking Practice - Negative Be Verbs",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Speaking"
+    ],
+    "description": "Práctica interactiva en parejas sobre el pasado simple negativo (wasn't/weren't). El tutor modela la pronunciación, y los estudiantes ejecutan diálogos (Conversation 1 & 2) y completan oraciones guiadas.",
+    "url": "https://www.talkenglish.com/video/lessondetails.aspx?ALID=4311",
+    "duration": "10–15 minutos",
+    "objective": "Desarrollar confianza y fluidez oral al estructurar oraciones negativas con el verbo to be en situaciones cotidianas.",
+    "instructions": [
+      "Presente el contexto del pasado simple negativo (wasn't/weren't) y modele la pronunciación.",
+      "Guíe a los estudiantes en la ejecución de los diálogos Conversation 1 y Conversation 2 en parejas.",
+      "Cierre pidiendo completar las oraciones guiadas y revise las respuestas en grupo."
+    ],
+    "variations": [
+      "Para extender la práctica, los estudiantes pueden modificar el vocabulario de la Conversation 1 para quejarse de un hotel o un viaje, fomentando la producción espontánea."
+    ],
+    "platform": "TalkEnglish",
+    "resourceType": "Lección en video interactiva",
+    "tags": [
+      "Simple past",
+      "verb to be",
+      "negative",
+      "wasn't",
+      "weren't"
+    ],
+    "active": true
+  }
 ]
