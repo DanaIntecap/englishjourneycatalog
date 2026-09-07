@@ -1,5 +1,6 @@
 const ui = {
   level: document.querySelector('#levelFilter'),
+  subLevel: document.querySelector('#subLevelFilter'),
   unit: document.querySelector('#unitFilter'),
   skill: document.querySelector('#skillFilter'),
   grid: document.querySelector('#catalogGrid'),
@@ -23,6 +24,24 @@ function matches(values, selection) {
   return !selection || asArray(values).includes(selection);
 }
 
+// Rebuilds the Sub-nivel options so they only show sub-levels that belong to
+// the currently selected Nivel. When no Nivel is selected, all sub-levels in
+// the catalog are shown. Keeps the current selection when it is still valid
+// for the new Nivel; otherwise resets it to "Todos los subniveles".
+function updateSubLevelOptions({ preserveSelection = true } = {}) {
+  const levelValue = ui.level.value;
+  const relevantResources = catalogData.filter(resource =>
+    !levelValue || asArray(resource.level).includes(levelValue)
+  );
+  const subLevels = new Set(relevantResources.flatMap(resource => asArray(resource.subLevel)));
+  const previousValue = ui.subLevel.value;
+
+  ui.subLevel.innerHTML = '<option value="">Todos los subniveles</option>';
+  populateFilter(ui.subLevel, subLevels);
+
+  ui.subLevel.value = (preserveSelection && subLevels.has(previousValue)) ? previousValue : '';
+}
+
 function list(items, ordered = false) {
   const tag = ordered ? 'ol' : 'ul';
   return `<${tag}>${asArray(items).map(item => `<li>${escapeHTML(item)}</li>`).join('')}</${tag}>`;
@@ -31,6 +50,7 @@ function list(items, ordered = false) {
 function cardTemplate(resource) {
   const badges = [
     ...asArray(resource.level).map(value => `<span class="badge level">${escapeHTML(value)}</span>`),
+    ...asArray(resource.subLevel).map(value => `<span class="badge sublevel">${escapeHTML(value)}</span>`),
     ...asArray(resource.skill).map(value => `<span class="badge skill">${escapeHTML(value)}</span>`),
     ...asArray(resource.unit).map(value => `<span class="badge unit">Unidad ${escapeHTML(value)}</span>`)
   ].join('');
@@ -55,6 +75,7 @@ function cardTemplate(resource) {
 function renderCatalog() {
   const resources = catalogData.filter(resource => resource.active &&
     matches(resource.level, ui.level.value) &&
+    matches(resource.subLevel, ui.subLevel.value) &&
     matches(resource.unit, ui.unit.value) &&
     matches(resource.skill, ui.skill.value));
 
@@ -75,13 +96,22 @@ async function initializeCatalog() {
     populateFilter(ui.level, new Set(catalogData.flatMap(resource => asArray(resource.level))));
     populateFilter(ui.unit, new Set(catalogData.flatMap(resource => asArray(resource.unit))));
     populateFilter(ui.skill, new Set(catalogData.flatMap(resource => asArray(resource.skill))));
-    [ui.level, ui.unit, ui.skill].forEach(select => select.addEventListener('change', renderCatalog));
+    updateSubLevelOptions({ preserveSelection: false });
+
+    ui.level.addEventListener('change', () => {
+      updateSubLevelOptions();
+      renderCatalog();
+    });
+    [ui.subLevel, ui.unit, ui.skill].forEach(select => select.addEventListener('change', renderCatalog));
+
     ui.clear.addEventListener('click', () => {
       ui.level.value = '';
       ui.unit.value = '';
       ui.skill.value = '';
+      updateSubLevelOptions({ preserveSelection: false });
       renderCatalog();
     });
+
     renderCatalog();
   } catch (error) {
     ui.count.textContent = '';
