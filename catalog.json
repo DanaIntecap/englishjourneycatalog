@@ -1028,5 +1028,45 @@
       "weren't"
     ],
     "active": true
+  },
+  {
+    "id": 31,
+    "title": "Escape Room: A/an, Some, Any (Food)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "4"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Escape room interactivo en el que el estudiante encuentra una nota de sus padres y debe resolver una serie de retos sobre comida en el refrigerador contra el reloj, practicando a/an, some y any en contexto.",
+    "url": "https://view.genially.com/69ee30bab7c8870c6f02d7e6",
+    "duration": "15–20 minutos",
+    "objective": "Utilizar correctamente a/an, some y any en oraciones afirmativas, negativas e interrogativas relacionadas con alimentos y cantidades.",
+    "instructions": [
+      "Presente el contexto: el estudiante llega a casa y encuentra una nota de sus padres sobre qué hay en el refrigerador.",
+      "Guíe al estudiante a través de los retos cronometrados, recordando la regla de uso de a/an (singular contable), some (afirmativas/ofertas) y any (negativas/preguntas).",
+      "Al finalizar, revise en grupo los aciertos y errores comunes antes de pasar a producción oral libre."
+    ],
+    "variations": [
+      "Hacerlo en parejas, turnándose para leer cada pista en voz alta.",
+      "Al terminar, pedir a los estudiantes que describan qué hay en SU refrigerador usando la misma estructura."
+    ],
+    "platform": "Genially",
+    "resourceType": "Escape room interactivo",
+    "tags": [
+      "a/an",
+      "some",
+      "any",
+      "food",
+      "escape room",
+      "unit 4"
+    ],
+    "active": true
   }
 ]
