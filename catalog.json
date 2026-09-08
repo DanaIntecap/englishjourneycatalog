@@ -1068,5 +1068,46 @@
       "unit 4"
     ],
     "active": true
+  },
+  {
+    "id": 32,
+    "title": "Warm-up: Countries of the World",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Speaking",
+      "Vocabulary"
+    ],
+    "description": "Juego de arcade en el que los estudiantes identifican el continente correspondiente a distintos países del mundo, usado como warm-up para practicar preguntas y respuestas con 'Where is...?'.",
+    "url": "https://arcade.padlet.com/game/Qwr67O4Qj2",
+    "duration": "5–10 minutos",
+    "objective": "Formular y responder preguntas con 'Where is...?' para ubicar países y continentes, practicando vocabulario de geografía básica.",
+    "instructions": [
+      "Pregunte al grupo: 'Where is China?' y modele una respuesta completa (e.g., 'China is in Asia').",
+      "Divida a los estudiantes en parejas y pídales que se turnen para hacer y responder preguntas similares con otros países del juego.",
+      "Use el arcade game como apoyo visual para verificar las respuestas en grupo."
+    ],
+    "variations": [
+      "Aumentar la dificultad pidiendo oraciones completas en vez de solo el nombre del continente.",
+      "Convertirlo en competencia por equipos, sumando puntos por respuesta correcta."
+    ],
+    "platform": "Padlet Arcade",
+    "resourceType": "Warm-up / juego interactivo",
+    "tags": [
+      "countries",
+      "continents",
+      "geography",
+      "where is",
+      "warm-up",
+      "unit 3"
+    ],
+    "active": true
   }
 ]
