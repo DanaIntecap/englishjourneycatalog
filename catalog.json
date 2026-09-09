@@ -1187,5 +1187,46 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 35,
+    "title": "Listening + Quiz: What Are You Doing?",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar"
+    ],
+    "description": "Ejercicio de listening (Test-English) con video en el que dos personas hablan sobre lo que distintos miembros de su familia están haciendo, seguido de un quiz de 6 preguntas de opción múltiple para practicar comprensión auditiva del present continuous.",
+    "url": "https://test-english.com/listening/a1/what-are-you-doing-a1-english-listening-test/",
+    "duration": "10–15 minutos",
+    "objective": "Comprender descripciones orales de acciones en progreso usando el present continuous e identificar la información correcta en un quiz de opción múltiple.",
+    "instructions": [
+      "Antes de reproducir el video, repase brevemente la estructura del present continuous (be + verbo -ing).",
+      "Reproduzca el video una vez para comprensión general, y una segunda vez si es necesario antes de resolver el quiz.",
+      "Los estudiantes responden individualmente las 6 preguntas de opción múltiple sobre qué está haciendo cada personaje.",
+      "Revise las respuestas en grupo y aclare dudas de vocabulario o de la estructura gramatical."
+    ],
+    "variations": [
+      "Pausar el video después de cada personaje y pedir a los estudiantes que predigan la acción antes de continuar.",
+      "Como cierre, pedir a los estudiantes que describan qué están haciendo sus propios familiares en ese momento."
+    ],
+    "platform": "Test-English",
+    "resourceType": "Listening con quiz",
+    "tags": [
+      "present continuous",
+      "listening",
+      "quiz",
+      "family",
+      "unit 3"
+    ],
+    "active": true
   }
 ]
