@@ -1148,5 +1148,44 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 34,
+    "title": "Quiz: Present Simple Third Person (Y, CH, O, X, SH, SS, Z)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Quiz interactivo de opción múltiple (Wordwall) enfocado en las reglas ortográficas de la tercera persona singular del presente simple para verbos terminados en -y, -ch, -o, -x, -sh, -ss y -z(e).",
+    "url": "https://wordwall.net/resource/89004290/anglick%C3%BD/ivb-present-simple-verbs-ending-in-y-ch-o-x-sh",
+    "duration": "10 minutos",
+    "objective": "Aplicar correctamente las reglas ortográficas de la tercera persona singular en presente simple para verbos terminados en -y, -ch, -o, -x, -sh, -ss y -z(e).",
+    "instructions": [
+      "Repase brevemente las reglas: verbos terminados en -y precedida de consonante cambian a -ies (study → studies); verbos terminados en -ch, -o, -x, -sh, -ss, -z(e) agregan -es (watch → watches, go → goes).",
+      "Los estudiantes resuelven el quiz individualmente, seleccionando la forma correcta del verbo en cada oración.",
+      "Revise en grupo las respuestas, aclarando los patrones ortográficos donde haya más errores."
+    ],
+    "variations": [
+      "Proyectarlo y resolverlo en equipos por turnos en lugar de individualmente.",
+      "Pedir a los estudiantes que escriban 3 oraciones propias usando verbos con estas terminaciones."
+    ],
+    "platform": "Wordwall",
+    "resourceType": "Quiz interactivo",
+    "tags": [
+      "present simple",
+      "third person singular",
+      "spelling rules",
+      "grammar",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
