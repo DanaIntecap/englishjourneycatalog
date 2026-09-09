@@ -1228,5 +1228,44 @@
       "unit 3"
     ],
     "active": true
+  },
+  {
+    "id": 36,
+    "title": "Present Progressive: Negatives and Questions",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Worksheet interactivo (Liveworksheets) para practicar la formación de oraciones negativas y preguntas en presente continuo, con calificación automática en línea.",
+    "url": "https://www.liveworksheets.com/worksheet/en/english-second-language-esl/1953218",
+    "duration": "10–15 minutos",
+    "objective": "Formar correctamente oraciones negativas y preguntas en presente continuo (be + not + verbo -ing / auxiliar be + sujeto + verbo -ing).",
+    "instructions": [
+      "Repase brevemente la estructura de negativas (subject + am/is/are + not + verb-ing) y preguntas (Am/Is/Are + subject + verb-ing?) en presente continuo.",
+      "Los estudiantes completan el worksheet en línea individualmente; la plataforma califica automáticamente al enviarlo.",
+      "Revise en grupo los errores más comunes al finalizar."
+    ],
+    "variations": [
+      "Descargar el PDF y resolverlo en papel si no hay acceso a computadoras.",
+      "Pedir a los estudiantes que creen 2 preguntas y 2 negativas propias como cierre."
+    ],
+    "platform": "Liveworksheets",
+    "resourceType": "Worksheet interactivo",
+    "tags": [
+      "present continuous",
+      "negatives",
+      "questions",
+      "grammar",
+      "unit 3"
+    ],
+    "active": true
   }
 ]
