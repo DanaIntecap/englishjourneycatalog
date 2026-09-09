@@ -1267,5 +1267,44 @@
       "unit 3"
     ],
     "active": true
+  },
+  {
+    "id": 37,
+    "title": "Exercise: Comparative Adjectives",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Ejercicio de completar espacios (Perfect English Grammar) para practicar la formación de adjetivos comparativos en oraciones cortas, con calificación automática en línea.",
+    "url": "https://www.perfect-english-grammar.com/comparative-adjectives-exercise-1.html",
+    "duration": "10 minutos",
+    "objective": "Formar y usar correctamente adjetivos comparativos (regulares e irregulares) en oraciones para comparar dos elementos.",
+    "instructions": [
+      "Repase brevemente las reglas de formación del comparativo (adjetivo + -er, more + adjetivo, formas irregulares como better/worse).",
+      "Los estudiantes completan el ejercicio en línea individualmente y revisan sus respuestas de inmediato con la calificación automática.",
+      "Cierre revisando en grupo los errores más frecuentes."
+    ],
+    "variations": [
+      "Usar la versión en PDF si no hay acceso a computadoras en el aula.",
+      "Pedir a los estudiantes que escriban 3 oraciones propias comparando objetos o personas del salón."
+    ],
+    "platform": "Perfect English Grammar",
+    "resourceType": "Ejercicio de gramática",
+    "tags": [
+      "comparatives",
+      "superlatives",
+      "adjectives",
+      "grammar",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
