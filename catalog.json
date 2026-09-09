@@ -1109,5 +1109,44 @@
       "unit 3"
     ],
     "active": true
+  },
+  {
+    "id": 33,
+    "title": "Comparative and Superlative Predictions",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Juego de gramática en parejas (Teach This) en el que los estudiantes completan preguntas con la forma comparativa o superlativa correcta, predicen las respuestas de su compañero y luego comparan resultados haciendo y respondiendo las preguntas.",
+    "url": "https://intecapedu.sharepoint.com/:b:/r/sites/EnglishJourney-EducationalResources/Documentos%20compartidos/Additional%20resources/Speaking/comparative-and-superlative-predictions.pdf?d=wf1dcaec311de4f58b8704c8fbc8eeb3b&csf=1&web=1&e=rgmlGT",
+    "duration": "30 minutos",
+    "objective": "Formar, preguntar y responder correctamente usando adjetivos comparativos y superlativos, y predecir las respuestas de un compañero antes de confirmarlas.",
+    "instructions": [
+      "Divida a los estudiantes en dos grupos (A y B) y entregue el worksheet correspondiente a cada uno.",
+      "Los estudiantes completan primero las preguntas con la forma comparativa o superlativa correcta del adjetivo entre paréntesis; revise las respuestas con cada grupo usando la answer key.",
+      "Empareje a un estudiante de cada grupo. Sin mostrar su hoja, cada uno predice y escribe las respuestas que cree que dará su compañero.",
+      "Por turnos, los estudiantes hacen y responden las preguntas reales, comparando con sus predicciones. Un punto por cada predicción correcta; gana quien tenga más puntos.",
+      "Para cerrar, cada estudiante comparte con la clase algo interesante que descubrió de su compañero."
+    ],
+    "variations": [],
+    "platform": "SharePoint (Teach This)",
+    "resourceType": "Worksheet / juego de gramática",
+    "tags": [
+      "comparatives",
+      "superlatives",
+      "speaking",
+      "prediction game",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
