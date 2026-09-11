@@ -1306,5 +1306,43 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 38,
+    "title": "Household Chores - Vocabulary",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Vocabulary"
+    ],
+    "description": "Interactive multiple-choice worksheet to practice household chores vocabulary.",
+    "url": "https://www.liveworksheets.com/worksheet/en/english-second-language-esl/51587",
+    "duration": "15-20 min",
+    "objective": "Recognize and use vocabulary related to household chores in context.",
+    "instructions": [
+      "Antes de resolver el worksheet, promueve una actividad comunicativa: pide a los estudiantes que mencionen en voz alta qué quehaceres del hogar conocen en inglés.",
+      "Como grupo, elijan entre todos las 10 palabras/quehaceres más comunes o mencionados, y escríbanlas en la pizarra.",
+      "Cada estudiante comparte cuál de esos quehaceres hace en casa y con qué frecuencia, antes de completar el worksheet individualmente."
+    ],
+    "variations": [
+      "Se puede convertir en un juego de 'encuesta' donde los estudiantes caminan por el salón preguntando a sus compañeros qué quehaceres hacen."
+    ],
+    "platform": "LiveWorksheets",
+    "resourceType": "worksheet",
+    "tags": [
+      "household chores",
+      "vocabulary",
+      "A1",
+      "speaking warm-up",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
