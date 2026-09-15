@@ -1388,5 +1388,48 @@
       "unit 6"
     ],
     "active": true
+  },
+  {
+    "id": 40,
+    "title": "Reading + Discussion: More Countries Tighten Social Media Rules for Children (B1)",
+    "level": [
+      "B1"
+    ],
+    "subLevel": [
+      "B1.3"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Reading",
+      "Speaking"
+    ],
+    "description": "Mismo artículo de noticias graduado (ESL-News) sobre países endureciendo las reglas de redes sociales para menores, ajustado a nivel B1 para trabajar comprensión lectora e impulsar una discusión sobre el impacto de las redes sociales en la vida diaria.",
+    "url": "https://esl-news.com/news/health-articles/more-countries-tighten-social-media-rules-for-children",
+    "duration": "25-30 minutos",
+    "objective": "Comprender un artículo de nivel B1 sobre regulación de redes sociales para menores y argumentar oralmente sobre quién debería decidir cómo los niños usan las redes sociales.",
+    "instructions": [
+      "IMPORTANTE: antes de asignar la lectura, ajuste el nivel del artículo en la página (botones de nivel) a B1 — no usar el nivel por defecto sin revisar.",
+      "Los estudiantes leen el artículo individualmente o en parejas, usando el vocabulario integrado de la página para resolver dudas.",
+      "Verifique comprensión general con 2-3 preguntas abiertas sobre el contenido del artículo.",
+      "Divida a la clase en grupos pequeños para discutir: 'Who should decide how children use social media? Parents, the government, or the platforms themselves?'",
+      "Cierre pidiendo a cada grupo que comparta su conclusión con el resto de la clase, justificando su postura."
+    ],
+    "variations": [
+      "Si acceden a la sección 'Vocab Picker/Notebook' de la página, pueden encontrar 4 juegos diferentes con el vocabulario del nivel elegido para reforzar antes o después de la discusión.",
+      "Organizar la discusión como debate formal, asignando posturas opuestas a distintos grupos.",
+      "Pedir un párrafo escrito de opinión como tarea, retomando los argumentos discutidos en clase."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada con discusión",
+    "tags": [
+      "reading",
+      "discussion",
+      "social media",
+      "parenting",
+      "unit 1"
+    ],
+    "active": true
   }
 ]
