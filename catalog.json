@@ -1344,5 +1344,49 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 39,
+    "title": "Reading: More Countries Tighten Social Media Rules for Children",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "6"
+    ],
+    "skill": [
+      "Reading",
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre países que están endureciendo las reglas de redes sociales para menores de edad. La página permite ajustar el nivel de lectura (A1–C2) e incluye vocabulario y quiz integrados.",
+    "url": "https://esl-news.com/news/health-articles/more-countries-tighten-social-media-rules-for-children",
+    "duration": "20-25 minutos",
+    "objective": "Leer y comprender un artículo sobre normas de redes sociales para menores, y practicar presente simple con adverbios de frecuencia para hablar de hábitos propios de uso de redes sociales.",
+    "instructions": [
+      "IMPORTANTE: antes de asignar la lectura, ajuste el nivel del artículo en la página (botones de nivel) para que corresponda a A1 — no usar el nivel por defecto sin revisar.",
+      "Pre-lectura: presente el vocabulario clave del artículo (usando la sección de vocabulario de la página) y active conocimiento previo preguntando a los estudiantes qué saben sobre reglas de redes sociales para niños.",
+      "Los estudiantes leen el artículo en el nivel ajustado, apoyándose en el vocabulario si es necesario.",
+      "Post-lectura, practique presente simple con adverbios de frecuencia relacionados al tema: '¿How often do you use social media?', 'I sometimes use Instagram', 'I never share personal information online.'",
+      "Cierre con una breve puesta en común de hábitos de uso seguro de redes sociales usando las estructuras practicadas."
+    ],
+    "variations": [
+      "Usar el quiz integrado de la página como comprobación de comprensión antes de pasar a la práctica oral.",
+      "Adaptar las preguntas de práctica oral a otras redes sociales que mencionen los estudiantes."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada con vocabulario y quiz",
+    "tags": [
+      "reading",
+      "social media",
+      "safety",
+      "present simple",
+      "frequency adverbs",
+      "unit 6"
+    ],
+    "active": true
   }
 ]
