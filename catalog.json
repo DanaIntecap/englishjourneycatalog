@@ -1431,5 +1431,49 @@
       "unit 1"
     ],
     "active": true
+  },
+  {
+    "id": 41,
+    "title": "Reading: Global Food Prices Reach Highest Level Since 2022",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "4"
+    ],
+    "skill": [
+      "Reading",
+      "Vocabulary",
+      "Grammar"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre el alza de precios de alimentos a nivel mundial. La versión A1 menciona vocabulario de comida (sugar, rice, bread, oil, meat, milk), ideal para practicar sustantivos contables/no contables y some/any.",
+    "url": "https://esl-news.com/news/business/global-food-prices-reach-highest-level-since-2022-as-supply-risks-grow",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre precios de alimentos, clasificar sustantivos de comida como contables o no contables, y usar some/any correctamente en oraciones sobre alimentos.",
+    "instructions": [
+      "IMPORTANTE: ajuste el nivel del artículo a A1 antes de asignarlo — el vocabulario es exigente incluso en este nivel, así que revise la lista de palabras de la página con el grupo antes de leer.",
+      "Pre-reading, pregunte: 'What food do you buy every week?', '¿Do you think food is expensive or cheap right now?', 'Look at the title — what do you think the article is about?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página si es necesario.",
+      "Post-reading, pregunte: '¿Which foods are mentioned in the article (sugar, rice, bread, oil, meat, milk)?', '¿Why are food prices going up?', '¿How does this affect what people buy every day?'",
+      "Actividad de gramática: en parejas, los estudiantes clasifican sugar, rice, bread, oil, meat y milk como contables o no contables, y luego escriben una lista corta usando some/any (e.g., 'There isn't any milk at home', 'We need some rice for dinner')."
+    ],
+    "variations": [
+      "Extender la actividad pidiendo a los estudiantes que agreguen 2 alimentos propios a la lista y los clasifiquen también.",
+      "Cerrar con una mini-conversación en parejas usando la estructura 'Do we have any...?' / 'Yes, we have some... / No, we don't have any...' sobre los alimentos de la lista."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada con actividad de gramática",
+    "tags": [
+      "reading",
+      "food",
+      "countable",
+      "uncountable",
+      "some/any",
+      "unit 4"
+    ],
+    "active": true
   }
 ]
