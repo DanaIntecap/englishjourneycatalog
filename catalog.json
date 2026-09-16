@@ -2015,5 +2015,50 @@
       "active recall"
     ],
     "active": true
+  },
+  {
+    "id": 55,
+    "title": "Routines and Timetables - Mystery Timetables (Guess Who)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Worksheet propio (4 partes) sobre rutinas y horarios: vocabulario de acciones diarias, actividad de speaking tipo 'guess who' (Mystery Timetables) con preguntas Sí/No en presente simple, práctica de oraciones afirmativas/negativas, y preguntas Wh- con un info gap final (Alex's Timetable).",
+    "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQDDrtzx3hFYT7hwTI-8jus7AWu_uBZ1vK7HSoP5lEiVVdo?e=Ugt3FO",
+    "duration": "30-40 minutos",
+    "objective": "Formular y responder preguntas Sí/No y Wh- en presente simple (3ra persona singular) para hablar de rutinas y horarios, y producir oraciones afirmativas y negativas.",
+    "instructions": [
+      "Parte 1 (Vocabulary Warm-Up): los estudiantes emparejan las acciones diarias del banco de palabras con la imagen correspondiente.",
+      "Parte 2 (Mystery Timetables): el instructor MODELA la actividad primero con un solo participante, haciendo y respondiendo preguntas Sí/No ('Does he/she take the bus in the morning?' / 'Yes, he/she does.') para adivinar a qué perfil corresponde un horario.",
+      "Después del modelado, los estudiantes se dividen en parejas y repiten la misma dinámica entre ellos con los 5 perfiles y las 5 timetables restantes.",
+      "Parte 3 (Grammar Practice): cada estudiante elige una de las personas del Paso 2 y escribe 5 oraciones afirmativas y 5 negativas sobre su rutina en presente simple.",
+      "Parte 4 (Wh- Questions): en parejas, ordenan las palabras para formar preguntas Wh- y buscan la respuesta correcta en las timetables de la Parte 2.",
+      "Actividad de cierre opcional (Info Gap): en parejas (Student A / Student B), sin ver la tarjeta del compañero, se hacen preguntas Wh- en presente simple para completar la información faltante sobre la rutina de 'Alex'."
+    ],
+    "variations": [
+      "Usar solo las Partes 1 y 2 como actividad de speaking independiente si el tiempo de clase es corto.",
+      "Para clases virtuales, usar salas de breakout para la actividad de parejas y el info gap."
+    ],
+    "platform": "SharePoint (recurso propio)",
+    "resourceType": "Worksheet de speaking y gramática",
+    "tags": [
+      "present simple",
+      "yes/no questions",
+      "wh questions",
+      "speaking",
+      "guess who",
+      "routines",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
