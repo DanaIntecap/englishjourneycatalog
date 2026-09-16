@@ -1519,5 +1519,92 @@
       "unit 6"
     ],
     "active": true
+  },
+  {
+    "id": 43,
+    "title": "Reading: Tesla Expands Testing of Cybercab Robotaxi Service",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Reading",
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre la expansión de pruebas del robotaxi Cybercab de Tesla. Recurso complementario para el tema de transporte urbano, vehículos y desplazamientos ('de viaje al trabajo').",
+    "url": "https://esl-news.com/news/tech-science/tesla-expands-testing-of-cybercab-robotaxi-service",
+    "duration": "20 minutos",
+    "objective": "Comprender un artículo sobre transporte autónomo y usar vocabulario de vehículos y desplazamientos para describir cómo llegar al trabajo.",
+    "instructions": [
+      "IMPORTANTE: ajuste el nivel del artículo a A1 antes de asignarlo.",
+      "Pre-reading, pregunte: '¿How do you go to work/school? ¿By car, bus, bike, on foot?', '¿Would you like to travel in a self-driving car?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página (car, driver, passenger, service, etc.).",
+      "Post-reading, discuta brevemente ventajas y desventajas de un robotaxi frente a otros medios de transporte.",
+      "Actividad complementaria de ruta al trabajo: el artículo no enseña indicaciones direccionales, así que enséñelas por separado (turn left, turn right, go straight, cross the street) y pida a los estudiantes que describan, paso a paso, su ruta de casa al trabajo o a la escuela."
+    ],
+    "variations": [
+      "Usar un mapa simple o dibujado a mano para que los estudiantes practiquen dando indicaciones a un compañero.",
+      "Convertirlo en un juego de parejas: uno describe la ruta y el otro la dibuja siguiendo solo las indicaciones orales."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada con actividad complementaria",
+    "tags": [
+      "reading",
+      "transportation",
+      "vehicles",
+      "directions",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 44,
+    "title": "Reading: Nvidia CEO Claims AI Will Boost Manufacturing and Jobs",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "8"
+    ],
+    "skill": [
+      "Reading",
+      "Vocabulary",
+      "Grammar"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre declaraciones del CEO de Nvidia acerca del impacto de la IA en la manufactura y el empleo. Tema exigente (fábricas, tecnología, empleos y habilidades) para el tema de áreas de trabajo.",
+    "url": "https://esl-news.com/news/business/nvidia-ceo-claims-ai-will-boost-manufacturing-and-jobs",
+    "duration": "25 minutos",
+    "objective": "Comprender un artículo sobre inteligencia artificial y empleos en manufactura, clasificar sectores de trabajo y relacionar trabajadores con sus áreas, practicando pronombres personales y posesivos.",
+    "instructions": [
+      "IMPORTANTE: ajuste el nivel del artículo a A1 antes de asignarlo — el tema es exigente, así que revise el vocabulario clave (factory, manufacturing, jobs, skills, technology) antes de leer.",
+      "Pre-reading, pregunte: '¿What jobs do you know in a factory?', '¿Do you think technology creates or takes away jobs?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página.",
+      "Actividad de clasificación: en parejas, los estudiantes clasifican distintos trabajos mencionados o conocidos (engineer, factory worker, technician, manager, etc.) según el sector al que pertenecen (manufactura, tecnología, administración) y los relacionan con el área de trabajo correspondiente.",
+      "Practique pronombres personales y posesivos en el contexto: 'He is an engineer. His job is to design machines.', 'She works in a factory. Her job is important.'"
+    ],
+    "variations": [
+      "Pedir a los estudiantes que describan el trabajo de un familiar usando pronombres posesivos.",
+      "Extender la clasificación agregando trabajos propios de la comunidad de los estudiantes."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada con actividad de vocabulario y gramática",
+    "tags": [
+      "reading",
+      "jobs",
+      "manufacturing",
+      "technology",
+      "pronouns",
+      "unit 8"
+    ],
+    "active": true
   }
 ]
