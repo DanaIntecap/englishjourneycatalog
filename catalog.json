@@ -1977,5 +1977,43 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 54,
+    "title": "EnglishJourneyVocabulary",
+    "level": [
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "subLevel": [],
+    "unit": [],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Módulo interno de flashcards de vocabulario, con selección de nivel/subnivel/unidad, audio a 1x o 0.85x, active recall, 'Adivina la imagen' y un Juego de Asociación final.",
+    "url": "https://salmon-wave-00cbf5b0f.5.azurestaticapps.net/",
+    "duration": "10-20 minutos",
+    "objective": "Reconocer, pronunciar y recuperar vocabulario funcional en inglés mediante práctica visual, auditiva y active recall.",
+    "instructions": [
+      "Seleccione nivel, subnivel y unidad, y elija 5-8 palabras antes de la clase.",
+      "Comparta pantalla y practique la pronunciación con todo el grupo, modelando el audio y usando cada palabra en una oración.",
+      "Pida a algunos participantes que elijan las palabras que encontraron más complicadas y repase esas con más detalle.",
+      "Cierre practicando el Juego de Asociación: escuchen y propongan la respuesta en voz alta antes de seleccionarla, y usen la palabra para conversar con el grupo."
+    ],
+    "variations": [
+      "Usar 'Adivina la imagen' en grupos pequeños, rotando quién comparte pantalla y quién pregunta.",
+      "Cerrar pidiendo a cada participante que use al menos dos palabras nuevas para contar algo real o expresar una preferencia."
+    ],
+    "platform": "English Journey",
+    "resourceType": "Internal interactive HTML",
+    "tags": [
+      "vocabulary",
+      "flashcards",
+      "pronunciation",
+      "active recall"
+    ],
+    "active": true
   }
 ]
