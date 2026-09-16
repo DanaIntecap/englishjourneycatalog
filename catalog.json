@@ -1475,5 +1475,49 @@
       "unit 4"
     ],
     "active": true
+  },
+  {
+    "id": 42,
+    "title": "Reading: Snoop Dogg Offers $30,000 Job to Taste Ice Cream",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "6"
+    ],
+    "skill": [
+      "Reading",
+      "Speaking"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre una oferta de trabajo de Snoop Dogg para probar helado y crear contenido para redes sociales, usado para conectar con marketing/publicidad y practicar presente simple con adverbios de frecuencia.",
+    "url": "https://esl-news.com/news/culture/snoop-dogg-offers-30000-job-to-taste-ice-cream",
+    "duration": "20 minutos",
+    "objective": "Comprender un artículo sobre una oferta laboral relacionada con marketing en redes sociales, y practicar presente simple con adverbios de frecuencia en el contexto de promoción de productos.",
+    "instructions": [
+      "IMPORTANTE: ajuste el nivel del artículo a A1 antes de asignarlo.",
+      "Pre-reading, pregunte: '¿Have you ever seen a company promote a product with videos on social media?', '¿What do you think this job pays $30,000 for?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página.",
+      "Post-reading, resalte que parte del trabajo es crear videos para redes sociales como estrategia de promoción de la marca; conecte esto con el tema de marketing y publicidad de la unidad.",
+      "Practique presente simple con adverbios de frecuencia: '¿How often does the company post videos?', 'They usually post videos every week', 'They sometimes share behind-the-scenes content.'",
+      "Cierre pidiendo a los estudiantes que, en parejas, inventen una idea de video de promoción para un producto y describan con qué frecuencia lo publicarían."
+    ],
+    "variations": [
+      "Convertir el cierre en una mini-presentación oral de la idea de video ante la clase.",
+      "Pedir a los estudiantes que investiguen y compartan un ejemplo real de marketing en redes sociales que conozcan."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada con conexión a marketing",
+    "tags": [
+      "reading",
+      "marketing",
+      "advertising",
+      "social media",
+      "frequency adverbs",
+      "unit 6"
+    ],
+    "active": true
   }
 ]
