@@ -2060,5 +2060,47 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 56,
+    "title": "Get the Picture (Present Continuous Card Game)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Juego tipo 'Go Fish' (Teach This) en grupos de 4, donde los estudiantes preguntan y responden preguntas Sí/No en presente continuo para conseguir las tarjetas de imagen que coinciden con las oraciones de su tablero.",
+    "url": "https://www.teach-this.com/images/resources/get-the-picture.pdf",
+    "duration": "25 minutos",
+    "objective": "Formular y responder preguntas Sí/No en presente continuo ('Is he/she verbing...?' / 'Yes, he/she is.' / 'No, he/she isn't.') en un contexto de juego.",
+    "instructions": [
+      "Divida a los estudiantes en grupos de 4 (Student A, B, C, D) y entregue a cada uno su tablero de juego y su set de tarjetas de imágenes correspondiente.",
+      "Los estudiantes colocan su tablero boca arriba y mantienen sus tarjetas de imagen ocultas en la mano.",
+      "Por turnos, cada estudiante le pregunta a otro miembro del grupo por una imagen que coincida con una oración de su tablero, usando 'Is he/she + verbo-ing...?' (e.g. 'Is she watching TV?').",
+      "El compañero responde 'Yes, he/she is.' o 'No, he/she isn't.'; si tiene la tarjeta, se la entrega y el estudiante la coloca sobre la oración correspondiente.",
+      "El juego continúa por turnos hasta que un estudiante complete todas las imágenes de su tablero y gane."
+    ],
+    "variations": [
+      "Modelar una ronda de ejemplo con toda la clase antes de dividir en grupos.",
+      "Al finalizar, pedir a cada estudiante que describa en voz alta 2-3 acciones de su tablero usando presente continuo."
+    ],
+    "platform": "Teach This",
+    "resourceType": "Juego de cartas / grammar game",
+    "tags": [
+      "present continuous",
+      "yes/no questions",
+      "card game",
+      "speaking",
+      "unit 3"
+    ],
+    "active": true
   }
 ]
