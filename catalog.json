@@ -2102,5 +2102,91 @@
       "unit 3"
     ],
     "active": true
+  },
+  {
+    "id": 57,
+    "title": "Monday to Friday (Guess Your Partner's Routine)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Juego de parejas (Teach This) en el que los estudiantes adivinan la rutina de lunes a viernes de su compañero, completando oraciones y luego comprobando si acertaron usando presente simple afirmativo y negativo.",
+    "url": "https://intecapedu.sharepoint.com/:b:/r/sites/EnglishJourney-EducationalResources/Documentos%20compartidos/Additional%20resources/Speaking/monday-to-friday.pdf?d=w2e0419661d1e47f29a015f384ff398cc&csf=1&web=1&e=lKOPQ5",
+    "duration": "25 minutos",
+    "objective": "Formular oraciones afirmativas y negativas en presente simple para adivinar y corregir información sobre la rutina diaria de un compañero.",
+    "instructions": [
+      "Divida a los estudiantes en parejas, evitando juntar a compañeros que ya se sientan juntos o sean amigos cercanos.",
+      "Sin hablar con su compañero, cada estudiante completa las oraciones del worksheet adivinando la rutina de lunes a viernes de su pareja (hora en que se despierta, qué desayuna, etc.).",
+      "Por turnos, cada estudiante lee sus oraciones en voz alta a su compañero: 'I think that you wake up at 7 o'clock.'",
+      "El compañero responde si es correcto o incorrecto; si es incorrecto, primero da la oración negativa y luego la afirmativa correcta: 'I don't wake up at 7 o'clock. I wake up at 6 o'clock.'",
+      "Cada estudiante marca 'right' o 'wrong' según corresponda; gana quien tenga más aciertos al final."
+    ],
+    "variations": [
+      "Modelar 2-3 oraciones de ejemplo con toda la clase antes de dividir en parejas.",
+      "Cerrar pidiendo a algunos estudiantes que compartan con la clase algo interesante que descubrieron sobre la rutina de su compañero."
+    ],
+    "platform": "SharePoint (Teach This)",
+    "resourceType": "Worksheet / juego de parejas",
+    "tags": [
+      "present simple",
+      "affirmative",
+      "negative",
+      "speaking",
+      "routines",
+      "unit 5"
+    ],
+    "active": true
+  },
+  {
+    "id": 58,
+    "title": "Monday to Friday (Guess Your Partner's Routine)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.1"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Juego de parejas (Teach This) en el que los estudiantes adivinan la rutina de lunes a viernes de su compañero, completando oraciones y luego comprobando si acertaron usando presente simple afirmativo y negativo.",
+    "url": "https://intecapedu.sharepoint.com/:b:/r/sites/EnglishJourney-EducationalResources/Documentos%20compartidos/Additional%20resources/Speaking/monday-to-friday.pdf?d=w2e0419661d1e47f29a015f384ff398cc&csf=1&web=1&e=lKOPQ5",
+    "duration": "25 minutos",
+    "objective": "Formular oraciones afirmativas y negativas en presente simple para adivinar y corregir información sobre la rutina diaria de un compañero.",
+    "instructions": [
+      "Divida a los estudiantes en parejas, evitando juntar a compañeros que ya se sientan juntos o sean amigos cercanos.",
+      "Sin hablar con su compañero, cada estudiante completa las oraciones del worksheet adivinando la rutina de lunes a viernes de su pareja (hora en que se despierta, qué desayuna, etc.).",
+      "Por turnos, cada estudiante lee sus oraciones en voz alta a su compañero: 'I think that you wake up at 7 o'clock.'",
+      "El compañero responde si es correcto o incorrecto; si es incorrecto, primero da la oración negativa y luego la afirmativa correcta: 'I don't wake up at 7 o'clock. I wake up at 6 o'clock.'",
+      "Cada estudiante marca 'right' o 'wrong' según corresponda; gana quien tenga más aciertos al final."
+    ],
+    "variations": [
+      "Modelar 2-3 oraciones de ejemplo con toda la clase antes de dividir en parejas.",
+      "Cerrar pidiendo a algunos estudiantes que compartan con la clase algo interesante que descubrieron sobre la rutina de su compañero."
+    ],
+    "platform": "SharePoint (Teach This)",
+    "resourceType": "Worksheet / juego de parejas",
+    "tags": [
+      "present simple",
+      "affirmative",
+      "negative",
+      "speaking",
+      "routines",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
