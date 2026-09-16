@@ -2188,5 +2188,91 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 59,
+    "title": "Brave People: Stories of Success - Vocabulario de acción",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Reading",
+      "Vocabulary"
+    ],
+    "description": "Libro de lectura graduada (nivel A1, con función de read aloud) que narra las historias de superación de Taylor Swift, Wangari Maathai, Hedy Lamarr, Yayoi Kusama y Madam C.J. Walker en música, ciencia, arte y negocios, escrito en presente simple con vocabulario y expresiones clave sencillas.",
+    "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQBWg1sJMZqeRaZ2jNGojGMhAZJEcnta0NCGGaWJTkVV7m0?e=thGKEY",
+    "duration": "20-25 minutos",
+    "objective": "Identificar y usar verbos de acción clave presentes en las historias, relacionándolos con los logros de cada personaje.",
+    "instructions": [
+      "NOTA: las historias han sido adaptadas para nivel A1 y pueden no ser 100% fieles a todos los detalles históricos originales; acláreselo a los estudiantes antes de leer.",
+      "Pre-reading: muestre los nombres/fotos de los 5 personajes y pregunte qué saben o qué imaginan sobre ellos.",
+      "Use el read aloud del libro para que los estudiantes escuchen y sigan la lectura de una o dos historias, apoyándose en la pronunciación modelada.",
+      "Después de cada historia, identifique junto con los estudiantes 3-4 verbos de acción clave (e.g., create, fight, design, overcome, succeed) y practique su significado con mímica o imágenes.",
+      "Actividad comunicativa: en parejas, los estudiantes eligen un verbo de la lista y hacen mímica para que su compañero lo adivine y lo use en una oración sobre el personaje correspondiente."
+    ],
+    "variations": [
+      "Convertir la mímica en un juego de equipos, sumando puntos por cada verbo adivinado y usado correctamente.",
+      "Pedir a los estudiantes que elijan su personaje favorito y digan un verbo que lo describa."
+    ],
+    "platform": "SharePoint (recurso propio)",
+    "resourceType": "Libro de lectura graduada con audio (read aloud)",
+    "tags": [
+      "reading",
+      "vocabulary",
+      "action verbs",
+      "biographies",
+      "unit 3"
+    ],
+    "active": true
+  },
+  {
+    "id": 60,
+    "title": "Brave People: Stories of Success - Present Simple",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Reading",
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Mismo libro de lectura graduada (nivel A1, con read aloud) sobre las historias de Taylor Swift, Wangari Maathai, Hedy Lamarr, Yayoi Kusama y Madam C.J. Walker, usado aquí para reforzar presente simple en tercera persona.",
+    "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQBWg1sJMZqeRaZ2jNGojGMhAZJEcnta0NCGGaWJTkVV7m0?e=thGKEY",
+    "duration": "20-25 minutos",
+    "objective": "Identificar y producir oraciones en presente simple (3ra persona singular) para describir los logros y retos de los personajes del libro.",
+    "instructions": [
+      "NOTA: las historias han sido adaptadas para nivel A1 y pueden no ser 100% fieles a todos los detalles históricos originales; acláreselo a los estudiantes antes de leer.",
+      "Use el read aloud para escuchar una historia mientras los estudiantes siguen el texto; pause para señalar ejemplos de presente simple en 3ra persona (e.g., 'She creates art.', 'She fights for the environment.').",
+      "En parejas, los estudiantes escriben 3 oraciones propias en presente simple sobre el personaje que acaban de leer, describiendo qué hace o qué logró.",
+      "Actividad comunicativa: cada pareja comparte una de sus oraciones con la clase sin decir el nombre del personaje; el resto del grupo adivina de quién se trata.",
+      "Cierre: pregunte '¿Which person's story do you find most inspiring? Why?' para practicar producción oral libre apoyada en el vocabulario visto."
+    ],
+    "variations": [
+      "Asignar un personaje distinto a cada pareja para cubrir los 5 en una sola sesión y luego hacer una puesta en común.",
+      "Pedir como tarea que escriban 2 oraciones en presente simple sobre alguien que ellos admiran, siguiendo el mismo modelo."
+    ],
+    "platform": "SharePoint (recurso propio)",
+    "resourceType": "Libro de lectura graduada con audio (read aloud)",
+    "tags": [
+      "reading",
+      "present simple",
+      "third person",
+      "biographies",
+      "speaking",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
