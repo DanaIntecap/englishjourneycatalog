@@ -2274,5 +2274,48 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 61,
+    "title": "Listening: What's Happening Now? (Clothes & Actions)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Listening",
+      "Vocabulary",
+      "Grammar"
+    ],
+    "description": "Serie de ejercicios de listening (English Practice Online) con audios cortos para practicar vocabulario de ropa y presente continuo, incluyendo preguntas y respuestas ('What's he wearing?', 'What are they doing?'), un diálogo telefónico y vocabulario de sentimientos/estados.",
+    "url": "https://english-practice.net/practice-listening-english-exercises-for-beginner-whats-happening-now/",
+    "duration": "30-35 minutos",
+    "objective": "Comprender descripciones orales de ropa y acciones en progreso usando presente continuo, y formular preguntas con 'What's he/she wearing?' y 'What are they doing?'.",
+    "instructions": [
+      "Ejercicio 1-2: los estudiantes escuchan y escriben el vocabulario de ropa, luego completan descripciones de personas usando presente continuo ('Polly and Penny are wearing yellow dresses...').",
+      "Ejercicios 3-4: repita en voz alta las oraciones y preguntas modelo para practicar pronunciación y entonación de preguntas con 'What's he wearing?' / 'What are they doing?'.",
+      "Ejercicio 5: en parejas, los estudiantes se turnan para preguntar y responder sobre las imágenes ('What's he doing? He's cooking.') antes de escuchar el audio y verificar.",
+      "Ejercicio 7-8: escuchen el diálogo telefónico entre Carl y su jefe, y respondan las preguntas sobre lo que está pasando durante las vacaciones de Carl.",
+      "Cierre: use el vocabulario de sentimientos del ejercicio 11 (bored, hungry, thirsty, cold, hot, tired, worried, angry) para que los estudiantes describan cómo se sienten ahora mismo."
+    ],
+    "variations": [
+      "Dividir la clase por estaciones: unos trabajan el vocabulario de ropa mientras otros practican las preguntas de acción, y luego rotan.",
+      "Usar solo los ejercicios 1, 2, 5 y 11 si el tiempo de clase es limitado, priorizando ropa + presente continuo + sentimientos."
+    ],
+    "platform": "English Practice Online",
+    "resourceType": "Listening con audio y ejercicios interactivos",
+    "tags": [
+      "present continuous",
+      "listening",
+      "clothes",
+      "feelings",
+      "unit 3"
+    ],
+    "active": true
   }
 ]
