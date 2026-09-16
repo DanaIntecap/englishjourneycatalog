@@ -1934,5 +1934,48 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 53,
+    "title": "Game: Present Simple (Vocabulary, Conjugation, Q&A)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Grammar",
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Juego interactivo (Games to Learn English) con 4 pasos progresivos: matching de vocabulario, identificación de frases, conjugación en presente simple (enfoque en 3ra persona 's') y preguntas/respuestas con do/does. Incluye 252 ítems en 42 sets distintos.",
+    "url": "https://www.gamestolearnenglish.com/present-simple/",
+    "duration": "20-25 minutos",
+    "objective": "Practicar vocabulario de acciones cotidianas y la conjugación del presente simple (afirmativo, negativo e interrogativo), con énfasis en la 3ra persona singular.",
+    "instructions": [
+      "Comparta pantalla con el juego y pida a los participantes que le vayan respondiendo en voz alta mientras usted avanza por los pasos 1 y 2 (matching e identificación de frases).",
+      "Divida a la clase en grupos pequeños y deje que sigan avanzando por su cuenta en los pasos 3 y 4 (conjugación y preguntas/respuestas).",
+      "Cada grupo nombra un 'secretario' encargado de anotar los términos o verbos nuevos que vayan encontrando durante el juego.",
+      "Al terminar, revise en grupo la lista de términos nuevos que anotó cada secretario.",
+      "Actividad de cierre: haga mímica de algunos de los verbos nuevos para que los estudiantes los adivinen y los usen en una oración con presente simple, o pida a los estudiantes que escriban sus propias oraciones con esos verbos."
+    ],
+    "variations": [
+      "Convertir el cierre de mímica en un juego de equipos, sumando puntos por cada verbo adivinado y usado correctamente en una oración.",
+      "Aprovechar que el juego tiene 42 sets distintos para repetirlo en sesiones posteriores sin repetir contenido."
+    ],
+    "platform": "Games to Learn English",
+    "resourceType": "Juego interactivo",
+    "tags": [
+      "present simple",
+      "vocabulary",
+      "third person s",
+      "questions",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
