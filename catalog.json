@@ -1606,5 +1606,333 @@
       "unit 8"
     ],
     "active": true
+  },
+  {
+    "id": 45,
+    "title": "Reading: US Retail Sales Suffer Sharpest Fall Since 2025 as Spending Slows",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Reading",
+      "Grammar"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre la fuerte caída de las ventas minoristas en EE.UU. Tema exigente: tiendas, ropa, productos y compras.",
+    "url": "https://esl-news.com/news/business/us-retail-sales-suffer-sharpest-fall-since-2025-as-spending-slows",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre ventas minoristas y describir cómo estaban las ventas en el pasado usando was/were y otros verbos en pasado simple.",
+    "instructions": [
+      "IMPORTANTE: seleccione la versión A2 del artículo antes de asignarlo.",
+      "Pre-reading, pregunte: '¿Do you think people are buying more or less this year?', '¿What kinds of stores do you go to most often?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página (sales, stores, spending, customers, etc.).",
+      "Post-reading, practique pasado simple con was/were y otros verbos irregulares del texto: 'Sales were lower last month.', 'People bought fewer clothes.'",
+      "Pida a los estudiantes que describan, en pasado, cómo eran las ventas o las compras en su familia el año pasado comparado con ahora."
+    ],
+    "variations": [
+      "Convertir la comparación pasado/presente en una tabla simple de dos columnas para apoyar visualmente a los estudiantes."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada",
+    "tags": [
+      "reading",
+      "shopping",
+      "past simple",
+      "was/were",
+      "unit 1"
+    ],
+    "active": true
+  },
+  {
+    "id": 46,
+    "title": "Reading: Global Food Prices Reach Highest Level Since 2022 as Supply Risks Grow (A2)",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Reading",
+      "Grammar"
+    ],
+    "description": "Versión A2 del artículo de ESL-News sobre el alza de precios de alimentos a nivel mundial. Buen vínculo léxico con azúcar, cereales, aceite, carne y lácteos.",
+    "url": "https://esl-news.com/news/business/global-food-prices-reach-highest-level-since-2022-as-supply-risks-grow",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre precios de alimentos y usar much/many y a little/a few al hablar de cantidades de comida en un presupuesto o menú.",
+    "instructions": [
+      "IMPORTANTE: seleccione la versión A2 del artículo antes de asignarlo.",
+      "Pre-reading, pregunte: '¿Which foods do you buy every week?', '¿Do you think food prices are rising in your country too?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página.",
+      "Actividad de presupuesto/menú: en parejas, los estudiantes planean un menú semanal con un presupuesto limitado, usando much/many ('How much rice do we need?', 'How many eggs?') y a little/a few ('We only have a little oil left', 'We need a few more vegetables')."
+    ],
+    "variations": [
+      "Comparar los menús entre parejas y discutir qué alimentos subieron más de precio según el artículo."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada",
+    "tags": [
+      "reading",
+      "food prices",
+      "quantifiers",
+      "much/many",
+      "unit 2"
+    ],
+    "active": true
+  },
+  {
+    "id": 47,
+    "title": "Reading: AI Boom Cuts Graduate Job Vacancies by 50%",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Reading",
+      "Grammar"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre la caída de vacantes para recién graduados debido al auge de la IA. Tema exigente: vacantes, contratación, trabajadores y habilidades.",
+    "url": "https://esl-news.com/news/business/ai-boom-cuts-graduate-job-vacancies-by-50",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre el mercado laboral y la IA, practicando pasado simple con verbos como dropped, said, were y was.",
+    "instructions": [
+      "IMPORTANTE: seleccione la versión A2 del artículo antes de asignarlo.",
+      "Pre-reading, pregunte: '¿Do you think AI is good or bad for young people looking for jobs?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página (vacancies, hiring, skills, workers, etc.).",
+      "Post-reading, identifique junto con los estudiantes los verbos en pasado del texto (dropped, said, were, was) y practique oraciones propias usando pasado simple sobre cambios recientes en el trabajo o los estudios."
+    ],
+    "variations": [
+      "Pedir a los estudiantes que investiguen y compartan un dato sobre el empleo en su propio país usando pasado simple."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada",
+    "tags": [
+      "reading",
+      "jobs",
+      "employment",
+      "past simple",
+      "unit 3"
+    ],
+    "active": true
+  },
+  {
+    "id": 48,
+    "title": "Reading: Could Using AI Too Much Weaken Our Thinking Skills?",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "4"
+    ],
+    "skill": [
+      "Reading",
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre si el uso excesivo de IA puede debilitar nuestras habilidades de pensamiento. Tema exigente: pensamiento, aprendizaje y resolución de tareas.",
+    "url": "https://esl-news.com/news/health-articles/could-using-ai-too-much-weaken-our-thinking-skills",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre IA y pensamiento crítico, y usar can/can't para describir qué puede hacer una persona por sí misma y qué habilidades necesita desarrollar.",
+    "instructions": [
+      "IMPORTANTE: seleccione la versión A2 del artículo antes de asignarlo.",
+      "Pre-reading, pregunte: '¿What can you do without using a computer or your phone?', '¿Do you use AI to help you study or work?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página.",
+      "Post-reading, practique can/can't en el contexto: 'I can solve this problem without AI.', 'I can't remember phone numbers anymore.'",
+      "Cierre pidiendo a los estudiantes que hagan una lista de 3 habilidades que pueden hacer solos y 3 que quieren desarrollar más."
+    ],
+    "variations": [
+      "Debate breve en grupos pequeños: '¿Is AI making us smarter or lazier?'"
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada",
+    "tags": [
+      "reading",
+      "artificial intelligence",
+      "thinking skills",
+      "can/can't",
+      "unit 4"
+    ],
+    "active": true
+  },
+  {
+    "id": 49,
+    "title": "Reading: Starlink Takes Aim at the World's Mobile Phone Giants",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Reading",
+      "Grammar"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre la competencia de Starlink contra las grandes compañías de telefonía móvil. Alto para comparativos; complementario en vocabulario de tecnología. La versión A2 contiene 'smaller than' y 'closer'.",
+    "url": "https://esl-news.com/news/tech-science/starlink-takes-aim-at-the-worlds-mobile-phone-giants",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre competencia tecnológica y usar comparativos y superlativos para comparar productos o empresas.",
+    "instructions": [
+      "IMPORTANTE: seleccione la versión A2 del artículo antes de asignarlo.",
+      "Pre-reading, pregunte: '¿Which phone company do you think is the biggest in the world?'",
+      "Los estudiantes leen el artículo, identificando las frases comparativas 'smaller than' y 'closer' en el texto.",
+      "Post-reading, practique comparativos y superlativos con adjetivos del programa (fast/faster/the fastest, big/bigger/the biggest, etc.), comparando compañías de tecnología o productos conocidos por los estudiantes.",
+      "Cierre pidiendo a los estudiantes que escriban 2 oraciones comparativas y 1 superlativa sobre tecnología que usan."
+    ],
+    "variations": [
+      "Extender con una tabla de comparación de 2-3 productos tecnológicos usando los adjetivos trabajados en clase."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada",
+    "tags": [
+      "reading",
+      "technology",
+      "comparatives",
+      "superlatives",
+      "unit 5"
+    ],
+    "active": true
+  },
+  {
+    "id": 50,
+    "title": "Reading: Snoop Dogg Offers $30,000 Job to Taste Ice Cream (A2)",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "6"
+    ],
+    "skill": [
+      "Reading",
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Versión A2 del artículo de ESL-News sobre la oferta de trabajo de Snoop Dogg para probar helado y crear contenido de marketing en redes sociales.",
+    "url": "https://esl-news.com/news/culture/snoop-dogg-offers-30000-job-to-taste-ice-cream",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre una oferta laboral e identificar requisitos y responsabilidades del puesto, reformulándolos con has to.",
+    "instructions": [
+      "IMPORTANTE: seleccione la versión A2 del artículo antes de asignarlo.",
+      "Pre-reading, pregunte: '¿What do you think this job involves, besides eating ice cream?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página.",
+      "Actividad de requisitos y responsabilidades: en parejas, los estudiantes identifican las tareas del puesto (viajar, probar productos, informar al equipo, crear videos para redes sociales) y las reformulan con has to: 'He has to travel a lot.', 'She has to make videos for social media.'",
+      "Conecte la tarea de crear videos con el concepto de promoción/mercadeo de marca."
+    ],
+    "variations": [
+      "Pedir a los estudiantes que describan, con has to, las responsabilidades de su propio trabajo o estudio."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada",
+    "tags": [
+      "reading",
+      "jobs",
+      "obligations",
+      "has to",
+      "marketing",
+      "unit 6"
+    ],
+    "active": true
+  },
+  {
+    "id": 51,
+    "title": "Reading: Standard Chartered CEO Apologizes for Calling Staff “Lower-Value Human Capital”",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Reading",
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News) sobre la disculpa pública de un CEO tras referirse a su personal como 'capital humano de menor valor'. Tema exigente para discusión: respeto al personal, responsabilidad y comunicación.",
+    "url": "https://esl-news.com/news/business/standard-chartered-ceo-apologizes-for-calling-staff-lower-value-human-capital",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre liderazgo y comunicación corporativa, practicar pasado simple, y comparar las acciones de un jefe con las de un buen líder.",
+    "instructions": [
+      "IMPORTANTE: seleccione la versión A2 del artículo antes de asignarlo.",
+      "Pre-reading, pregunte: '¿What makes a good boss or leader?'",
+      "Los estudiantes leen el artículo, apoyándose en el vocabulario de la página, e identifican los verbos en pasado usados para narrar los hechos.",
+      "Post-reading, en grupos pequeños, los estudiantes comparan las acciones del CEO en el artículo con las de un 'buen líder', usando ejemplos concretos.",
+      "Cierre con una puesta en común: cada grupo comparte una cualidad de liderazgo que consideran más importante y por qué."
+    ],
+    "variations": [
+      "Pedir a los estudiantes que describan, en pasado, una experiencia (propia o conocida) con un buen o mal líder."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada",
+    "tags": [
+      "reading",
+      "leadership",
+      "communication",
+      "past simple",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 52,
+    "title": "Grammar: Present Simple - I do, I don't, Do I?",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Lección de gramática (Test-English) sobre presente simple afirmativo, negativo e interrogativo, con explicación, gráficos y 4 tipos diferentes de ejercicios interactivos con calificación automática.",
+    "url": "https://test-english.com/grammar-points/a1/present-simple/",
+    "duration": "20-25 minutos",
+    "objective": "Formar correctamente oraciones afirmativas, negativas e interrogativas en presente simple, incluyendo el uso de do/does y don't/doesn't.",
+    "instructions": [
+      "Repase la explicación y los gráficos de la página con el grupo antes de empezar los ejercicios.",
+      "La página tiene 4 tipos diferentes de ejercicios (pestañas 1 a 4); asigne los 4 en orden para cubrir afirmativas, negativas, preguntas y uso combinado.",
+      "Los estudiantes resuelven cada ejercicio individualmente; la plataforma califica automáticamente al enviarlo.",
+      "Actividad comunicativa de cierre: pida a cada estudiante que elija UNA oración de los ejercicios que pueda relacionar con su propia vida (o adaptarla) y la comparta con la clase; también puede pedirles que mencionen cuál oración les pareció más complicada y qué aprendieron de ella."
+    ],
+    "variations": [
+      "Hacer la actividad comunicativa en parejas antes de compartir con toda la clase, para dar más confianza a los estudiantes tímidos.",
+      "Llevar un registro grupal en la pizarra de los errores más comunes detectados en los 4 ejercicios."
+    ],
+    "platform": "Test-English",
+    "resourceType": "Lección de gramática con ejercicios interactivos",
+    "tags": [
+      "present simple",
+      "grammar",
+      "do/does",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
