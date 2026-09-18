@@ -2483,5 +2483,44 @@
       "unit 6"
     ],
     "active": true
+  },
+  {
+    "id": 66,
+    "title": "Crossword: Marketing and Advertising Verbs - Part 1",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "6"
+    ],
+    "skill": [
+      "Vocabulary"
+    ],
+    "description": "Crucigrama (Crossword Labs) con 9 verbos de marketing y publicidad (afford, advertise, accomplish, profit, believe, perform, raise, anticipate, declare), presentados con sus definiciones en inglés.",
+    "url": "https://crosswordlabs.com/view/marketing-and-advertising-verbs-part-1",
+    "duration": "10-15 minutos",
+    "objective": "Reconocer y usar verbos relacionados con marketing y publicidad a partir de sus definiciones en inglés.",
+    "instructions": [
+      "Presente los 9 verbos objetivo (afford, advertise, accomplish, profit, believe, perform, raise, anticipate, declare) con un ejemplo en oración antes de resolver el crucigrama.",
+      "Los estudiantes resuelven el crucigrama individualmente o en parejas, leyendo la definición en inglés para deducir el verbo correcto.",
+      "Revise las respuestas en grupo y aclare dudas de significado o pronunciación."
+    ],
+    "variations": [
+      "Convertirlo en una carrera por parejas: la primera pareja en completar el crucigrama correctamente gana.",
+      "Actividad de cierre: pedir a los estudiantes que usen 3 de los verbos nuevos en oraciones propias sobre una campaña de marketing imaginaria."
+    ],
+    "platform": "Crossword Labs",
+    "resourceType": "Crucigrama interactivo",
+    "tags": [
+      "marketing",
+      "advertising",
+      "vocabulary",
+      "verbs",
+      "unit 6"
+    ],
+    "active": true
   }
 ]
