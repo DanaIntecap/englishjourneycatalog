@@ -2441,5 +2441,47 @@
       "unit 5"
     ],
     "active": true
+  },
+  {
+    "id": 65,
+    "title": "Unit 6 Grammar + Conversation: Have to, Don't have to, May, May not, Can, Can't",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "6"
+    ],
+    "skill": [
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Recurso propio (English for a Whole Life) de gramática para la Unidad 6, enfocado en los modales have to / don't have to (obligación), may / may not (posibilidad/permiso) y can / can't (habilidad/permiso), seguido de una conversación usando el vocabulario de la unidad.",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/Grammar/a2-1/unit-6",
+    "duration": "30-35 minutos",
+    "objective": "Usar correctamente have to/don't have to, may/may not y can/can't para expresar obligación, posibilidad, permiso y habilidad, integrándolos en una conversación con vocabulario de la unidad 6.",
+    "instructions": [
+      "Primero, trabaje la parte de gramática: presente y practique los ejercicios de la página sobre have to/don't have to (obligación/falta de obligación), may/may not (posibilidad o permiso formal) y can/can't (habilidad o permiso informal).",
+      "Verifique comprensión con ejemplos orales rápidos de cada modal antes de pasar a la conversación.",
+      "Actividad de speaking: en parejas, los estudiantes conversan usando el vocabulario de la unidad 6 combinado con los modales trabajados (e.g., 'At my job, I have to...', 'I can't...on weekends', 'You may...if...').",
+      "Cierre pidiendo a algunas parejas que compartan con la clase una oración de cada modal que usaron en su conversación."
+    ],
+    "variations": [
+      "Dar tarjetas con situaciones o roles distintos para variar el contexto de la conversación entre parejas.",
+      "Convertir el cierre en una ronda de 'verdadero para mí' donde cada estudiante comparte una obligación y una habilidad reales usando have to y can."
+    ],
+    "platform": "English for a Whole Life (recurso propio)",
+    "resourceType": "Página de gramática con actividad de speaking",
+    "tags": [
+      "modals",
+      "have to",
+      "can/can't",
+      "may/may not",
+      "speaking",
+      "unit 6"
+    ],
+    "active": true
   }
 ]
