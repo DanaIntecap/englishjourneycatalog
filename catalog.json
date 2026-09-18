@@ -2522,5 +2522,44 @@
       "unit 6"
     ],
     "active": true
+  },
+  {
+    "id": 67,
+    "title": "Crossword: Marketing and Advertising Verbs - Part 2",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "6"
+    ],
+    "skill": [
+      "Vocabulary"
+    ],
+    "description": "Segunda parte del crucigrama (Crossword Labs) con 7 verbos adicionales de marketing y publicidad (influence, get, concentrate, come into existence, notice/realize, deny, boost sales, venture), con definiciones en inglés.",
+    "url": "https://crosswordlabs.com/view/marketing-and-advertising-verbs-part-2",
+    "duration": "10-15 minutos",
+    "objective": "Reconocer y usar un segundo grupo de verbos relacionados con marketing y publicidad a partir de sus definiciones en inglés.",
+    "instructions": [
+      "Presente los verbos objetivo (influence, get, concentrate, come into existence, notice/realize, deny, boost sales, venture) con un ejemplo en oración antes de resolver el crucigrama.",
+      "Los estudiantes resuelven el crucigrama individualmente o en parejas, leyendo la definición en inglés para deducir el verbo correcto.",
+      "Revise las respuestas en grupo y aclare dudas de significado o pronunciación."
+    ],
+    "variations": [
+      "Usar esta Parte 2 como repaso/seguimiento de la Parte 1 en una sesión posterior.",
+      "Actividad de cierre: pedir a los estudiantes que combinen un verbo de la Parte 1 y uno de la Parte 2 en una sola oración sobre una campaña de marketing."
+    ],
+    "platform": "Crossword Labs",
+    "resourceType": "Crucigrama interactivo",
+    "tags": [
+      "marketing",
+      "advertising",
+      "vocabulary",
+      "verbs",
+      "unit 6"
+    ],
+    "active": true
   }
 ]
