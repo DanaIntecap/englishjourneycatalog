@@ -2317,5 +2317,129 @@
       "unit 3"
     ],
     "active": true
+  },
+  {
+    "id": 62,
+    "title": "Top Notch Unit 9: What Are You Doing This Weekend? (Present Continuous for Future Plans)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Worksheet de actividad con dos videos (Top Notch TV Fundamentals): un sitcom y una entrevista en la calle, usados para practicar presente continuo con función de planes futuros ('this weekend', 'this evening', 'next Monday').",
+    "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQCCaHHUkxyBSLuSdSwCvXOEAWxndrW8S4jRFz7jTnUBYD0?e=Yai4hH",
+    "duration": "30-35 minutos",
+    "objective": "Comprender y producir oraciones en presente continuo para hablar de planes futuros, usando expresiones de tiempo como 'this weekend', 'this evening' y 'next Monday'.",
+    "instructions": [
+      "Video 1 (Sitcom): reproduzca el episodio y pida a los estudiantes que marquen qué actividad hace Marie y cuál hace Cheryl el sábado (Parte A).",
+      "Con base en la Parte A, los estudiantes escriben oraciones en presente continuo sobre los planes de Marie y Cheryl (Parte B), y completan diálogos cortos en presente continuo (Parte C).",
+      "Video 2 (Interview): reproduzca la entrevista en la calle y pida a los estudiantes que marquen los planes de San para el fin de semana (Parte A).",
+      "Los estudiantes completan las oraciones sobre los planes de San para el próximo lunes usando el banco de palabras (Parte B).",
+      "Actividad comunicativa: usando la tabla de personas/actividades/tiempo (Parte C), los estudiantes escriben 5 oraciones verdaderas en presente continuo sobre planes futuros propios o de compañeros, y las comparten en parejas."
+    ],
+    "variations": [
+      "Pausar los videos en momentos clave para verificar comprensión antes de continuar.",
+      "Cerrar con una ronda oral donde cada estudiante comparte un plan real para el fin de semana usando presente continuo."
+    ],
+    "platform": "SharePoint (Top Notch TV / Pearson)",
+    "resourceType": "Worksheet con video de listening",
+    "tags": [
+      "present continuous",
+      "future plans",
+      "listening",
+      "speaking",
+      "unit 3"
+    ],
+    "active": true
+  },
+  {
+    "id": 63,
+    "title": "Adverbs of Sequence",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Worksheet interactivo (Liveworksheets) para practicar adverbios de secuencia (first, then, next, after that, finally) en la narración de acciones o procesos.",
+    "url": "https://www.liveworksheets.com/worksheet/en/english-second-language-esl/920150",
+    "duration": "10-15 minutos",
+    "objective": "Usar correctamente adverbios de secuencia (first, then, next, after that, finally) para ordenar y narrar una serie de acciones.",
+    "instructions": [
+      "Repase brevemente los adverbios de secuencia y su orden lógico (first → then/next → after that → finally) con ejemplos en la pizarra.",
+      "Los estudiantes completan el worksheet en línea individualmente; la plataforma califica automáticamente al enviarlo.",
+      "Revise en grupo los errores más comunes al finalizar."
+    ],
+    "variations": [
+      "Actividad comunicativa de cierre: pida a los estudiantes que narren su rutina matutina en 4-5 pasos usando los adverbios de secuencia trabajados.",
+      "Convertirlo en un ejercicio oral en parejas donde uno narra un proceso simple (hacer café, prepararse para salir) y el otro identifica los adverbios usados."
+    ],
+    "platform": "Liveworksheets",
+    "resourceType": "Worksheet interactivo",
+    "tags": [
+      "adverbs of sequence",
+      "grammar",
+      "sequencing",
+      "unit 5"
+    ],
+    "active": true
+  },
+  {
+    "id": 64,
+    "title": "Video: Daily Routines (Present Simple)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "5"
+    ],
+    "skill": [
+      "Retention",
+      "Listening",
+      "Grammar"
+    ],
+    "description": "Video de YouTube sobre rutinas diarias en presente simple, usado con adverbios de frecuencia (always, usually, never) para reforzar retención de vocabulario y estructura.",
+    "url": "https://www.youtube.com/watch?v=HwLkbtVJ7Tw",
+    "duration": "15-20 minutos",
+    "objective": "Retener y reproducir oraciones en presente simple sobre rutinas diarias, y transformarlas a su forma negativa.",
+    "instructions": [
+      "Comparta el video UNA sola vez, sin pausas, para que los estudiantes escuchen la rutina completa.",
+      "Después de verlo, haga preguntas sobre el contenido del video para verificar comprensión general.",
+      "Pida a un estudiante que recuerde y diga en voz alta una acción de su propia rutina (no necesariamente del video), para practicar retención y producción libre.",
+      "Pida a los estudiantes que repitan algunas oraciones clave del video en presente simple.",
+      "Finalmente, pídales que transformen esas mismas oraciones a su forma negativa (e.g., 'She wakes up at 7' → 'She doesn't wake up at 7')."
+    ],
+    "variations": [
+      "Repetir el video una segunda vez solo si el grupo tiene dificultad para recordar las oraciones.",
+      "Cerrar pidiendo a cada estudiante que comparta una oración negativa verdadera sobre su propia rutina."
+    ],
+    "platform": "YouTube",
+    "resourceType": "Video con actividad de retención",
+    "tags": [
+      "present simple",
+      "daily routines",
+      "retention",
+      "negative",
+      "unit 5"
+    ],
+    "active": true
   }
 ]
