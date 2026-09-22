@@ -2649,5 +2649,44 @@
       "unit 1"
     ],
     "active": true
+  },
+  {
+    "id": 70,
+    "title": "Adverbs of Frequency Game",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "6"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Juego interactivo (Games to Learn English) de 3 fases: reconocimiento visual del adverbio de frecuencia, práctica contextual con los hábitos de un personaje, y construcción de oraciones arrastrando palabras. Incluye 4 rondas de vocabulario.",
+    "url": "https://www.gamestolearnenglish.com/adverbs-of-frequency/",
+    "duration": "15-20 minutos",
+    "objective": "Reconocer el significado de los adverbios de frecuencia (always, usually, often, sometimes, never) y ubicarlos correctamente dentro de una oración en presente simple.",
+    "instructions": [
+      "Fase 1: los estudiantes emparejan cada adverbio con su escala visual (always = 100%, never = 0%, etc.).",
+      "Fase 2: viendo el horario/hábitos de un personaje, seleccionan el adverbio correcto que describe la frecuencia de una acción.",
+      "Fase 3: arrastran palabras para construir oraciones completas, cuidando la posición correcta del adverbio (antes del verbo principal, después de 'to be').",
+      "Cierre: pida a los estudiantes que escriban 2-3 oraciones verdaderas sobre sí mismos usando los adverbios trabajados."
+    ],
+    "variations": [
+      "Usarlo como tarea asignada mediante el 'Teacher Dashboard' del sitio para revisar el progreso individual de cada estudiante.",
+      "Cerrar con una ronda oral de '¿How often do you...?' entre compañeros usando los adverbios practicados."
+    ],
+    "platform": "Games to Learn English",
+    "resourceType": "Juego interactivo",
+    "tags": [
+      "adverbs of frequency",
+      "grammar",
+      "word order",
+      "unit 6"
+    ],
+    "active": true
   }
 ]
