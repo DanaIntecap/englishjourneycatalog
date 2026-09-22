@@ -2561,5 +2561,49 @@
       "unit 6"
     ],
     "active": true
+  },
+  {
+    "id": 68,
+    "title": "Video: How to Talk About Personality in English (Easy English Conversations Ep. 16)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Listening",
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Video (Easy English Conversations, Episodio 16) sobre cómo hablar de la personalidad en inglés. El video incluye una hoja de trabajo disponible en su descripción de YouTube.",
+    "url": "https://www.youtube.com/watch?v=osDr7To4Ml4",
+    "duration": "25-30 minutos",
+    "objective": "Reconocer adjetivos de personalidad y usarlos para describirse a sí mismos y a un compañero con la estructura 'What am I/is he/she like?'.",
+    "instructions": [
+      "Reproduzca el video y pida a los estudiantes que recuerden los adjetivos de personalidad mencionados.",
+      "La descripción del video en YouTube incluye la hoja de trabajo (worksheet) correspondiente; descárguela y compártala con el grupo si lo desea.",
+      "Cada participante elige 2 o 3 adjetivos que lo describan y se presenta con la estructura: 'What am I like? I'm ___, ___ and ___.'",
+      "Envíe a los estudiantes a salas de grupos pequeños (breakout rooms) para que se presenten entre ellos usando esos adjetivos.",
+      "Al regresar de las salas, cada estudiante presenta a su compañero frente al profesor o a otro compañero, usando la tercera persona: 'What is María like? She is active, funny, and athletic.'",
+      "Los estudiantes también pueden compartir otra información personal que su compañero haya mencionado durante la sala."
+    ],
+    "variations": [
+      "Si el grupo es pequeño, omitir las salas de grupos y hacer las presentaciones directamente en pareja frente a la clase.",
+      "Escribir en la pizarra los adjetivos de personalidad recordados por el grupo antes de la actividad de presentación."
+    ],
+    "platform": "YouTube",
+    "resourceType": "Video con actividad de speaking",
+    "tags": [
+      "personality",
+      "adjectives",
+      "speaking",
+      "listening",
+      "unit 1"
+    ],
+    "active": true
   }
 ]
