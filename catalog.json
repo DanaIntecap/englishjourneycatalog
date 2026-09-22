@@ -2605,5 +2605,49 @@
       "unit 1"
     ],
     "active": true
+  },
+  {
+    "id": 69,
+    "title": "Grammar Talks A1-09: Guess the Celebrity (Subject Pronouns)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Audio y transcripción (ELLLO) en el que dos hablantes juegan a adivinar celebridades (Taylor Swift, Messi, Jackie Chan, Beyoncé, Usain Bolt) usando pronombres personales sujeto (he/she/they) y adjetivos descriptivos. Incluye recuadro de gramática de pronombres. Puede usarse antes de la actividad de personalidad de la Unidad 1.",
+    "url": "https://www.elllo.org/english/grammar/A1-09-ShantelTodd-Celebrities-SubjectPronoun.htm",
+    "duration": "25-30 minutos",
+    "objective": "Comprender el uso de pronombres personales sujeto (he/she/they) junto con adjetivos descriptivos para hablar de terceras personas, y aplicarlos en una actividad de adivinanza oral.",
+    "instructions": [
+      "Reproduzca el audio 'Guess the Celebrity' y pida a los estudiantes que identifiquen a las celebridades mencionadas y los adjetivos usados para describirlas.",
+      "Revise brevemente el recuadro de gramática de pronombres sujeto (he, she, it, they) que acompaña la lección.",
+      "Cada estudiante elige en secreto su propia celebridad; el instructor recopila una lista con los nombres de todas las celebridades elegidas por el grupo y la comparte con todos.",
+      "Cada estudiante prepara información personal, adjetivos y atributos sobre su celebridad elegida, usando pronombres sujeto (e.g., 'She is American. She is a singer. She is very talented.').",
+      "En salas de grupos pequeños, cada estudiante describe su celebridad (sin decir el nombre) a sus compañeros, quienes intentan adivinar de cuál celebridad de la lista se trata."
+    ],
+    "variations": [
+      "Usar esta actividad como puente hacia la actividad de personalidad de la Unidad 1 (video de Easy English Conversations), reutilizando los mismos adjetivos.",
+      "Si el grupo es pequeño, hacer la adivinanza en plenaria en lugar de salas de grupos."
+    ],
+    "platform": "ELLLO",
+    "resourceType": "Audio con transcripción y actividad de speaking",
+    "tags": [
+      "subject pronouns",
+      "celebrities",
+      "listening",
+      "speaking",
+      "adjectives",
+      "unit 1"
+    ],
+    "active": true
   }
 ]
