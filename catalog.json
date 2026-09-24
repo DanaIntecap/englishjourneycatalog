@@ -2688,5 +2688,160 @@
       "unit 6"
     ],
     "active": true
+  },
+  {
+    "id": 71,
+    "title": "Warm-up Quiz: To Be Verb Questions (Am, Are, Is)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar"
+    ],
+    "description": "Video quiz de calentamiento sobre preguntas con el verbo to be (am, are, is) en presente. Dice las respuestas en voz alta, lo cual permite a los estudiantes empezar a escuchar inglés desde los primeros minutos de clase, y tiene música de fondo relajante.",
+    "url": "https://youtu.be/1Qryc55VFa8",
+    "duration": "5-10 minutos",
+    "objective": "Reconocer y responder correctamente preguntas con el verbo to be (am, are, is) en presente, practicando comprensión auditiva desde el inicio de la clase.",
+    "instructions": [
+      "Reproduzca el video al inicio de la clase como actividad de warm-up, sin pausas.",
+      "Pida a los estudiantes que respondan en voz alta o mentalmente antes de que el video dé la respuesta correcta.",
+      "Al finalizar, revise brevemente cualquier pregunta que haya generado dudas o confusión.",
+      "Aproveche la música relajante del video para ambientar el inicio de la clase de forma tranquila."
+    ],
+    "variations": [
+      "Repetir el video una segunda vez si el grupo tiene dificultad para seguir el ritmo de las preguntas.",
+      "Pedir a los estudiantes que anoten 2-3 preguntas que les parecieron difíciles para repasarlas después."
+    ],
+    "platform": "YouTube",
+    "resourceType": "Video quiz de warm-up",
+    "tags": [
+      "to be",
+      "am/are/is",
+      "warm-up",
+      "listening",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 72,
+    "title": "Order the Adjectives",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Worksheet interactivo (Liveworksheets) para practicar el orden correcto de adjetivos en inglés dentro de una oración.",
+    "url": "https://www.liveworksheets.com/worksheet/en/english-second-language-esl/425437",
+    "duration": "10-15 minutos",
+    "objective": "Ordenar correctamente varios adjetivos dentro de una misma oración siguiendo las reglas de orden de adjetivos en inglés.",
+    "instructions": [
+      "Repase brevemente el orden general de adjetivos en inglés (opinión, tamaño, edad, forma, color, origen, material, propósito) con 2-3 ejemplos en la pizarra.",
+      "Los estudiantes completan el worksheet en línea individualmente; la plataforma califica automáticamente al enviarlo.",
+      "Revise en grupo los errores más comunes al finalizar."
+    ],
+    "variations": [
+      "Actividad de cierre: pedir a los estudiantes que describan un objeto real (su mochila, su teléfono) usando al menos 3 adjetivos en el orden correcto."
+    ],
+    "platform": "Liveworksheets",
+    "resourceType": "Worksheet interactivo",
+    "tags": [
+      "adjectives",
+      "order of adjectives",
+      "grammar",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 73,
+    "title": "Past Time Expressions",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Worksheet interactivo de opción múltiple (Liveworksheets) para practicar expresiones de tiempo pasado: yesterday, last (night/week/month), ago.",
+    "url": "https://www.liveworksheets.com/worksheet/en/english-second-language-esl/513874",
+    "duration": "10-15 minutos",
+    "objective": "Usar correctamente expresiones de tiempo pasado (yesterday, last + periodo, ago) en oraciones con pasado simple.",
+    "instructions": [
+      "Repase brevemente el uso de yesterday, last (night/week/month/year) y ago (two days ago, a year ago) con ejemplos en la pizarra.",
+      "Los estudiantes completan el worksheet en línea individualmente; la plataforma califica automáticamente al enviarlo.",
+      "Revise en grupo los errores más comunes al finalizar."
+    ],
+    "variations": [
+      "Actividad de cierre: pedir a los estudiantes que compartan oralmente algo que hicieron 'yesterday', 'last weekend' y 'two days ago'."
+    ],
+    "platform": "Liveworksheets",
+    "resourceType": "Worksheet interactivo",
+    "tags": [
+      "past time expressions",
+      "past simple",
+      "grammar",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 74,
+    "title": "Warm-up Quiz: Past Simple - Time Words",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar"
+    ],
+    "description": "Video quiz de calentamiento (YouTube) sobre expresiones de tiempo en pasado simple. Tiene la ventaja de leer las respuestas en voz alta, permitiendo a los estudiantes practicar comprensión auditiva desde el inicio de la clase.",
+    "url": "https://www.youtube.com/watch?v=KmqxtXT1szM",
+    "duration": "5-10 minutos",
+    "objective": "Reconocer y usar correctamente expresiones de tiempo en pasado simple, practicando comprensión auditiva como warm-up.",
+    "instructions": [
+      "Reproduzca el video al inicio de la clase como actividad de warm-up, sin pausas.",
+      "Pida a los estudiantes que respondan en voz alta o mentalmente antes de que el video dé la respuesta correcta.",
+      "Al finalizar, revise brevemente cualquier expresión de tiempo que haya generado dudas."
+    ],
+    "variations": [
+      "Usarlo como seguimiento del worksheet 'Past Time Expressions' de la misma unidad, para reforzar el mismo contenido con un formato distinto.",
+      "Pedir a los estudiantes que anoten las expresiones de tiempo mencionadas y las usen en una oración propia al final."
+    ],
+    "platform": "YouTube",
+    "resourceType": "Video quiz de warm-up",
+    "tags": [
+      "past simple",
+      "time expressions",
+      "warm-up",
+      "listening",
+      "unit 7"
+    ],
+    "active": true
   }
 ]
