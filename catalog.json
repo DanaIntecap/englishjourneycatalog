@@ -2843,5 +2843,86 @@
       "unit 7"
     ],
     "active": true
+  },
+  {
+    "id": 75,
+    "title": "Listening Exercises A1 - Directions",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Listening"
+    ],
+    "description": "Página con 5 ejercicios de audio (English Practice Online) sobre cómo pedir y dar direcciones, de dificultad intermedia dentro del nivel A1. NO son interactivos: la respuesta y transcripción aparecen al final de cada ejercicio para autocorregirse.",
+    "url": "https://english-practice.net/listening-exercises-a1-directions/",
+    "duration": "25-30 minutos",
+    "objective": "Comprender indicaciones orales de direcciones (turn left/right, go straight, on the corner, across from) e identificar ubicaciones en un mapa o descripción.",
+    "instructions": [
+      "IMPORTANTE: esta página NO es interactiva; reproduzca cada audio para todo el grupo y revise la respuesta y transcripción al final de cada ejercicio en la pantalla compartida.",
+      "Antes de escuchar, repase el vocabulario clave de direcciones (turn left/right, go straight, on the corner, next to, across from).",
+      "Reproduzca el Ejercicio 1 y pida a los estudiantes que identifiquen el mapa/lugar correcto antes de revisar la respuesta.",
+      "Continúe con los Ejercicios 2 a 5 según el tiempo disponible, pausando para verificar comprensión y revisar la transcripción cuando sea necesario.",
+      "Seleccione los ejercicios más relevantes para su grupo si el tiempo de clase es limitado; no es necesario cubrir los 5 en una sola sesión."
+    ],
+    "variations": [
+      "Usar solo 2-3 ejercicios como práctica de comprensión y dejar el resto para una sesión de repaso.",
+      "Después de escuchar, pedir a los estudiantes que en parejas practiquen dando direcciones similares usando un mapa de su propia comunidad."
+    ],
+    "platform": "English Practice Online",
+    "resourceType": "Listening con audio y transcripción (no interactivo)",
+    "tags": [
+      "directions",
+      "listening",
+      "prepositions of place",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 76,
+    "title": "How Do I Get To...? (Giving Directions Pair Activity)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Speaking"
+    ],
+    "description": "Actividad de speaking en parejas (Teach This) con dos mapas distintos (Student A y B). Cada estudiante pregunta y da direcciones a distintos lugares partiendo de un punto de inicio común, marcando las ubicaciones en su mapa según las indicaciones de su compañero.",
+    "url": "https://www.teach-this.com/images/resources/how-do-i-get-to.pdf",
+    "duration": "20-25 minutos",
+    "objective": "Preguntar y dar direcciones usando el lenguaje funcional de ubicación (turn left/right, go straight, go past, next to, on the corner) para llegar a distintos lugares en un mapa.",
+    "instructions": [
+      "Dibuje un mapa simple en la pizarra y repase con todo el grupo cómo pedir y dar direcciones usando el lenguaje útil del worksheet.",
+      "Divida a los estudiantes en parejas (Student A y B) y entregue a cada uno su worksheet correspondiente, sin que vean el mapa de su compañero.",
+      "Si es posible, siéntelos espalda con espalda para evitar que se copien.",
+      "Cada estudiante pregunta a su compañero, empezando siempre desde el punto de 'start': 'How do I get to the hotel?', y su compañero da las indicaciones.",
+      "Cuando un estudiante sigue las indicaciones correctamente, marca la ubicación en su mapa.",
+      "Al finalizar, las parejas comparan sus mapas para ver si marcaron correctamente todas las ubicaciones."
+    ],
+    "variations": [
+      "Modelar una ronda de ejemplo con toda la clase antes de dividir en parejas.",
+      "Para clases virtuales, usar una pizarra digital compartida donde cada estudiante marque su mapa mientras habla con su compañero en una sala privada."
+    ],
+    "platform": "Teach This",
+    "resourceType": "Worksheet / actividad de speaking en parejas",
+    "tags": [
+      "directions",
+      "speaking",
+      "prepositions of place",
+      "unit 7"
+    ],
+    "active": true
   }
 ]
