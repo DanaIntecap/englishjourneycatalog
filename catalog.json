@@ -3050,5 +3050,44 @@
       "unit 2"
     ],
     "active": true
+  },
+  {
+    "id": 80,
+    "title": "This, That, These, Those - Grammar Poster",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Poster/gráfico de gramática (Woodward English) que muestra visualmente this/that/these/those según cercanía (near/far) y número (singular/plural).",
+    "url": "https://www.woodwardenglish.com/this-that-these-those/",
+    "duration": "10 minutos",
+    "objective": "Repasar y consolidar el uso de this/that/these/those según cercanía y número, explicándoselo a un compañero.",
+    "instructions": [
+      "Muestre el poster a los estudiantes e indíqueles que pueden usarlo para repasar la diferencia entre this/that/these/those.",
+      "En parejas, los estudiantes se turnan para hacerse preguntas usando el poster como apoyo, por ejemplo: '¿What is the demonstrative for far objects in plural?' (those) o '¿What is the demonstrative for singular objects that are near?' (this).",
+      "Anime a los estudiantes a inventar sus propias combinaciones de preguntas (cercano/lejano, singular/plural) para seguir practicando entre ellos."
+    ],
+    "variations": [
+      "Dejar el poster visible en la pantalla o impreso durante otras actividades de la unidad como apoyo visual constante.",
+      "Convertir la ronda de preguntas en un juego rápido de 'quién responde primero' entre varias parejas."
+    ],
+    "platform": "Woodward English",
+    "resourceType": "Poster de gramática",
+    "tags": [
+      "this/that/these/those",
+      "demonstratives",
+      "grammar",
+      "unit 2"
+    ],
+    "active": true
   }
 ]
