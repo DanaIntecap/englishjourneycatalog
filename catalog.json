@@ -2924,5 +2924,131 @@
       "unit 7"
     ],
     "active": true
+  },
+  {
+    "id": 77,
+    "title": "Video: Who Was Martin Luther King Jr.? (Leadership Discussion)",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Listening",
+      "Speaking"
+    ],
+    "description": "Video biográfico sobre Martin Luther King Jr., usado como punto de partida para discutir características de un buen líder (reliable, focuses on fixing problems, asks questions and finds out the problem, empowers, motivates, shows with example, gives credit to others).",
+    "url": "https://www.youtube.com/watch?v=FNxHI98XK78",
+    "duration": "20-25 minutos",
+    "objective": "Comprender una biografía sobre liderazgo e identificar y discutir características que hacen a alguien un buen líder, apoyando las ideas con ejemplos o evidencia.",
+    "instructions": [
+      "Antes del video, pregunte a los estudiantes qué saben sobre Martin Luther King Jr.",
+      "Reproduzca el video sobre su vida y logros.",
+      "Presente la lista de características de un buen líder: reliable, focuses on fixing problems, asks questions and finds out what the problem is, empowers, motivates, shows with the example, gives credit to others.",
+      "En grupos pequeños, los estudiantes discuten qué características de la lista tenía Martin Luther King Jr., dando ejemplos o evidencia concreta del video que respalde cada una.",
+      "Cierre con una puesta en común: cada grupo comparte la característica que consideró más importante en este líder y por qué."
+    ],
+    "variations": [
+      "Extender la discusión pidiendo a los estudiantes que mencionen a otro líder (histórico o actual) que comparta alguna de estas características.",
+      "Pedir como tarea un párrafo corto sobre qué característica de la lista les gustaría desarrollar en sí mismos."
+    ],
+    "platform": "YouTube",
+    "resourceType": "Video biográfico con discusión",
+    "tags": [
+      "leadership",
+      "biography",
+      "listening",
+      "speaking",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 78,
+    "title": "Video: Princess Diana (Leadership Discussion)",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Listening",
+      "Speaking"
+    ],
+    "description": "Video corto para estudiantes de ESL sobre la vida de la Princesa Diana, usado como punto de partida para discutir características de un buen líder (reliable, focuses on fixing problems, asks questions and finds out the problem, empowers, motivates, shows with example, gives credit to others).",
+    "url": "https://youtu.be/_On04gAh4Jg",
+    "duration": "15-20 minutos",
+    "objective": "Comprender una biografía corta sobre liderazgo e identificar y discutir características que hacen a alguien un buen líder, apoyando las ideas con ejemplos o evidencia.",
+    "instructions": [
+      "Antes del video, pregunte a los estudiantes qué saben sobre la Princesa Diana.",
+      "Reproduzca el video corto sobre su vida y su labor.",
+      "Presente la lista de características de un buen líder: reliable, focuses on fixing problems, asks questions and finds out what the problem is, empowers, motivates, shows with the example, gives credit to others.",
+      "En grupos pequeños, los estudiantes discuten qué características de la lista tenía la Princesa Diana, dando ejemplos o evidencia concreta del video que respalde cada una.",
+      "Cierre con una puesta en común: cada grupo comparte la característica que consideró más importante en esta líder y por qué."
+    ],
+    "variations": [
+      "Usar este video junto con el de Martin Luther King Jr. en la misma sesión para comparar las características de liderazgo de ambos personajes.",
+      "Pedir como tarea un párrafo corto sobre qué característica de la lista les gustaría desarrollar en sí mismos."
+    ],
+    "platform": "YouTube",
+    "resourceType": "Video biográfico con discusión",
+    "tags": [
+      "leadership",
+      "biography",
+      "listening",
+      "speaking",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 79,
+    "title": "This, That, These, Those (Baamboozle Game)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Grammar",
+      "Speaking"
+    ],
+    "description": "Juego de equipos (Baamboozle) con imágenes de frutas para practicar this/that/these/those. Incluye tarjetas de forma afirmativa ('Tell me about the fruit') y de pregunta ('Ask me a question'), como 'Those are yellow bananas.' o 'What are these?'.",
+    "url": "https://www.baamboozle.com/game/90002",
+    "duration": "15-20 minutos",
+    "objective": "Usar correctamente this/that/these/those en oraciones afirmativas y preguntas, y transformarlas también a su forma negativa.",
+    "instructions": [
+      "Divida a la clase en equipos y proyecte el juego (Classic Questions and Power-Ups o Classic Jr según el nivel del grupo).",
+      "Para las tarjetas de tipo 'Tell me about the fruit', el equipo debe responder con la oración afirmativa completa (e.g., 'Those are yellow bananas.').",
+      "Para las tarjetas de tipo 'Ask me a question', el equipo debe formular la pregunta correcta con this/that/these/those (e.g., 'What are these?').",
+      "Para cada respuesta correcta, pida adicionalmente al equipo que la transforme a su forma negativa (e.g., 'Those aren't red bananas.') como reto extra antes de sumar el punto.",
+      "Continúe hasta agotar las tarjetas o el tiempo disponible; gana el equipo con más puntos."
+    ],
+    "variations": [
+      "Usar solo las tarjetas afirmativas primero y, en una segunda ronda, solo las de pregunta para separar ambos enfoques.",
+      "Cerrar pidiendo a cada equipo que cree su propia oración con this/that/these/those sobre un objeto real del salón."
+    ],
+    "platform": "Baamboozle",
+    "resourceType": "Juego de equipos",
+    "tags": [
+      "this/that/these/those",
+      "demonstratives",
+      "grammar",
+      "speaking",
+      "unit 2"
+    ],
+    "active": true
   }
 ]
