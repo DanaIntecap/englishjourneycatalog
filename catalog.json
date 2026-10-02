@@ -3298,5 +3298,85 @@
       "unit 7"
     ],
     "active": true
+  },
+  {
+    "id": 86,
+    "title": "Reading: Could Childhood Drinks Raise Your Blood Pressure Years Later?",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Reading",
+      "Vocabulary"
+    ],
+    "description": "Artículo de noticias graduado (ESL-News), complementario al tema de alimentación saludable, sobre un estudio que relaciona las bebidas consumidas en la infancia con la presión arterial años después. La página se ajusta a distintos niveles y tiene actividad de vocabulario, audio inmersivo y diccionario integrado.",
+    "url": "https://esl-news.com/news/world/could-childhood-drinks-raise-your-blood-pressure-years-later",
+    "duration": "20-25 minutos",
+    "objective": "Comprender un artículo sobre hábitos de alimentación saludable en la infancia y discutir su relevancia personal usando vocabulario de comida y bebida.",
+    "instructions": [
+      "IMPORTANTE: ajuste el nivel del artículo a A2 antes de asignarlo; aproveche el audio inmersivo y el diccionario integrado si los estudiantes necesitan apoyo adicional.",
+      "Pre-reading, pregunte: '¿What drinks did you have as a child?', '¿Do you think sugary drinks are healthy or unhealthy for kids?'",
+      "Los estudiantes leen el artículo, apoyándose en la actividad de vocabulario integrada de la página.",
+      "Post-reading, pregunte: '¿Were you surprised by what the article says?', '¿What drinks do you give (or would you give) to a child in your family?', '¿Do you think this is also true in your country?'",
+      "Cierre pidiendo a los estudiantes que, en parejas, sugieran una bebida más saludable como alternativa a una bebida azucarada común."
+    ],
+    "variations": [
+      "Usar el quiz integrado de la página como comprobación de comprensión antes de la discusión final.",
+      "Pedir como tarea que investiguen y compartan un dato sobre el consumo de bebidas azucaradas en su país."
+    ],
+    "platform": "ESL-News",
+    "resourceType": "Artículo de lectura graduada con vocabulario y audio",
+    "tags": [
+      "reading",
+      "healthy eating",
+      "drinks",
+      "vocabulary",
+      "unit 2"
+    ],
+    "active": true
+  },
+  {
+    "id": 87,
+    "title": "Kinds of Businesses (Warm-up)",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "8"
+    ],
+    "skill": [
+      "Vocabulary"
+    ],
+    "description": "Juego de warm-up (Baamboozle) donde los estudiantes ven una imagen/GIF representativo y adivinan el tipo de industria o negocio al que pertenece, del word bank: Education, Health care, Entertainment, Computer and Technology, Finance and Economic, Construction, Advertising and Marketing, Agriculture, Transportation, Telecommunication, Pharmaceutical, Media and News, Manufacturing, Food and Beverage, Fashion, Aerospace.",
+    "url": "https://www.baamboozle.com/game/1609959",
+    "duration": "5-10 minutos",
+    "objective": "Reconocer y nombrar distintos tipos de industrias o negocios a partir de imágenes representativas.",
+    "instructions": [
+      "Presente brevemente el word bank de industrias antes de empezar, si el grupo aún no lo conoce.",
+      "Proyecte el juego y muestre cada imagen/GIF como warm-up rápido; los estudiantes dicen en voz alta a qué industria pertenece.",
+      "Use las respuestas para repasar la pronunciación de cada término y aclarar dudas de vocabulario."
+    ],
+    "variations": [
+      "Dividir a la clase en equipos y sumar un punto por cada industria adivinada correctamente.",
+      "Pedir a los estudiantes que mencionen una empresa conocida de cada industria identificada."
+    ],
+    "platform": "Baamboozle",
+    "resourceType": "Juego de warm-up",
+    "tags": [
+      "business industries",
+      "vocabulary",
+      "warm-up",
+      "unit 8"
+    ],
+    "active": true
   }
 ]
