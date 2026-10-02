@@ -3089,5 +3089,214 @@
       "unit 2"
     ],
     "active": true
+  },
+  {
+    "id": 81,
+    "title": "Grammar: This, That, These, Those",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Lección de gramática (Test-English) sobre this/that/these/those, con explicación, gráfico this/these=here y that/those=there, y 3 ejercicios interactivos de opción múltiple con calificación automática.",
+    "url": "https://test-english.com/grammar-points/a1/this-that-these-those/",
+    "duration": "15-20 minutos",
+    "objective": "Usar correctamente this, that, these y those según la cercanía (here/there) y el número (singular/plural) del objeto o persona, incluyendo su uso en introducciones y por teléfono.",
+    "instructions": [
+      "Repase la explicación y el gráfico de la página con el grupo, destacando this/these = here y that/those = there.",
+      "Mencione también el uso especial de 'this is' para presentaciones y llamadas telefónicas ('Hi, this is Tim.').",
+      "Asigne los 3 ejercicios de la página en orden; los estudiantes los resuelven individualmente y la plataforma califica automáticamente.",
+      "Revise en grupo los errores más comunes al finalizar, especialmente los casos sin sustantivo ('Who is that?')."
+    ],
+    "variations": [
+      "Usar el ejercicio 3 (si incluye introducciones/teléfono) como base para un breve role-play de presentación entre estudiantes.",
+      "Combinar esta lección con el poster de Woodward English y el juego de Baamboozle ya en el catálogo para reforzar el mismo tema desde distintos formatos."
+    ],
+    "platform": "Test-English",
+    "resourceType": "Lección de gramática con ejercicios interactivos",
+    "tags": [
+      "this/that/these/those",
+      "demonstratives",
+      "grammar",
+      "unit 2"
+    ],
+    "active": true
+  },
+  {
+    "id": 82,
+    "title": "Guess the Brand (Warm-up)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "8"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Juego de warm-up (Baamboozle) donde los estudiantes ven fragmentos de logos de marcas reconocidas (Walmart, Apple, Nike, Disney, McDonald's, Subway, Lay's, Adidas, Nintendo, etc.) y adivinan a qué marca pertenecen.",
+    "url": "https://www.baamboozle.com/game/1083655",
+    "duration": "5 minutos",
+    "objective": "Reconocer marcas reconocidas y asociarlas con su industria correspondiente (entretenimiento, alimentos y bebidas, juguetes y juegos, tecnología, ropa y manufactura).",
+    "instructions": [
+      "Proyecte el juego y muestre 4-6 logos como warm-up rápido; los estudiantes adivinan la marca al verla.",
+      "Después de cada logo adivinado, pregunte a qué industria pertenece esa marca, por ejemplo: '¿Tell me a company in the entertainment industry.', '¿What is a brand in the Food & Beverages industry?', '¿In the Toys and Games industry?', '¿In the Technology industry?', '¿In the Clothing and Manufacturing business?'",
+      "Use las respuestas de los estudiantes para introducir brevemente el vocabulario de industrias de negocio de la unidad."
+    ],
+    "variations": [
+      "Dividir a la clase en equipos y dar un punto por cada marca adivinada correctamente más su industria.",
+      "Pedir a los estudiantes que mencionen otra marca que conozcan de la misma industria antes de pasar al siguiente logo."
+    ],
+    "platform": "Baamboozle",
+    "resourceType": "Juego de warm-up",
+    "tags": [
+      "brands",
+      "business industries",
+      "vocabulary",
+      "warm-up",
+      "unit 8"
+    ],
+    "active": true
+  },
+  {
+    "id": 83,
+    "title": "Whose - Speaking Activity",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Actividad propia en parejas con dos versiones de una misma imagen: objetos (cámara, lentes, zapatos, frutas, audífonos, libros, mochila, moto, shorts) y dos personajes, Sofía y Mateo. La Imagen 2 muestra líneas que conectan cada objeto con su dueño; la Imagen 1 no las muestra.",
+    "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQBN1KrOZYslTIDzQ5XlBVajAU0uAmQq2-MwBeJtfcCSl1s?e=QHhyTJ",
+    "duration": "15-20 minutos",
+    "objective": "Preguntar y responder sobre posesión usando 'Whose + sustantivo + is this/that/are these/those?' y responder con el genitivo sajón y los pronombres posesivos his/her.",
+    "instructions": [
+      "Divida a los estudiantes en parejas. Entregue la Imagen 1 (sin líneas) al Participante 1 y la Imagen 2 (con líneas) al Participante 2, sin que se muestren sus imágenes entre sí.",
+      "El Participante 1 pregunta por un objeto, por ejemplo: 'Whose camera is this?'",
+      "El Participante 2, viendo las líneas de su imagen, responde: 'It's Sofia's. It's her camera.' (o 'It's Mateo's. It's his ___' según corresponda).",
+      "El Participante 1 dibuja una línea en su propia imagen conectando el objeto con el dueño según la respuesta de su compañero, y continúa preguntando por los demás objetos.",
+      "Al finalizar, ambos participantes comparan sus imágenes para verificar que las líneas coincidan."
+    ],
+    "variations": [
+      "Modelar una pregunta y respuesta de ejemplo con toda la clase antes de dividir en parejas.",
+      "Invertir los roles con un segundo set de objetos para que ambos participantes practiquen preguntar y responder."
+    ],
+    "platform": "SharePoint (recurso propio)",
+    "resourceType": "Worksheet / actividad de speaking en parejas",
+    "tags": [
+      "whose",
+      "possessives",
+      "speaking",
+      "grammar",
+      "unit 7"
+    ],
+    "active": true
+  },
+  {
+    "id": 84,
+    "title": "Possessives Practice - Whose + Random Wheel",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7",
+      "8"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Imagen propia con objetos (house, dog, car, bicycle, ball, book, cat, TV, phone, computer, apple, backpack, flowers, t-shirt, guitar, hand, pencil, hat, camera, shoes), cada uno marcado con íconos de personas que indican si pertenece a una persona (singular) o a varias (plural). Se combina con una ruleta de Flippity para seleccionar el objeto al azar.",
+    "url": "https://intecapedu.sharepoint.com/:i:/r/sites/EnglishJourney-EducationalResources/Documentos%20compartidos/Additional%20resources/Speaking/Possesives%20practice.jpg?d=w8c8da1c2f0ce433b99abb80fb4e867f7&csf=1&web=1&e=PXpc0c",
+    "duration": "15-20 minutos",
+    "objective": "Preguntar por el dueño de un objeto cuidando la concordancia singular/plural (this/that vs these/those) y responder usando el posesivo u objeto posesivo correcto (his/her/their, his/hers/theirs).",
+    "instructions": [
+      "Muestre la imagen 'Possessives practice' y explique que los íconos de personas sobre cada objeto indican si pertenece a una persona (singular) o a varias personas (plural).",
+      "Use la ruleta de Flippity (https://flippity.net/v2/rp.php?c=House,Dog,Car,Bicycle%20%2F%20Bike,Ball%20%2F%20Soccer%20ball,Book,Cat,TV%20%2F%20Television,Phone%20%2F%20Smartphone,Computer%20%2F%20PC,Apple,Backpack,Flowers,T-shirt%20%2F%20Shirt,Guitar,Hand,Pencil,Hat,Camera,Shoes&t=Random%20Name%20Picker) para seleccionar un objeto al azar.",
+      "El Participante 1 pregunta por el objeto seleccionado, cuidando el singular/plural: 'Whose flowers are these?' o 'Whose car is this?'",
+      "El Participante 2 responde según los íconos de la imagen, usando el posesivo y el objeto posesivo correcto: 'They are their flowers. They are theirs.' o 'It's his car. It's his.'",
+      "Giren la ruleta varias veces para practicar distintos objetos, alternando singular y plural."
+    ],
+    "variations": [
+      "Cambiar los roles a la mitad de la actividad para que ambos participantes practiquen preguntar y responder.",
+      "Jugar en equipos, sumando un punto por cada respuesta con el posesivo y la concordancia singular/plural correctos."
+    ],
+    "platform": "SharePoint + Flippity",
+    "resourceType": "Imagen con ruleta interactiva",
+    "tags": [
+      "whose",
+      "possessives",
+      "singular/plural",
+      "speaking",
+      "unit 7",
+      "unit 8"
+    ],
+    "active": true
+  },
+  {
+    "id": 85,
+    "title": "Possessives Practice - Memory Matching Card Game",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Misma imagen propia de objetos con íconos de dueños (singular/plural), adaptada como juego de memoria/parejas presencial (estilo Teach This): se imprimen 2 copias para recortar en tarjetas de imagen y tarjetas de adjetivo posesivo (his, her, their).",
+    "url": "https://intecapedu.sharepoint.com/:i:/r/sites/EnglishJourney-EducationalResources/Documentos%20compartidos/Additional%20resources/Speaking/Possesives%20practice.jpg?d=w8c8da1c2f0ce433b99abb80fb4e867f7&csf=1&web=1&e=PXpc0c",
+    "duration": "25-30 minutos",
+    "objective": "Practicar el uso de his, her y their para hablar de a quién pertenecen distintos objetos, a través de un juego de memoria y parejas en grupos pequeños.",
+    "instructions": [
+      "Imprima 2 copias de la imagen y recorte las tarjetas de objetos, además de tarjetas con los adjetivos posesivos his, her y their; coloque todas las tarjetas boca abajo en la mesa.",
+      "En grupos pequeños, los estudiantes se turnan para voltear una tarjeta de imagen y una de adjetivo posesivo. Si las tarjetas coinciden (según los íconos de dueño de la imagen), el estudiante forma una oración, e.g. 'It's his bike.'",
+      "Si el grupo está de acuerdo en que la pareja y la oración son correctas, el estudiante se queda con las tarjetas; si no, se regresan a su lugar. El turno pasa al siguiente estudiante.",
+      "Gana la primera ronda quien tenga más parejas de tarjetas.",
+      "Segunda ronda: un estudiante muestra una tarjeta de imagen a los otros dos y dice 'It's...' (un objeto) o 'They're...' (varios objetos); los otros dos compiten por encontrar la tarjeta de adjetivo posesivo correcta y decir la oración completa, e.g. 'It's their house.'",
+      "Quien seleccione primero la tarjeta correcta y diga la oración correctamente se queda con ambas tarjetas (si el grupo está de acuerdo). Gana quien tenga más parejas.",
+      "Los estudiantes rotan roles y vuelven a jugar."
+    ],
+    "variations": [
+      "Reducir el set de tarjetas si el grupo es pequeño o el tiempo de clase es corto.",
+      "Usar esta versión impresa como complemento presencial de la versión con la ruleta de Flippity ya en el catálogo."
+    ],
+    "platform": "SharePoint (recurso propio, formato Teach This)",
+    "resourceType": "Juego de memoria/parejas presencial",
+    "tags": [
+      "possessive adjectives",
+      "his/her/their",
+      "speaking",
+      "memory game",
+      "unit 7"
+    ],
+    "active": true
   }
 ]
