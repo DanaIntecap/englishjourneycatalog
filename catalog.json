@@ -3378,5 +3378,55 @@
       "unit 8"
     ],
     "active": true
+  },
+  {
+    "id": 88,
+    "title": "Directions Language Worksheet",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "7"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Grammar",
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Worksheet de dos páginas (Teach This) para A1 avanzados con siete ejercicios (A–G) sobre lenguaje de direcciones y preposiciones de lugar: relacionar frases con señales, unir mitades de oraciones, completar un texto, deducir reglas de uso de las preposiciones, escribir direcciones propias y compararlas en parejas.",
+    "url": "https://www.teach-this.com/images/resources/directions-language-worksheet.pdf",
+    "duration": "40-50 minutos",
+    "objective": "Reconocer y usar frases de direcciones y preposiciones de lugar para entender, escribir y dar indicaciones sencillas de cómo llegar a un lugar.",
+    "instructions": [
+      "Antes de repartir el worksheet, promueva una actividad comunicativa: pida a los estudiantes que mencionen en voz alta qué frases de direcciones y qué lugares de la ciudad ya conocen en inglés.",
+      "Como grupo, elijan entre todos las 10 palabras/frases más comunes o mencionadas, y escríbanlas en la pizarra.",
+      "Entregue una copia del worksheet de dos páginas a cada estudiante.",
+      "Ejercicio A: los estudiantes relacionan las frases de direcciones con las señales visuales correspondientes.",
+      "Ejercicio B: los estudiantes unen las mitades de oraciones para formar indicaciones completas.",
+      "Ejercicio C: los estudiantes completan los espacios de un texto corto con el vocabulario aprendido en el ejercicio A.",
+      "Ejercicio D: los estudiantes completan oraciones para establecer las reglas de uso de preposiciones de lugar específicas.",
+      "Ejercicio E: los estudiantes completan otro conjunto de direcciones eligiendo las preposiciones correctas de un recuadro de palabras.",
+      "Ejercicio F: de forma independiente, los estudiantes escriben las direcciones desde su ubicación actual hasta el hospital y el banco más cercanos, aplicando las frases y preposiciones aprendidas.",
+      "Ejercicio G: en parejas, los estudiantes leen en voz alta sus direcciones y comparan si sus rutas son iguales o diferentes."
+    ],
+    "variations": [
+      "Revisar las respuestas de los ejercicios A–E en grupo antes de pasar a la producción escrita del ejercicio F.",
+      "Cambiar los destinos del ejercicio F por otros lugares cercanos a la clase (farmacia, supermercado, parada de bus)."
+    ],
+    "platform": "Teach This",
+    "resourceType": "Worksheet / actividad de speaking en parejas",
+    "tags": [
+      "directions",
+      "prepositions of place",
+      "places in town",
+      "writing directions",
+      "pair work",
+      "unit 7"
+    ],
+    "active": true
   }
 ]
