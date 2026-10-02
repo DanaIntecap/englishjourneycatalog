@@ -3467,5 +3467,169 @@
       "unit 3"
     ],
     "active": true
+  },
+  {
+    "id": 90,
+    "title": "Adverbs of Time Bingo",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "8"
+    ],
+    "skill": [
+      "Speaking",
+      "Grammar"
+    ],
+    "description": "Juego de bingo (tarjetas propias ya creadas, o personalizables en myfreebingocards.com) con expresiones de tiempo para practicar distintos tiempos verbales (presente, pasado, presente progresivo, futuro) en oraciones orales completas y gramaticalmente correctas.",
+    "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQAykp6xdK1lQZvC-a-0IwN9ASkDAa_1EL_Karc0panZnCI?e=BiyLs7",
+    "duration": "20-25 minutos",
+    "objective": "Producir oraciones orales gramaticalmente correctas en distintos tiempos verbales (presente, pasado, presente progresivo, futuro) usando expresiones de tiempo/frecuencia.",
+    "instructions": [
+      "Use las tarjetas de bingo ya creadas (adjunto) o cree sus propias tarjetas personalizadas con las expresiones de tiempo que prefiera en https://myfreebingocards.com/.",
+      "Reparta una tarjeta de bingo a cada participante o grupo pequeño.",
+      "El instructor hace una pregunta usando una expresión de tiempo, variando el tiempo verbal: '¿How often do you take a shower?' (presente), '¿When was the last time you ate?' (pasado), etc.",
+      "Solo los participantes (individuales o en grupos pequeños) que respondan con una oración gramaticalmente correcta pueden marcar la casilla correspondiente en su tarjeta.",
+      "El primer participante o grupo en completar una línea (o el patrón acordado) grita '¡Bingo!' y gana."
+    ],
+    "variations": [
+      "Jugar varias rondas con distintos patrones de bingo (línea, diagonal, cartón lleno) para extender la actividad.",
+      "Pedir a quien marca una casilla que repita su oración en voz alta para que el grupo verifique la corrección gramatical."
+    ],
+    "platform": "SharePoint / myfreebingocards.com",
+    "resourceType": "Juego de bingo",
+    "tags": [
+      "time expressions",
+      "verb tenses",
+      "speaking",
+      "bingo",
+      "unit 8"
+    ],
+    "active": true
+  },
+  {
+    "id": 91,
+    "title": "Song: Rude! by MAGIC! (Fill in the Blanks Warm-up)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "1"
+    ],
+    "skill": [
+      "Listening"
+    ],
+    "description": "Recurso propio (English for a Whole Life) con la canción 'Rude!' de MAGIC!, usada como warm-up o break: los estudiantes escuchan y completan los espacios en blanco de la letra mientras suena la canción.",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/listening/a1-2/unit-1#h.wowl0pmaayu6",
+    "duration": "10 minutos",
+    "objective": "Practicar comprensión auditiva general completando espacios en blanco mientras se escucha una canción en inglés.",
+    "instructions": [
+      "Use esta actividad como warm-up al inicio de la clase o como break a la mitad de la sesión.",
+      "Reproduzca la canción y pida a los estudiantes que completen los espacios en blanco de la letra a medida que la escuchan.",
+      "Reproduzca la canción una segunda vez si es necesario para que los estudiantes completen los espacios que les faltaron.",
+      "Revise las respuestas en grupo cantando o leyendo la letra completa."
+    ],
+    "variations": [
+      "Repetir la misma canción varias semanas como ritual de warm-up para que los estudiantes se familiaricen con el ritmo y la letra.",
+      "Pedir a los estudiantes que identifiquen 2-3 palabras nuevas de la canción y las usen en una oración propia."
+    ],
+    "platform": "English for a Whole Life (recurso propio)",
+    "resourceType": "Canción con actividad de fill in the blanks",
+    "tags": [
+      "song",
+      "listening",
+      "warm-up",
+      "fill in the blanks",
+      "unit 1"
+    ],
+    "active": true
+  },
+  {
+    "id": 92,
+    "title": "Song: Rude! by MAGIC! (Pronunciation of 'Rude' + Context Clues)",
+    "level": [
+      "A2"
+    ],
+    "subLevel": [
+      "A2.1"
+    ],
+    "unit": [
+      "4"
+    ],
+    "skill": [
+      "Listening",
+      "Vocabulary"
+    ],
+    "description": "Mismo recurso propio (English for a Whole Life) con la canción 'Rude!' de MAGIC!, usado en A2.1 para practicar la pronunciación de la palabra 'rude' y deducir su significado a partir del contexto del video/canción.",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/listening/a1-2/unit-1#h.wowl0pmaayu6",
+    "duration": "15 minutos",
+    "objective": "Practicar la pronunciación de la palabra 'rude' y deducir su significado usando pistas de contexto de la canción/video.",
+    "instructions": [
+      "Antes de reproducir la canción, pregunte a los estudiantes si conocen la palabra 'rude' y qué creen que significa.",
+      "Reproduzca la canción/video y pida a los estudiantes que presten atención a cómo se pronuncia 'rude' cada vez que aparece.",
+      "Pida a los estudiantes que, basándose en el contexto de la historia (un padre que le niega su permiso a un pretendiente), deduzcan el significado de 'rude'.",
+      "Practique la pronunciación de 'rude' en coro y en oraciones propias, confirmando el significado con el grupo."
+    ],
+    "variations": [
+      "Extender la actividad pidiendo a los estudiantes que mencionen otra situación donde alguien actuó de forma 'rude'.",
+      "Usar esta versión como seguimiento de la actividad de fill in the blanks ya trabajada en A1.2, para reforzar la misma canción en un nivel más alto."
+    ],
+    "platform": "English for a Whole Life (recurso propio)",
+    "resourceType": "Canción con actividad de pronunciación y vocabulario en contexto",
+    "tags": [
+      "song",
+      "pronunciation",
+      "context clues",
+      "vocabulary",
+      "unit 4"
+    ],
+    "active": true
+  },
+  {
+    "id": 93,
+    "title": "Song: House by Elton John (Demonstratives)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "2"
+    ],
+    "skill": [
+      "Listening",
+      "Grammar"
+    ],
+    "description": "Recurso propio (English for a Whole Life) con la canción 'House' de Elton John, usada para practicar this/that/these/those en un contexto de listening.",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/listening/a1-2/unit-2#h.px0vdfjnr6on",
+    "duration": "15 minutos",
+    "objective": "Identificar y practicar el uso de this/that/these/those a partir del contexto de una canción.",
+    "instructions": [
+      "Antes de reproducir la canción, repase brevemente this/that/these/those (cercanía y número) con el grupo.",
+      "Reproduzca la canción y pida a los estudiantes que identifiquen o completen los demonstrativos que escuchan.",
+      "Revise las respuestas en grupo, señalando el contexto en el que aparece cada demonstrativo en la letra.",
+      "Cierre pidiendo a los estudiantes que describan objetos reales del salón usando this/that/these/those."
+    ],
+    "variations": [
+      "Usar esta canción como seguimiento del poster de Woodward English y el juego de Baamboozle ya en el catálogo sobre el mismo tema.",
+      "Repetir la canción como warm-up en sesiones posteriores para reforzar retención."
+    ],
+    "platform": "English for a Whole Life (recurso propio)",
+    "resourceType": "Canción con actividad de listening y gramática",
+    "tags": [
+      "song",
+      "demonstratives",
+      "this/that/these/those",
+      "listening",
+      "unit 2"
+    ],
+    "active": true
   }
 ]
