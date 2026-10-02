@@ -3428,5 +3428,44 @@
       "unit 7"
     ],
     "active": true
+  },
+  {
+    "id": 89,
+    "title": "Macmillan Grammar in Context Essential: Present Continuous (pp. 24-33)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Grammar"
+    ],
+    "description": "Hojas de trabajo adicionales imprimibles (Macmillan English Grammar in Context, Essential, páginas 24-33) sobre presente continuo, con reglas, ejemplos y ejercicios variados: fill in the blanks, writing sentences y choose the correct form.",
+    "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQA3lXtQwQYUQKNSB58mbq1WAaUdqTLrCIJlYtRrxLFM8zs?e=hja19g",
+    "duration": "25-30 minutos",
+    "objective": "Reforzar las reglas de formación y uso del presente continuo a través de ejercicios variados (completar espacios, escribir oraciones, elegir la forma correcta).",
+    "instructions": [
+      "Imprima las hojas de trabajo para los participantes o compártalas en formato digital.",
+      "Repase brevemente las reglas y ejemplos de presente continuo incluidos al inicio de las hojas antes de que los estudiantes resuelvan los ejercicios.",
+      "Los estudiantes completan los ejercicios de fill in the blanks, writing sentences y choose the correct form de forma individual.",
+      "Revise las respuestas en grupo, aclarando dudas sobre la formación (be + verbo -ing) y el uso del presente continuo."
+    ],
+    "variations": [
+      "Asignar distintas secciones del worksheet como tarea de refuerzo después de otras actividades de presente continuo del catálogo.",
+      "Usar algunos de los ejercicios como dictado o práctica oral en lugar de trabajo escrito individual."
+    ],
+    "platform": "SharePoint (Macmillan)",
+    "resourceType": "Worksheet imprimible de gramática",
+    "tags": [
+      "present continuous",
+      "grammar",
+      "worksheet",
+      "unit 3"
+    ],
+    "active": true
   }
 ]
