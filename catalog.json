@@ -3751,5 +3751,72 @@
       "A1.2"
     ],
     "active": true
-  }
+  },
+  {
+  "id": 98,
+  "title": "Job Interview Dialogue & Practice (B1)",
+  "level": ["B1"],
+  "subLevel": ["B1.1"],
+  "unit": ["8"],
+  "skill": ["Listening", "Reading", "Speaking", "Vocabulary"],
+  "description": "Hoja de trabajo basada en el diálogo auténtico de entrevista laboral ('Interviewing for a Job'). Incluye emparejamiento de vocabulario técnico/profesional (qualifications, supervisory experience, benefits, going rate), ejercicios de comprensión auditiva/lectora y completación de preguntas clave de entrevista.",
+  "url": "https://intecapedu.sharepoint.com/:b:/s/EnglishJourney-EducationalResources/IQDl3b3WF0ktQ46nHpUNAACsAbVohoCJwVYFucyOtrp9uIg?e=KjOXuI",
+  "duration": "45-50 minutos",
+  "objective": "Desarrollar la comprensión auditiva y la fluidez oral al formular y responder preguntas formales de entrevista laboral (experiencia, cualificaciones, responsabilidades, beneficios y horario) utilizando vocabulario profesional de nivel B1.",
+  "instructions": [
+    "Reproducir el video o audio 'Interviewing for a Job' una primera vez para captar la idea general del puesto y las cualificaciones del candidato.",
+    "Completar la sección de 'Vocabulary Match' asociando términos clave del ámbito laboral con sus definiciones en contexto.",
+    "Responder a las preguntas de 'Comprehension Check' para verificar detalles específicos (años de experiencia, horario, responsabilidades y beneficios ofrecidos).",
+    "Completar las preguntas de entrevista en la sección 'Questions Fill' usando las estructuras gramaticales correspondientes.",
+    "Realizar una práctica de roleplay en parejas (interviewer y candidate) usando el diálogo y las preguntas completadas como guía."
+  ],
+  "variations": [
+    "Hacer una pausa en cada pregunta del video para que los estudiantes predigan o anoten su propia respuesta antes de escuchar a la candidata.",
+    "Adaptar el roleplay para que los estudiantes apliquen a puestos reales o acordes a su área técnica/profesional.",
+    "Realizar la actividad sin subtítulos para elevar el reto de listening y posteriormente confirmar con la transcripción/worksheet."
+  ],
+  "platform": "SharePoint",
+  "resourceType": "Worksheet / Listening & Speaking Practice",
+  "tags": [
+    "job interview",
+    "everyday english",
+    "listening",
+    "speaking",
+    "vocabulary",
+    "workplace",
+    "B1",
+    "B1.1",
+    "unit 8"
+  ],
+  "active": true
+},
+  {
+  "id": 96,
+  "title": "Quiz diagnóstico A2.1: Revising Tenses A2 (Wayground)",
+  "level": ["A2"],
+  "subLevel": ["A2.1"],
+  "unit": [],
+  "skill": ["Grammar"],
+  "description": "Quiz diagnóstico de 23 preguntas de opción múltiple en Wayground (30 segundos por pregunta) que evalúa la selección del tiempo verbal correcto: presente simple vs. presente continuo, pasado simple vs. pasado continuo y presente perfecto básico (never, for years), además de expresiones de tiempo como ago. Nota: las preguntas 9, 12, 21 y 22 requieren past continuous, que se ve en A2.2, por lo que sirven solo como adelanto y no deben contar para el diagnóstico de A2.1.",
+  "url": "https://wayground.com/activity/admin/quiz/60b49208f66687001b712ff1/revising-tenses-a2",
+  "duration": "15-20 minutos",
+  "objective": "Diagnosticar al inicio de A2.1 el dominio de los tiempos verbales ya vistos (presente simple, presente continuo, pasado simple y presente perfecto básico) para identificar qué estudiantes y qué estructuras necesitan refuerzo antes de avanzar, e introducir de forma ligera el past continuous que se verá en A2.2.",
+  "instructions": [
+    "Comparta el link del quiz y pida a los estudiantes que lo resuelvan de forma individual, sin ayuda de notas ni traductores.",
+    "Explique que es un diagnóstico, no una calificación, y que cada pregunta tiene 30 segundos.",
+    "Avise a los estudiantes que algunas preguntas usan una estructura que aún no han visto (past continuous) y que está bien equivocarse en ellas.",
+    "Al terminar, revise el reporte de Wayground para ver el porcentaje de acierto por pregunta y por estudiante.",
+    "Excluya del análisis las preguntas 9, 12, 21 y 22 (past continuous) y agrupe el resto de errores por estructura (presente simple vs. continuo, pasado simple, presente perfecto) para decidir qué repasar.",
+    "Comente en grupo las preguntas con más errores, pidiendo a los estudiantes que expliquen por qué la respuesta correcta funciona."
+  ],
+  "variations": [
+    "Usar el modo en vivo para jugarlo en clase y discutir cada respuesta justo después de la pregunta.",
+    "Repetir el quiz al final de la unidad para comparar el progreso.",
+    "Pedir a los estudiantes que escriban una oración propia por cada estructura en la que fallaron."
+  ],
+  "platform": "Wayground",
+  "resourceType": "Quiz diagnóstico de opción múltiple",
+  "tags": ["diagnostic", "quiz", "grammar", "present simple", "present continuous", "past simple", "present perfect", "A2.1", "wayground", "past continuous (adelanto A2.2)"],
+  "active": true
+}
 ]
