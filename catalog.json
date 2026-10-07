@@ -3631,5 +3631,125 @@
       "unit 2"
     ],
     "active": true
+  },
+  {
+    "id": 94,
+    "title": "Job Interview Practice (A2)",
+    "level": ["A2"],
+    "subLevel": ["A2.1"],
+    "unit": ["8"],
+    "skill": ["Speaking", "Vocabulary"],
+    "description": "Hoja de trabajo de práctica de entrevista de trabajo con vocabulario clave (interviewer, candidate, strengths, weaknesses), diálogo de ejemplo, preguntas para completar y roleplay en parejas con retroalimentación.",
+    "url": "https://www.teachshare.com/gallery/job-interview-practice-a2-AZy72-oldlu8WQLSr4fgcA",
+    "duration": "45-60 minutos",
+    "objective": "Practicar respuestas a preguntas comunes de entrevista de trabajo (presentarse, habilidades, preferencias laborales, trabajo soñado, salario) usando vocabulario de nivel A2 y presente simple, y generar confianza mediante roleplay en parejas.",
+    "instructions": [
+      "En grupos, los estudiantes comentan qué vocabulario de entrevista ya conocen y eligen en conjunto las 10 palabras más comunes.",
+      "Completan el vocabulario y el formulario de aplicación con espacios en blanco.",
+      "Leen el diálogo modelo.",
+      "Hacen roleplay en parejas como entrevistador y candidato, e intercambian roles.",
+      "Dan retroalimentación sobre claridad al hablar y lenguaje corporal."
+    ],
+    "variations": [
+      "Grabar el roleplay en el teléfono para autoevaluación.",
+      "Cambiar el puesto de trabajo (programador, recepcionista, mesero) en cada ronda."
+    ],
+    "platform": "TeachShare",
+    "resourceType": "Worksheet / actividad de speaking en parejas (roleplay)",
+    "tags": ["job interview", "roleplay", "vocabulary", "A2.1", "unit 8", "speaking"],
+    "active": true
+  },
+  {
+    "id": 95,
+    "title": "And I Love Her: Object and Possessive Pronouns",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "8"
+    ],
+    "skill": [
+      "Grammar",
+      "Listening"
+    ],
+    "description": "Ejercicios de gramática sobre object pronouns basados en la canción \"And I Love Her\". La canción también permite observar possessive pronouns en contexto.",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/listening/a1-2/unit-8",
+    "duration": "15–20 minutos",
+    "objective": "Identificar y usar object pronouns (me, you, him, her, it, us, them) a partir de una canción, y reconocer possessive pronouns en contexto.",
+    "instructions": [
+      "Presente brevemente los subject pronouns y los object pronouns, y active conocimientos previos con ejemplos simples.",
+      "Reproduzca la canción y pida a los estudiantes completar o identificar los pronombres en los ejercicios.",
+      "Revise las respuestas en grupo y pida a los estudiantes que señalen los possessive pronouns que aparecen en la canción."
+    ],
+    "variations": [
+      "Hacer una primera escucha solo para disfrutar y una segunda para completar los ejercicios.",
+      "Pedir que cada estudiante escriba tres oraciones propias con object pronouns sobre personas de su vida."
+    ],
+    "platform": "English for a Whole Life (Google Sites)",
+    "resourceType": "Song-based activity",
+    "tags": [
+      "object pronouns",
+      "possessive pronouns",
+      "song",
+      "grammar",
+      "listening"
+    ],
+    "active": true
+},
+  {
+    "id": 96,
+    "title": "Rutina Diaria de Trabajo: Simple Present, Adverbios de Frecuencia y Posesivos",
+    "level": "A1",
+    "subLevel": "A1.2",
+    "unit": 5,
+    "skill": "Listening y Gramática",
+    "description": "Actividad interactiva en HTML basada en un video sobre la rutina laboral de un gerente de mercadeo. Incluye un párrafo gramatical con 4 espacios para completar (Presente Simple, adverbios de frecuencia, posesivo 's, its vs it's) y 7 preguntas de comprensión auditiva (Verdadero/Falso, Opción Múltiple y Pregunta de Comprensión).",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/listening/a1-2/unit-5",
+    "duration": "15-20 min",
+    "objective": "Identificar adverbios de frecuencia y detalles de la rutina diaria en un monólogo breve, y aplicar formas del Presente Simple y estructuras posesivas en oraciones contextualizadas.",
+    "instructions": "Mira el video sobre la rutina diaria del gerente de mercadeo. Primero, selecciona la opción gramatical correcta para cada espacio del párrafo de resumen. Luego, responde a las preguntas de Verdadero/Falso y Opción Múltiple. Haz clic en 'Check Answers' para ver tu puntuación y retroalimentación inmediata.",
+    "variations": "Puede asignarse como tarea de comprensión auditiva individual, usarse como calentamiento en clase previo a una actividad de expresión oral sobre rutinas, o adaptarse para actividades de dictado por parejas.",
+    "platform": "Google Sites",
+    "resourceType": "Cuestionario Interactivo (HTML/JS Incrustado)",
+    "tags": [
+      "rutina diaria",
+      "simple present",
+      "adverbios de frecuencia",
+      "posesivos",
+      "comprension auditiva",
+      "A1.2",
+      "cuestionario interactivo"
+    ],
+    "active": true
+  },
+  {
+    "id": 97,
+    "title": "Lemon Tree Song: Verb Conjugation & Grammar Practice",
+    "level": "A1",
+    "subLevel": "A1.2",
+    "unit": 3,
+    "skill": "Listening & Grammar",
+    "description": "Actividad de comprensión auditiva y gramática basada en la canción 'Lemon Tree' de Fools Garden. Incluye ejercicios interactivos de rellenar espacios en blanco (fill in the blanks), conjugación verbal (Present Continuous y Simple Present) y análisis de estructuras gramaticales en contexto.",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/listening/a1-2/unit-3",
+    "duration": "10-15 min",
+    "objective": "Desarrollar la discriminación auditiva mediante la letra de una canción y reforzar la conjugación de verbos en presente continuo y presente simple mediante ejercicios de completar espacios.",
+    "instructions": "Escucha la canción 'Lemon Tree'. Completa los espacios en blanco de la letra con la forma verbal correcta (am/is/are + -ing o presente simple). Luego, resuelve los ejercicios gramaticales y verifica tus respuestas.",
+    "variations": "Puede utilizarse como actividad de calentamiento o cierre de clase, trabajarse en parejas como dictado de canciones, o realizarse como práctica autónoma de refuerzo gramatical.",
+    "platform": "Google Sites",
+    "resourceType": "Song Activity / Interactive Practice",
+    "tags": [
+      "lemon tree",
+      "songs",
+      "listening comprehension",
+      "verb conjugation",
+      "present continuous",
+      "simple present",
+      "grammar practice",
+      "A1.2"
+    ],
+    "active": true
   }
 ]
