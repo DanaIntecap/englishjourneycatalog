@@ -11,6 +11,15 @@ const ui = {
 let catalogData = [];
 
 const asArray = value => Array.isArray(value) ? value : (value == null || value === '' ? [] : [String(value)]);
+// Accept independent skills and legacy combined labels from catalog editors.
+const skills = value => [...new Set(asArray(value).flatMap(label =>
+  String(label).split(/\s*(?:;#|[&,;/]|\s+y\s+|\s+and\s+)\s*/i)
+).map(label => label.trim()).filter(Boolean).map(label => ({
+  grammar: 'Grammar', 'gramática': 'Grammar', gramatica: 'Grammar',
+  listening: 'Listening', speaking: 'Speaking', reading: 'Reading',
+  writing: 'Writing', vocabulary: 'Vocabulary', pronunciation: 'Pronunciation',
+  retention: 'Retention'
+})[label.toLowerCase()] ?? label))];
 const escapeHTML = value => String(value ?? '').replace(/[&<>'"]/g, character => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
 })[character]);
@@ -92,6 +101,7 @@ async function initializeCatalog() {
     const payload = await response.json();
     catalogData = Array.isArray(payload) ? payload : payload.resources;
     if (!Array.isArray(catalogData)) throw new TypeError('catalog.json debe contener un arreglo de recursos.');
+    catalogData = catalogData.map(resource => ({ ...resource, skill: skills(resource.skill) }));
 
     populateFilter(ui.level, new Set(catalogData.flatMap(resource => asArray(resource.level))));
     populateFilter(ui.unit, new Set(catalogData.flatMap(resource => asArray(resource.unit))));
