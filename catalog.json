@@ -3791,7 +3791,7 @@
   "active": true
 },
   {
-  "id": 96,
+  "id": 99,
   "title": "Quiz diagnóstico A2.1: Revising Tenses A2 (Wayground)",
   "level": ["A2"],
   "subLevel": ["A2.1"],
@@ -3818,5 +3818,99 @@
   "resourceType": "Quiz diagnóstico de opción múltiple",
   "tags": ["diagnostic", "quiz", "grammar", "present simple", "present continuous", "past simple", "present perfect", "A2.1", "wayground", "past continuous (adelanto A2.2)"],
   "active": true
-}
+},
+  {
+    "id": 100,
+    "title": "Story Dice (Dave Birss)",
+    "level": [
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "subLevel": [],
+    "unit": [],
+    "skill": [
+      "Speaking",
+      "Writing",
+      "Vocabulary"
+    ],
+    "description": "Herramienta gratuita en línea de dados virtuales con ilustraciones aleatorias (sets de 5 o 9 dados, más de 50 opciones por dado). Al hacer clic se lanzan los dados y los estudiantes inventan una historia que incluya cada objeto, más o menos en el orden en que aparecen. Sin registro.",
+    "url": "https://davebirss.com/storydice/",
+    "duration": "20-30 minutos",
+    "objective": "Producir historias orales o escritas a partir de imágenes aleatorias, activando vocabulario de objetos y practicando estructuras adecuadas al nivel (oraciones simples en A1, narración en pasado en A2, conectores y detalles en B1), mientras se fomenta la creatividad y la fluidez.",
+    "instructions": [
+      "En grupos, los estudiantes comentan qué vocabulario de objetos ya conocen y eligen en conjunto las 10 palabras más comunes.",
+      "Proyecte la herramienta y elija un set de 5 dados (más sencillo) o de 9 dados (más desafiante); haga clic para lanzarlos.",
+      "Los estudiantes nombran en voz alta los objetos que aparecen en los dados.",
+      "En parejas o grupos pequeños, crean una historia que incluya cada objeto, aproximadamente en el orden en que aparecen. Los objetos también pueden usarse de forma metafórica.",
+      "Cada grupo cuenta su historia a la clase o la escribe en su cuaderno; el resto escucha e identifica los objetos mencionados.",
+      "Relance los dados y repita la actividad con una nueva combinación."
+    ],
+    "variations": [
+      "A1: una oración simple por dado, en presente simple, con apoyo de un banco de palabras en el pizarrón.",
+      "A2: contar la historia en pasado simple usando secuenciadores (first, then, after that, finally).",
+      "B1: añadir conectores (because, however, so) y descripciones; escribir la historia en un párrafo.",
+      "Cada estudiante lanza los dados desde su celular y compara su historia con la de su compañero.",
+      "Cadena de historia: cada estudiante agrega una oración usando el siguiente dado."
+    ],
+    "platform": "Story Dice (davebirss.com)",
+    "resourceType": "Herramienta interactiva en línea / actividad de storytelling oral y escrito",
+    "tags": [
+      "story dice",
+      "storytelling",
+      "creative writing",
+      "speaking",
+      "vocabulary",
+      "warm-up",
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "active": true
+  },
+  {
+    "id": 101,
+    "title": "Action Verbs (Baamboozle Game)",
+    "level": [
+      "A1"
+    ],
+    "subLevel": [
+      "A1.2"
+    ],
+    "unit": [
+      "3"
+    ],
+    "skill": [
+      "Vocabulary",
+      "Speaking"
+    ],
+    "description": "Juego de equipos en Baamboozle con 12 tarjetas: cada una muestra una imagen o GIF con la pregunta \"What is the verb below?\" y cuatro opciones de respuesta. Cubre verbos de acción como play, swim, watch, eat, sit, drink, run, walk, take a bath, ride a bike, speak English, listen, climb, jump, dance, fly, write, sing, draw, cook, drive y hug. Incluye tarjetas de power-ups para dar dinamismo.",
+    "url": "https://www.baamboozle.com/classic/1761606",
+    "duration": "10-15 minutos",
+    "objective": "Reconocer y nombrar verbos de acción comunes a partir de imágenes, como vocabulario de apoyo para el presente continuo (Unit 3).",
+    "instructions": [
+      "Divida a la clase en equipos y proyecte el juego.",
+      "Por turnos, un equipo elige una tarjeta y los estudiantes identifican el verbo que muestra la imagen o GIF entre las cuatro opciones.",
+      "Pida al equipo que diga el verbo en voz alta y que lo use en una oración corta (por ejemplo, \"He is swimming\" cuando ya se esté practicando el presente continuo).",
+      "Sume puntos por cada respuesta correcta y aplique las tarjetas de power-up según las reglas de Baamboozle.",
+      "Al final, repase en grupo los verbos que generaron más errores."
+    ],
+    "variations": [
+      "Pedir a los estudiantes que hagan mímica del verbo antes de responder.",
+      "Usarlo como warm-up antes de practicar el presente continuo, pidiendo oraciones con \"is/are + verbo-ing\".",
+      "Pedir a cada equipo que agregue un verbo de acción nuevo que no aparezca en el juego."
+    ],
+    "platform": "Baamboozle",
+    "resourceType": "Juego de equipos",
+    "tags": [
+      "action verbs",
+      "vocabulary",
+      "warm-up",
+      "baamboozle",
+      "present continuous",
+      "A1.2",
+      "unit 3"
+    ],
+    "active": true
+  }
 ]
