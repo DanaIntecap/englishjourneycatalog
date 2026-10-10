@@ -3820,54 +3820,36 @@
   "active": true
 },
   {
-    "id": 100,
-    "title": "Story Dice (Dave Birss)",
-    "level": [
-      "A1",
-      "A2",
-      "B1"
-    ],
-    "subLevel": [],
-    "unit": [],
-    "skill": [
-      "Speaking",
-      "Writing",
-      "Vocabulary"
-    ],
-    "description": "Herramienta gratuita en línea de dados virtuales con ilustraciones aleatorias (sets de 5 o 9 dados, más de 50 opciones por dado). Al hacer clic se lanzan los dados y los estudiantes inventan una historia que incluya cada objeto, más o menos en el orden en que aparecen. Sin registro.",
-    "url": "https://davebirss.com/storydice/",
-    "duration": "20-30 minutos",
-    "objective": "Producir historias orales o escritas a partir de imágenes aleatorias, activando vocabulario de objetos y practicando estructuras adecuadas al nivel (oraciones simples en A1, narración en pasado en A2, conectores y detalles en B1), mientras se fomenta la creatividad y la fluidez.",
-    "instructions": [
-      "En grupos, los estudiantes comentan qué vocabulario de objetos ya conocen y eligen en conjunto las 10 palabras más comunes.",
-      "Proyecte la herramienta y elija un set de 5 dados (más sencillo) o de 9 dados (más desafiante); haga clic para lanzarlos.",
-      "Los estudiantes nombran en voz alta los objetos que aparecen en los dados.",
-      "En parejas o grupos pequeños, crean una historia que incluya cada objeto, aproximadamente en el orden en que aparecen. Los objetos también pueden usarse de forma metafórica.",
-      "Cada grupo cuenta su historia a la clase o la escribe en su cuaderno; el resto escucha e identifica los objetos mencionados.",
-      "Relance los dados y repita la actividad con una nueva combinación."
-    ],
-    "variations": [
-      "A1: una oración simple por dado, en presente simple, con apoyo de un banco de palabras en el pizarrón.",
-      "A2: contar la historia en pasado simple usando secuenciadores (first, then, after that, finally).",
-      "B1: añadir conectores (because, however, so) y descripciones; escribir la historia en un párrafo.",
-      "Cada estudiante lanza los dados desde su celular y compara su historia con la de su compañero.",
-      "Cadena de historia: cada estudiante agrega una oración usando el siguiente dado."
-    ],
-    "platform": "Story Dice (davebirss.com)",
-    "resourceType": "Herramienta interactiva en línea / actividad de storytelling oral y escrito",
-    "tags": [
-      "story dice",
-      "storytelling",
-      "creative writing",
-      "speaking",
-      "vocabulary",
-      "warm-up",
-      "A1",
-      "A2",
-      "B1"
-    ],
-    "active": true
-  },
+  "id": 100,
+  "title": "Story Dice: Improvisación y Storytelling (Dave Birss)",
+  "level": ["A2", "B1"],
+  "subLevel": ["A2.1", "A2.2", "B1.1", "B1.3"],
+  "unit": [],
+  "skill": ["Speaking", "Vocabulary"],
+  "description": "Herramienta gratuita en línea de dados virtuales con ilustraciones aleatorias (sets de 5 o 9 dados, más de 50 opciones por dado). Los estudiantes lanzan los dados e improvisan oralmente una historia que incluya cada objeto, más o menos en el orden en que aparecen. Sin registro.",
+  "url": "https://davebirss.com/storydice/",
+  "duration": "15-25 minutos",
+  "objective": "Desarrollar fluidez, creatividad y espontaneidad al hablar mediante la improvisación de historias a partir de imágenes aleatorias, usando tiempos del pasado, secuenciadores y conectores según el nivel.",
+  "instructions": [
+    "En grupos, los estudiantes comentan qué vocabulario de objetos ya conocen y eligen en conjunto las 10 palabras más comunes.",
+    "Proyecte la herramienta y elija un set de 5 dados (más sencillo) o de 9 dados (más desafiante); haga clic para lanzarlos.",
+    "Dé 30 segundos de preparación (o ninguno, para mayor reto de improvisación) y pida a un estudiante o pareja que cuente una historia que incluya cada objeto, aproximadamente en el orden en que aparecen. Los objetos también pueden usarse de forma metafórica.",
+    "Mientras un estudiante habla, el resto escucha e identifica los objetos que se mencionan.",
+    "Relance los dados y repita con otro estudiante o grupo, rotando los turnos.",
+    "Cierre con retroalimentación breve sobre fluidez, vocabulario y estructuras usadas (por ejemplo, pasado simple, first/then/finally)."
+  ],
+  "variations": [
+    "Cadena de historia: cada estudiante agrega una o dos oraciones usando el siguiente dado.",
+    "Improvisación en parejas con límite de tiempo (por ejemplo, 1 minuto por historia).",
+    "Pedir que la historia incluya un conector o estructura específica (because, however, when).",
+    "Grabar las historias con el celular para que los estudiantes se autoevalúen.",
+    "Pasar de la versión oral a una versión escrita de la historia como tarea."
+  ],
+  "platform": "Story Dice (davebirss.com)",
+  "resourceType": "Herramienta interactiva en línea / actividad de improvisación y storytelling oral",
+  "tags": ["story dice", "storytelling", "improvisation", "speaking", "fluency", "vocabulary", "A2.1", "A2.2", "B1"],
+  "active": true
+},
   {
     "id": 101,
     "title": "Action Verbs (Baamboozle Game)",
@@ -3912,5 +3894,153 @@
       "unit 3"
     ],
     "active": true
-  }
+  },
+  {
+  "id": 102,
+  "title": "Listening: Describing Rooms (There is/There are, Prepositions of Place)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["4"],
+  "skill": ["Listening", "Grammar", "Vocabulary"],
+  "description": "Test de listening de Test-English (A1) donde los estudiantes escuchan a cinco personas describir habitaciones de sus casas (dormitorio, cocina, sala, estudio y comedor) y deben adivinar de qué habitación se trata eligiendo entre tres imágenes. Trabaja there is/there are, preposiciones de lugar y vocabulario de muebles y objetos de la casa.",
+  "url": "https://test-english.com/listening/a1/describing-rooms-there-is-are-prepositions-of-place-a1-english-listening-test/",
+  "duration": "10-15 minutos",
+  "objective": "Comprender descripciones orales de habitaciones e identificar la correcta a partir de there is/there are y preposiciones de lugar (in, on, next to, between, in front of).",
+  "instructions": [
+    "Antes de escuchar, repase brevemente el vocabulario de habitaciones y muebles, y las preposiciones de lugar.",
+    "Lea la instrucción con el grupo: escucharán a cinco personas describir habitaciones de su casa.",
+    "Reproduzca cada audio y pida a los estudiantes que elijan la imagen (A, B o C) que corresponde a la habitación descrita.",
+    "Revise las respuestas en grupo, pidiendo que justifiquen su elección con una oración (por ejemplo, \"There is a bed next to the window\").",
+    "Cierre pidiendo que, en parejas, un estudiante describa una habitación y el otro adivine cuál es."
+  ],
+  "variations": [
+    "Reproducir el audio una segunda vez pidiendo que anoten los objetos y las preposiciones que escuchan.",
+    "Pedir a los estudiantes que describan su propia habitación sin decir cuál es, para que sus compañeros la adivinen.",
+    "Dividir a la clase en equipos y dar un punto por cada habitación identificada y justificada correctamente."
+  ],
+  "platform": "Test-English",
+  "resourceType": "Listening con quiz",
+  "tags": ["listening", "there is/there are", "prepositions of place", "rooms", "house vocabulary", "guess the room", "A1.2", "unit 4"],
+  "active": true
+},
+  {
+  "id": 103,
+  "title": "Video: Daily Routine for Beginners (Shadowing Practice)",
+  "level": ["A1"],
+  "subLevel": ["A1.1", "A1.2"],
+  "unit": ["5"],
+  "skill": ["Speaking", "Listening", "Pronunciation"],
+  "description": "Video corto de YouTube (1:15 minutos) del canal de Emily, \"Daily routine for beginners | English speaking and listening practice\", con oraciones de rutina diaria subtituladas para que los estudiantes las lean, escuchen y repitan. Ideal para practicar shadowing, pronunciación, ritmo y entonación.",
+  "url": "https://www.youtube.com/watch?v=-8IJQXY2uFA",
+  "duration": "10-15 minutos",
+  "objective": "Practicar la pronunciación, el ritmo y la entonación de oraciones sobre rutinas diarias mediante shadowing: escuchar, leer los subtítulos y repetir en voz alta junto con el video.",
+  "instructions": [
+    "Antes de ver el video, pida a los estudiantes que mencionen en grupo las actividades de su rutina diaria que ya saben decir en inglés y elijan entre todos las 10 más comunes.",
+    "Reproduzca el video completo una vez para que los estudiantes escuchen y lean los subtítulos, sin repetir.",
+    "Explique el shadowing: repetir en voz alta cada oración inmediatamente después de escucharla, imitando la pronunciación y la entonación.",
+    "Reproduzca el video de nuevo, pausando después de cada oración para que el grupo la repita en coro.",
+    "Pida a los estudiantes que repitan el video una tercera vez en voz baja o en parejas, practicando al mismo tiempo que el audio.",
+    "Cierre pidiendo que cada estudiante diga dos o tres oraciones propias sobre su rutina usando el modelo del video."
+  ],
+  "variations": [
+    "Repetir el shadowing con los subtítulos ocultos en una segunda ronda para ganar fluidez.",
+    "Grabar a los estudiantes repitiendo las oraciones para que se autoevalúen o comparen con el audio original.",
+    "Reducir la velocidad del video (0.75x) en A1.1 y volver a velocidad normal en A1.2.",
+    "Usarlo como warm-up al inicio de varias clases de la unidad 5 para reforzar la retención."
+  ],
+  "platform": "YouTube",
+  "resourceType": "Video corto con subtítulos para shadowing",
+  "tags": ["shadowing", "daily routine", "pronunciation", "listening", "speaking", "video", "warm-up", "A1.1", "A1.2", "unit 5"],
+  "active": true
+},
+  {
+  "id": 104,
+  "title": "There is/There are + Present Progressive: Describe and Guess (Baamboozle Game)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["3", "4"],
+  "skill": ["Speaking", "Grammar", "Vocabulary"],
+  "description": "Juego de Baamboozle con tarjetas de imágenes variadas (puntajes de 5 a 25) cuya consigna es describir cada imagen usando there is/there are. Se adapta para practicar también el presente progresivo (what people are doing) en una actividad comunicativa de describir y adivinar.",
+  "url": "https://www.baamboozle.com/game/1805089",
+  "duration": "20-25 minutos",
+  "objective": "Describir imágenes oralmente usando there is/there are y el presente progresivo, y comprender las descripciones de un compañero para adivinar de qué imagen se trata.",
+  "instructions": [
+    "En grupos, los estudiantes comentan qué vocabulario de objetos, lugares y acciones ya conocen y eligen en conjunto las 10 palabras más comunes que podrían aparecer en las imágenes.",
+    "Repase con el grupo el modelo: there is/there are para decir qué hay (\"There is a dog in the park\") y is/are + verbo-ing para decir qué hacen las personas (\"A girl is riding a bike\").",
+    "Divida a la clase en equipos. Un estudiante del equipo A ve la imagen elegida en el proyector o en la pantalla del docente, y los demás de su equipo le dan la espalda a la pantalla.",
+    "El estudiante que ve la imagen la describe en voz alta, sin nombrar directamente lo principal (por ejemplo, sin decir \"zoo\"), usando al menos dos oraciones con there is/there are y una con presente progresivo.",
+    "Su equipo escucha y adivina qué imagen o lugar es, haciendo preguntas de sí/no si lo necesita (\"Is there a lake?\", \"Are they eating?\").",
+    "Si adivinan, ganan los puntos de la tarjeta; si no, el equipo B puede robar los puntos describiendo la misma imagen con otras oraciones.",
+    "Rote los turnos para que todos los estudiantes describan al menos una vez, y cierre revisando en grupo las oraciones más difíciles."
+  ],
+  "variations": [
+    "En parejas: cada estudiante abre una tarjeta diferente en su celular, la describe y su compañero adivina cuál es entre varias opciones que el docente proyecta.",
+    "Pedir una descripción de 30 segundos con un mínimo de cuatro oraciones antes de que los compañeros puedan adivinar.",
+    "Descripción en cadena: cada miembro del equipo agrega una oración nueva sobre la misma imagen.",
+    "Pasar a la versión escrita: los estudiantes escriben un párrafo corto describiendo la imagen que más les gustó."
+  ],
+  "platform": "Baamboozle",
+  "resourceType": "Juego de equipos con imágenes (describir y adivinar)",
+  "tags": ["there is/there are", "present progressive", "describing pictures", "guessing game", "speaking", "baamboozle", "A1.2", "unit 3", "unit 4"],
+  "active": true
+},
+  {
+  "id": 105,
+  "title": "In the Swimming Pool! (Wordwall: There is/There are + Present Progressive)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["3", "4"],
+  "skill": ["Speaking", "Vocabulary", "Grammar"],
+  "description": "Diagrama etiquetado de Wordwall con una imagen divertida y peculiar de una piscina (crédito de la imagen: \"Silly Swim\", Highlights Puzzlemania; actividad creada por Rfavant). Los estudiantes arrastran 16 etiquetas a su lugar en la imagen (princess, rats, sea lion, shark, snowman, octopus, cat, ice, pencil, door, glasses, puppy, book, watches, socks, hat) y luego usan la imagen para describir y hacer preguntas con there is/there are y el presente progresivo.",
+  "url": "https://wordwall.net/resource/112242671/in-the-swimming-pool-image-credit-silly-swim-highlights",
+  "duration": "8 minutos",
+  "objective": "Describir una imagen con elementos inusuales usando there is/there are y el presente progresivo, y formular preguntas sobre ella, reforzando el vocabulario de objetos y animales.",
+  "instructions": [
+    "Proyecte la imagen y pida a los estudiantes que, en parejas, digan en 30 segundos qué elementos ya reconocen y elijan los 10 que les parezcan más comunes.",
+    "Complete la parte de diagrama etiquetado en grupo: un estudiante arrastra cada etiqueta a su lugar y la clase confirma si es correcto.",
+    "En parejas, cada estudiante dice tres oraciones sobre lo que hay en la imagen con there is/there are (por ejemplo, \"There is a shark in the pool\", \"There are two rats near the door\").",
+    "Pida que describan qué hacen los personajes y animales con el presente progresivo (por ejemplo, \"The puppy is swimming\", \"The princess is reading a book\").",
+    "Pida que se hagan preguntas entre ellos sobre la imagen (\"Is there a cat in the pool?\", \"What is the snowman doing?\", \"How many rats are there?\") y las respondan.",
+    "Cierre con una ronda en que cada estudiante comparte la oración más divertida o peculiar que se le ocurrió."
+  ],
+  "variations": [
+    "Juego de adivinar: un estudiante describe un elemento de la imagen sin nombrarlo y su compañero adivina cuál es.",
+    "Describir la imagen en cadena: cada estudiante agrega una oración nueva sin repetir las anteriores.",
+    "Competencia por equipos: ganan un punto por cada oración correcta distinta con there is/there are o presente progresivo.",
+    "Pedir una versión escrita: cinco oraciones sobre la imagen para entregar o compartir."
+  ],
+  "platform": "Wordwall",
+  "resourceType": "Diagrama etiquetado con actividad de speaking (describir y preguntar)",
+  "tags": ["there is/there are", "present progressive", "describing pictures", "labelled diagram", "vocabulary", "speaking", "wordwall", "warm-up", "A1.2", "unit 3", "unit 4"],
+  "active": true
+},
+  {
+  "id": 106,
+  "title": "Listening: Giving Personal Information (Librarian and Visitor)",
+  "level": ["A1"],
+  "subLevel": ["A1.1"],
+  "unit": ["4"],
+  "skill": ["Listening", "Vocabulary"],
+  "description": "Test de listening de Test-English (A1) con una conversación entre una bibliotecaria y un visitante. Los estudiantes escuchan, toman nota y completan 7 preguntas: cinco escritas (nombre, apellido, año de nacimiento, teléfono y contraseña del Wi-Fi) y dos de opción múltiple (dirección y correo electrónico). Requiere escuchar deletreos y números para escribirlos correctamente.",
+  "url": "https://test-english.com/listening/a1/giving-personal-information-a1-english-listening-test/",
+  "duration": "10-15 minutos",
+  "objective": "Comprender y anotar información personal (nombres deletreados, números, direcciones, correos y contraseñas) a partir de una conversación real, practicando el alfabeto y los números en inglés.",
+  "instructions": [
+    "Antes de escuchar, repase con el grupo el alfabeto en inglés y los números, y recuerde cómo se dicen una dirección, un teléfono y un correo electrónico (por ejemplo, \"at\" y \"dot\").",
+    "Explique la tarea: escucharán una conversación entre una bibliotecaria y un visitante, y deben tomar nota de la información que dice el visitante.",
+    "Reproduzca la conversación una primera vez para que los estudiantes escuchen el contexto general, sin escribir.",
+    "Reproduzca de nuevo mientras los estudiantes completan las respuestas escritas (nombre, apellido, año de nacimiento, teléfono, contraseña) y eligen las opciones de dirección y correo electrónico.",
+    "Revise las respuestas en grupo, pidiendo a los estudiantes que deletreen en voz alta los nombres y la contraseña.",
+    "Cierre con una práctica en parejas: cada estudiante dicta sus propios datos (nombre deletreado, teléfono, correo) y su compañero los anota; luego comparan."
+  ],
+  "variations": [
+    "Pedir que cada estudiante invente una identidad con datos ficticios y se los dicte a su compañero como en la conversación.",
+    "Reproducir el audio una vez más y pedir que anoten también cualquier otro dato que escuchen.",
+    "Competencia por equipos: gana el equipo que anote correctamente más datos deletreados en menos tiempo."
+  ],
+  "platform": "Test-English",
+  "resourceType": "Listening con quiz (completar y opción múltiple)",
+  "tags": ["listening", "personal information", "spelling", "alphabet", "numbers", "note-taking", "A1.1", "unit 4"],
+  "active": true
+}
 ]
