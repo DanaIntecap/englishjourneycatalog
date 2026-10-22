@@ -3733,7 +3733,7 @@
     "unit": 3,
     "skill": ["Listening", "Grammar"],
     "description": "Actividad de comprensión auditiva y gramática basada en la canción 'Lemon Tree' de Fools Garden. Incluye ejercicios interactivos de rellenar espacios en blanco (fill in the blanks), conjugación verbal (Present Continuous y Simple Present) y análisis de estructuras gramaticales en contexto.",
-    "url": "https://sites.google.com/view/englishforawholelife/english-resources/listening/a1-2/unit-3",
+    "url": "https://sites.google.com/view/englishforawholelife/english-resources/a1-2/listening/unit-3#h.8imthnh0r3zj",
     "duration": "10-15 min",
     "objective": "Desarrollar la discriminación auditiva mediante la letra de una canción y reforzar la conjugación de verbos en presente continuo y presente simple mediante ejercicios de completar espacios.",
     "instructions": "Escucha la canción 'Lemon Tree'. Completa los espacios en blanco de la letra con la forma verbal correcta (am/is/are + -ing o presente simple). Luego, resuelve los ejercicios gramaticales y verifica tus respuestas.",
@@ -4042,5 +4042,82 @@
   "resourceType": "Listening con quiz (completar y opción múltiple)",
   "tags": ["listening", "personal information", "spelling", "alphabet", "numbers", "note-taking", "A1.1", "unit 4"],
   "active": true
+},
+{
+  "id": 107,
+  "title": "HT A1.2 U5 – Simple Present (Units 5 & 6)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["5", "6"],
+  "skill": ["Grammar"],
+  "description": "Handout imprimible basado en Macmillan English Essential, unidades 5 y 6. Explica el presente simple de forma sencilla, las reglas de conjugación de la tercera persona (he/she/it: -s, -es, consonante + y, has), las negativas y preguntas con do/does y los adverbios de frecuencia. Incluye oraciones para completar, una actividad para ordenar oraciones con adverbios de frecuencia y las respuestas. Conveniente para los participantes que desean tener una guía impresa.",
+  "url": "https://claude.ai/code/artifact/9b104887-1cb4-4af9-bd0c-429d53a46a85",
+  "duration": "30-40 minutos",
+  "objective": "Usar correctamente el presente simple para hablar de rutinas y hábitos, aplicar las reglas de la tercera persona singular y ubicar correctamente los adverbios de frecuencia en las oraciones.",
+  "instructions": [
+    "Entregue el handout impreso o compártalo en formato digital, y repase con el grupo las secciones 1 a 4 (reglas del presente simple, tercera persona, negativas y preguntas, adverbios de frecuencia).",
+    "En grupos, pida a los estudiantes que mencionen qué verbos y rutinas diarias ya conocen en inglés y elijan entre todos las 10 más comunes; escríbalas en la pizarra.",
+    "Los estudiantes completan la Práctica 1 (fill in the blanks, Partes A y B) de forma individual.",
+    "Los estudiantes completan la Práctica 2 (ordenar las oraciones con adverbios de frecuencia) de forma individual o en parejas.",
+    "Revise las respuestas en grupo con la clave de respuestas, aclarando los errores más comunes (especialmente la -s de la tercera persona y la posición de los adverbios)."
+  ],
+  "variations": [
+    "Entregarlo como guía impresa para llevar a casa como material de estudio.",
+    "Convertir la Práctica 1 en una carrera por equipos con tiempo límite.",
+    "Pedir a los estudiantes que escriban 5 oraciones sobre su propia rutina usando distintos adverbios de frecuencia."
+  ],
+  "platform": "OneDrive document (printable)",
+  "resourceType": "Handout imprimible de gramática",
+  "tags": [
+    "simple present",
+    "third person",
+    "do/does",
+    "frequency adverbs",
+    "fill in the blanks",
+    "unscramble",
+    "printable",
+    "Macmillan",
+    "unit 5",
+    "unit 6"
+  ],
+  "active": true
+},
+  {
+  "id": 108,
+  "title": "Daily Routines Game",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["5"],
+  "skill": ["Vocabulary", "Grammar", "Listening"],
+  "description": "Juego interactivo (Games to Learn English) con imágenes y audio para practicar el vocabulario de rutinas diarias. Incluye 27 actividades cotidianas en tres rondas, desde levantarse hasta dormir, y tres pasos: reconocer la actividad en una imagen, responder a frases de tiempo y secuencia (first, next, after, then, finally; in the morning, in the afternoon, in the evening) y ordenar oraciones en presente simple.",
+  "url": "https://www.gamestolearnenglish.com/daily-routines/",
+  "duration": "15-20 minutos",
+  "objective": "Reconocer y usar vocabulario de rutinas diarias, secuenciar un día típico con conectores y construir oraciones en presente simple para hablar de hábitos y rutinas.",
+  "instructions": [
+    "Antes de jugar, pida a los estudiantes que mencionen en voz alta qué actividades de su rutina diaria ya saben decir en inglés y elijan entre todos las 10 más comunes; escríbalas en la pizarra.",
+    "Comparta pantalla con el juego y avance por el Paso 1 (reconocimiento de la actividad): los estudiantes escuchan el audio y relacionan el texto con la imagen correcta.",
+    "Continúe con el Paso 2 (tiempo y secuencia): los estudiantes responden a frases con momentos del día y conectores como first, next, after, then y finally.",
+    "Cierre el juego con el Paso 3 (construcción de oraciones): los estudiantes reordenan oraciones desordenadas en presente simple.",
+    "Actividad final: pida a los estudiantes que escriban o cuenten un párrafo corto sobre su rutina de la mañana usando los conectores del juego."
+  ],
+  "variations": [
+    "Asignar el juego como tarea mediante el Teacher Dashboard del sitio para dar seguimiento al progreso de cada estudiante.",
+    "Combinarlo con el Clock Game del mismo sitio para agregar horas específicas a las actividades.",
+    "Pedir a los estudiantes que, en parejas, compartan su rutina oral usando adverbios de frecuencia (always, usually, never)."
+  ],
+  "platform": "Games to Learn English",
+  "resourceType": "Juego interactivo",
+  "tags": [
+    "daily routines",
+    "simple present",
+    "vocabulary",
+    "sequencing words",
+    "listening",
+    "game",
+    "unit 5"
+  ],
+  "active": true
 }
+  
+  
 ]
