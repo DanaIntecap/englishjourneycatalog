@@ -4117,7 +4117,66 @@
     "unit 5"
   ],
   "active": true
+},
+  {
+  "id": 109,
+  "title": "Chalkie: There is/There are + Food (Interactive Fridge)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["4"],
+  "skill": ["Listening", "Speaking", "Vocabulary", "Grammar"],
+  "description": "Lección de Chalkie sobre there is/there are y vocabulario de comida, con una lección en audio y un refrigerador interactivo de Genially (creado por Sandra Cerezo) con alimentos manipulables. Después, los estudiantes colocan en su propio refrigerador las comidas del recurso y practican en parejas con Is there any...? y Are there any...? para decidir qué snack pueden preparar juntos.",
+  "url": "https://app.chalkie.ai/lessons/a30f461e-596e-4dd9-80f5-5b508699cc08",
+  "duration": "25-30 minutos",
+  "objective": "Usar there is/there are con some y any, y vocabulario de comida, para describir y preguntar qué hay en un refrigerador, mediante escucha, interacción con un recurso digital y una tarea comunicativa en parejas.",
+  "instructions": [
+    "En grupos, los estudiantes comentan qué vocabulario de comida ya conocen y eligen en conjunto las 10 palabras más comunes.",
+    "Reproduzca la lección en audio de Chalkie para introducir there is/there are con vocabulario de comida.",
+    "Abra el refrigerador interactivo de Genially (https://view.genially.com/63c2df486b29a70018ee4b16) y pida a los estudiantes que manipulen los alimentos y completen oraciones como \"In my fridge there is some...\" y \"In my basket there are some...\".",
+    "Pida a cada estudiante que \"llene\" su propio refrigerador con los alimentos que aparecen en el recurso.",
+    "En parejas, tarea comunicativa: With your partner, ask what is in your fridge using 'Is there any...?' and 'Are there any...?' Decide on one snack you can make together!",
+    "Cada pareja comparte con la clase el snack que decidió preparar y qué ingredientes tiene en su refrigerador."
+  ],
+  "variations": [
+    "Pedir que respondan con respuestas completas, incluyendo la forma negativa (\"There isn't any milk\", \"There aren't any eggs\").",
+    "Cada pareja prepara un menú escrito con el snack y sus ingredientes, y lo presenta a otro grupo.",
+    "Limitar los alimentos de cada refrigerador (por ejemplo, solo cinco) para que tengan que negociar qué snack es posible.",
+    "Usar solo la parte del refrigerador de Genially y la tarea en parejas como actividad de repaso en otra sesión."
+  ],
+  "platform": "Chalkie + Genially",
+  "resourceType": "Lección interactiva con audio y tarea comunicativa en parejas",
+  "tags": ["there is/there are", "some/any", "food vocabulary", "fridge", "genially", "chalkie", "listening", "speaking", "pair work", "A1.2", "unit 4"],
+  "active": true
+},
+  {
+  "id": 110,
+  "title": "Genially: What's in My Fridge? (Listen and Place the Food)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["4"],
+  "skill": ["Listening", "Vocabulary", "Speaking"],
+  "description": "Actividad interactiva de Genially (creada por Natalia Berezina) en la que los estudiantes escuchan un audio sobre tres personajes (Amy, Mike y Luis) y colocan los alimentos y bebidas en el refrigerador correcto de cada persona. Incluye una clasificación de contables y no contables y una parte final para colocar comidas que les gustan y explicar por qué.",
+  "url": "https://view.genially.com/662e847e45ed00001450aa45",
+  "duration": "15-20 minutos",
+  "objective": "Comprender un audio sobre lo que tiene cada persona en su refrigerador, identificar vocabulario de comida y bebida (contable y no contable) y expresar oralmente qué comidas les gustan y por qué.",
+  "instructions": [
+    "En grupos, los estudiantes comentan qué vocabulario de comida y bebida ya conocen y eligen en conjunto las 10 palabras más comunes.",
+    "Proyecte la actividad y explique la consigna: \"Listen and put the food and drinks into the correct fridge\".",
+    "Reproduzca el audio y pida a los estudiantes que, uno por uno o por equipos, coloquen los alimentos y bebidas en el refrigerador de Amy, Mike o Luis.",
+    "Revise las respuestas en grupo y pida que justifiquen con una oración (por ejemplo, \"Amy has some milk\" o \"There is some cheese in Mike's fridge\").",
+    "Realice la parte final: los estudiantes colocan en el refrigerador la comida que les gusta y explican a un compañero por qué.",
+    "Cierre pidiendo que, en parejas, comparen qué alimentos tienen en común."
+  ],
+  "variations": [
+    "Reproducir el audio una segunda vez sin mirar la pantalla y pedir que anoten los alimentos que escuchan antes de colocarlos.",
+    "Pedir que clasifiquen los alimentos como contables o no contables y los usen con a/an y some.",
+    "Usarla como paso previo a la actividad de refrigerador interactivo (entrada 109) para reforzar vocabulario.",
+    "Pedir que cada estudiante invente un cuarto personaje y diga qué tendría en su refrigerador."
+  ],
+  "platform": "Genially",
+  "resourceType": "Actividad interactiva de listening con arrastrar y soltar",
+  "tags": ["fridge", "food vocabulary", "countable and uncountable", "listening", "interactive", "genially", "speaking", "A1.2", "unit 4"],
+  "active": true
 }
-  
   
 ]
