@@ -4177,6 +4177,94 @@
   "resourceType": "Actividad interactiva de listening con arrastrar y soltar",
   "tags": ["fridge", "food vocabulary", "countable and uncountable", "listening", "interactive", "genially", "speaking", "A1.2", "unit 4"],
   "active": true
+},
+  {
+  "id": 111,
+  "title": "Worksheet: How Often Do You...? (Adverbs of Frequency)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["6"],
+  "skill": ["Grammar", "Listening"],
+  "description": "Worksheet interactivo de LiveWorksheets para completar espacios en blanco sobre how often, con dos audios. Practica adverbios de frecuencia definida (every day, once a week, twice a month) y de frecuencia indefinida (always, usually, sometimes, never) para hablar de la frecuencia con que se hacen las actividades.",
+  "url": "https://www.liveworksheets.com/worksheet/en/esl-grammar/699332",
+  "duration": "15-20 minutos",
+  "objective": "Usar adverbios de frecuencia definida e indefinida para responder y formular preguntas con How often...?, completando oraciones a partir de la gramática y de dos audios.",
+  "instructions": [
+    "En grupos, los estudiantes comentan qué actividades y adverbios de frecuencia ya conocen y eligen en conjunto los 10 más comunes.",
+    "Repase con el grupo la diferencia entre frecuencia definida (every day, once a week, twice a month) e indefinida (always, usually, sometimes, never).",
+    "Los estudiantes completan los espacios en blanco del worksheet con el adverbio o expresión adecuada.",
+    "Reproduzcan los dos audios para completar o verificar las respuestas, y revisen en grupo.",
+    "Cierre con una práctica oral en parejas: se preguntan \"How often do you...?\" sobre sus rutinas y responden usando ambos tipos de adverbios."
+  ],
+  "variations": [
+    "Pedir que escriban cinco oraciones propias sobre sus rutinas, mezclando frecuencia definida e indefinida.",
+    "Hacer una encuesta en clase con How often...? y presentar los resultados (por ejemplo, \"Most students usually...\").",
+    "Usarlo como seguimiento del recurso de rutinas diarias de la misma unidad para reforzar la gramática."
+  ],
+  "platform": "LiveWorksheets",
+  "resourceType": "Worksheet interactivo con espacios en blanco y audio",
+  "tags": ["how often", "adverbs of frequency", "definite frequency", "indefinite frequency", "fill in the blanks", "listening", "liveworksheets", "A1.2", "unit 6"],
+  "active": true
+},
+  {
+  "id": 112,
+  "title": "Worksheet: How Often...? Complete the Questions (Do/Does)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["6"],
+  "skill": ["Grammar", "Speaking"],
+  "description": "Worksheet interactivo de TopWorksheets en el que los estudiantes completan preguntas con How often usando do y does, según el sujeto. Después eligen cinco preguntas y se las hacen a un compañero para practicar la frecuencia con la que realizan sus actividades.",
+  "url": "https://www.topworksheets.com/en/english-language/grammar/how-often-complete-questions-6209dccbb03c0",
+  "duration": "15-20 minutos",
+  "objective": "Formar correctamente preguntas con How often + do/does en presente simple y usarlas en una conversación en parejas para hablar de rutinas y frecuencia.",
+  "instructions": [
+    "En grupos, los estudiantes comentan qué actividades y rutinas ya saben decir en inglés y eligen en conjunto las 10 más comunes.",
+    "Repase con el grupo cuándo se usa do (I, you, we, they) y does (he, she, it) en las preguntas con How often.",
+    "Los estudiantes completan las preguntas del worksheet con do o does y verifican sus respuestas.",
+    "Cada estudiante elige cinco preguntas del worksheet que le parezcan interesantes.",
+    "En parejas, se hacen las cinco preguntas y responden con adverbios de frecuencia (always, usually, sometimes, never) o con expresiones como once a week o every day.",
+    "Cierre pidiendo que cada estudiante comparta una respuesta interesante de su compañero usando does (por ejemplo, \"Ana usually goes to the gym on Mondays\")."
+  ],
+  "variations": [
+    "Pedir que cada estudiante invente tres preguntas nuevas con How often y las agregue a su lista.",
+    "Hacer una encuesta con toda la clase y presentar los resultados (por ejemplo, \"Most students never...\").",
+    "Rotar las parejas después de cada pregunta para practicar con varios compañeros.",
+    "Usarlo como seguimiento del worksheet de adverbios de frecuencia (entrada 111) para pasar de la gramática a la conversación."
+  ],
+  "platform": "TopWorksheets",
+  "resourceType": "Worksheet interactivo con actividad de speaking en parejas",
+  "tags": ["how often", "do/does", "present simple questions", "adverbs of frequency", "pair work", "speaking", "topworksheets", "A1.2", "unit 6"],
+  "active",: true
+},
+  {
+  "id": 113,
+  "title": "Listening Quiz: Sarah's Routine (Frequency Adverbs)",
+  "level": ["A1"],
+  "subLevel": ["A1.2"],
+  "unit": ["6"],
+  "skill": ["Listening", "Grammar"],
+  "description": "Quiz de listening de ESL Video (nivel Low Beginning) con un video de YouTube sobre la rutina de Sarah. Los estudiantes escuchan y responden 9 preguntas de opción múltiple de tres opciones sobre qué hace Sarah y con qué frecuencia, practicando adverbios de frecuencia (always, usually, ever, never, sometimes). Incluye transcripción.",
+  "url": "https://eslvideo.com/quiz.php?id=47762",
+  "duration": "15-20 minutos",
+  "objective": "Comprender un video sobre una rutina diaria e identificar adverbios de frecuencia para responder preguntas sobre qué hace una persona y con qué frecuencia.",
+  "instructions": [
+    "En grupos, los estudiantes comentan qué actividades de rutina y adverbios de frecuencia ya conocen y eligen en conjunto los 10 más comunes.",
+    "Repase brevemente la escala de adverbios de frecuencia (always, usually, sometimes, never) y su posición en la oración.",
+    "Reproduzca el video una primera vez para que los estudiantes comprendan la idea general, sin responder.",
+    "Reproduzca el video de nuevo mientras los estudiantes responden el quiz de opción múltiple.",
+    "Revise las respuestas en grupo y use la transcripción para confirmar las respuestas que generaron dudas.",
+    "Cierre con una práctica oral en parejas: cada estudiante describe su propia rutina con adverbios de frecuencia y su compañero hace una pregunta (\"Do you ever...?\")."
+  ],
+  "variations": [
+    "Pedir que, después del quiz, escriban cinco oraciones sobre la rutina de Sarah con adverbios de frecuencia.",
+    "Hacer una versión de dictado: reproducir el video sin mostrar el quiz y pedir que anoten los adverbios que escuchan.",
+    "Pedir que comparen su rutina con la de Sarah (\"Sarah always makes coffee, but I never make coffee\").",
+    "Usarlo como seguimiento de los worksheets de how often de la misma unidad (entradas 111 y 112)."
+  ],
+  "platform": "ESL Video",
+  "resourceType": "Video con quiz de opción múltiple y transcripción",
+  "tags": ["frequency adverbs", "daily routine", "listening", "quiz", "video", "eslvideo", "A1.2", "unit 6"],
+  "active": true
 }
   
 ]
